@@ -1,0 +1,8 @@
+<ul class="tags">All tags: 
+{% for tag in site.iterable.tags %}
+  <li>
+  <a href="{{site.baseurl}}/tags/{{tag.name}}">
+    {{ tag.name }}</a>
+  </li>
+{% endfor %}
+</ul>

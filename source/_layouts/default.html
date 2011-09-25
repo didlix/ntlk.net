@@ -1,13 +1,37 @@
 {% capture root_url %}{{ site.root | strip_slash }}{% endcapture %}
 {% include head.html %}
-<body {% if page.body_id %} id="{{ page.body_id }}" {% endif %} {% if page.sidebar == false %} class="no-sidebar" {% endif %}>
-  <header>{% include header.html %}</header>
-  <nav role=navigation>{% include navigation.html %}</nav>
-  <div id="main">
-    <div id="content">
-      {{ content | expand_urls: root_url | backtick_codeblock | smart_quotes }}
-    </div>
-  </div>
-  <footer>{% include footer.html %}</footer>
-</body>
+  <body>
+    <div id="wrapper">
+      <header>
+        <a href="/"><img src="/images/resistance-logo-tiny.png" id="logo" alt="Personal thoughts"></a>
+        <h1 id="site-title" class="visuallyhidden">Personal thoughts</h1>
+      </header>
+
+      {% if page.title != "ntlk's blog" %}
+      <h2>{{ page.title }}</h2>
+      {% endif %}
+      <div class="post page">
+        {{ content | expand_urls: root_url | backtick_codeblock | smart_quotes }}
+      </div>
+      
+      
+      <footer>
+        {% include footer.html %}
+      </footer>
+    </div><!-- wrapper -->  
+    
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-24336732-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+    </script>
+  </body>
 </html>

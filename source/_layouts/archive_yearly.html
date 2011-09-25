@@ -1,0 +1,19 @@
+---
+layout: default
+category: archive
+---
+
+<section id="archive">
+<h2>Posts written in {{ page.year }}</h2>
+
+{% for m in (1..12) %}{% if site.collated_posts[page.year][m] %}
+	<section id="{{ m }}">
+    <h2 class="title">{{ m | to_month }}</h2>
+    <ul>{% for d in (1..31) %}{% if site.collated_posts[page.year][m][d] %}{% for p in site.collated_posts[page.year][m][d] %}
+        <li>
+			<h3><a id="{{ m }}" href='{{ p.url }}'>{{ p.title }}</a> <time datetime="{{ p.date | date: "%Y-%m-%d"  }}" class="date">{{ p.date | date_to_long_string }}</time></h3>
+		</li>{% endfor %}{% endif %}{% endfor %}
+    </ul>
+</section>{% endif %}{% endfor %}
+</section>
+
