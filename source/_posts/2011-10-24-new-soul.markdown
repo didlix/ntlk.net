@@ -1,0 +1,12 @@
+---
+layout: post
+title: "New Soul"
+date: 2011-10-24 21:37
+comments: true
+categories: 
+---
+<iframe src="http://player.vimeo.com/video/30979928?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="500" height="281" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
+
+My husband Sam and his team mate Steve have been working on their new album for the last few month. They are looking for some financial help with finishing it. I would love it if you could check out their project on [Sponsume][1], and if you like it, please share the link with your friends. Thanks!
+
+[1]: http://sponsume.com/project/new-soul-1/
