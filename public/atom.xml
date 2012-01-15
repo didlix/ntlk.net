@@ -4,13 +4,139 @@
   <title>ntlk&#8217;s blog</title>
   <link href="http://blog.nataliabuckley.co.uk/atom.xml" rel="self"/>
   <link href="http://blog.nataliabuckley.co.uk/"/>
-  <updated>2011-11-21T20:04:08+00:00</updated>
+  <updated>2012-01-15T20:25:51+00:00</updated>
   <id>http://blog.nataliabuckley.co.uk/</id>
   <author>
     <name>ntlk</name>
     
   </author>
 
+  
+  <entry>
+    <title>Drawing robots roundup</title>
+    <link href="http://blog.nataliabuckley.co.uk/2012/01/15/drawing-robots-roundup"/>
+    <updated>2012-01-15T09:58:00+00:00</updated>
+    <id>http://blog.nataliabuckley.co.uk/2012/01/15/drawing-robots-roundup</id>
+    <content type="html">&lt;p&gt;I intend to build a drawing robot soon as a part of a bigger project that will hopefully culminate in a short animation. I have just been given a broken HP Deskjet D4260 so I already have a few parts I might need. I am not yet fully decided on which approach to take, so here&amp;#8217;s a roundup of different drawing machines to inspire me.&lt;/p&gt;
+
+&lt;h3&gt;Der Kritzler&lt;/h3&gt;
+
+&lt;iframe src=&quot;http://player.vimeo.com/video/28003302?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;Have I mentioned yet how much I love &lt;a href=&quot;http://tinkerlog.com/&quot;&gt;Alex Weber&amp;#8217;s projects&lt;/a&gt;? The one that led me to find his blog was &lt;a href=&quot;http://tinkerlog.com/2011/09/02/der-kritzler/&quot;&gt;Der Kritzler&lt;/a&gt; - a robot that draws on the windows. It uses a combination of &lt;a href=&quot;http://www.processing.org/&quot;&gt;Processing&lt;/a&gt;, &lt;a href=&quot;http://www.imagemagick.org/script/index.php&quot;&gt;ImageMagick&lt;/a&gt; and &lt;a href=&quot;http://potrace.sourceforge.net/&quot;&gt;Potrace&lt;/a&gt; to create the graphics and the movement of the bot itself is controlled by an Arduino. The device is suspended on notched tape which controls the movements.&lt;/p&gt;
+
+&lt;h3&gt;Hektor&lt;/h3&gt;
+
+&lt;iframe src=&quot;http://player.vimeo.com/video/15823044?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;500&quot; height=&quot;375&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://hektor.ch/&quot;&gt;Hektor&lt;/a&gt; was the project that made me fall in love with physical hacking, it&amp;#8217;s the first one of its kind that I could find - built in 2002. It&amp;#8217;s a small portable spraypainting device that can cover a huge wall area, but packs away into a small suitcase. Its construction directly inspired Der Kritzler - the spraycan&amp;#8217;s movements are controlled by toothed belts.&lt;/p&gt;
+
+&lt;h3&gt;Delta Robot&lt;/h3&gt;
+
+&lt;iframe src=&quot;http://player.vimeo.com/video/25924581?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;500&quot; height=&quot;375&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;Arduino-controlled suspended plotter. 3 arms are controlled by servos. I like this one a lot despite the lack of precision. Its creator, &lt;a href=&quot;https://plus.google.com/117437757896877369617&quot;&gt;Puiu Bogdan&lt;/a&gt;, &lt;a href=&quot;http://arduino.cc/forum/index.php/topic,65561.0.html&quot;&gt;explains&lt;/a&gt; that the concept itself results in very precise drawings, but his implementation still needs to be perfected. Since it took him 7 months to build this prototype I reckon it&amp;#8217;s a little too complicated for my purposes.&lt;/p&gt;
+
+&lt;h3&gt;3-Axis servo motor&lt;/h3&gt;
+
+&lt;iframe width=&quot;500&quot; height=&quot;339&quot; src=&quot;http://www.youtube.com/embed/v9x7Qdpp43M&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;Definitely can&amp;#8217;t make anything similar as I intend to use mine at home, but &lt;a href=&quot;http://www.embeddedtronics.com/uhuservo.html&quot;&gt;this is cool&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Senseless Drawing Robot&lt;/h3&gt;
+
+&lt;iframe src=&quot;http://player.vimeo.com/video/30780208?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://thisisnotagraffiti.tumblr.com/&quot;&gt;This bot&lt;/a&gt; built by &lt;a href=&quot;http://kannoso.org/&quot;&gt;So Kanno&lt;/a&gt; and &lt;a href=&quot;http://yang02.org/&quot;&gt;Takahiro Yamaguchi&lt;/a&gt; uses a double-pendulum to randomise its graphic output. Pretty awesome.&lt;/p&gt;
+
+&lt;h3&gt;Polargraph&lt;/h3&gt;
+
+&lt;iframe src=&quot;http://player.vimeo.com/video/24647023?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;500&quot; height=&quot;375&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+
+
+&lt;iframe width=&quot;500&quot; height=&quot;339&quot; src=&quot;http://www.youtube.com/embed/UT8p1kLz8PI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/user/euphyscott&quot;&gt;Euphyscott&lt;/a&gt; made this &lt;a href=&quot;http://www.polargraph.co.uk/&quot;&gt;polargraph&lt;/a&gt;. Although it&amp;#8217;s very slow in drawing these types of images, the end result is pretty neat. Also, bonus points for posting the code and detailed process descriptions on the &lt;a href=&quot;http://www.polargraph.co.uk/&quot;&gt;polargraph&amp;#8217;s website&lt;/a&gt; and on &lt;a href=&quot;http://www.instructables.com/id/Polargraph-Drawing-Machine/&quot;&gt;Instructables&lt;/a&gt;. You can also &lt;a href=&quot;http://www.polargraph.co.uk/build-or-buy-a-machine/&quot;&gt;buy some of the bits used&lt;/a&gt; to build your own from Euphyscott.&lt;/p&gt;
+
+&lt;h3&gt;Interactive Robotic Painting Machine&lt;/h3&gt;
+
+&lt;iframe src=&quot;http://player.vimeo.com/video/23998286&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://bengrosser.com/&quot;&gt;Benjamin Grosser&lt;/a&gt;&amp;#8217;s &lt;a href=&quot;http://bengrosser.com/projects/interactive-robotic-painting-machine/&quot;&gt;creation&lt;/a&gt; listens to its surroundings and the sound input affects the decisions the AI makes in its painting process.&lt;/p&gt;
+
+&lt;h3&gt;Robo-rainbow&lt;/h3&gt;
+
+&lt;iframe src=&quot;http://player.vimeo.com/video/19374769?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://www.akayism.org/&quot;&gt;Akay&lt;/a&gt;&amp;#8217;s robo-rainbow was featured in &lt;a href=&quot;http://www.wired.co.uk/news/archive/2011-02/02/robo-rainbow&quot;&gt;Wired&lt;/a&gt; last year:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;A small circuit board featuring radio-controlled servos from a toy car drives the solenoids attached to each spray can, which in turn apply pressure to the nozzles. Both the arm and the spray cans are controlled using toy car&amp;#8217;s radio controller, allowing the user to move the arm in a smooth arc while spraying with each of the six spray cans simultaneously, creating a large rainbow painting within seconds.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;h3&gt;Pen plotter&lt;/h3&gt;
+
+&lt;object type=&quot;application/x-shockwave-flash&quot; width=&quot;500&quot; height=&quot;375&quot; data=&quot;http://www.flickr.com/apps/video/stewart.swf?v=109786&quot; classid=&quot;clsid:D27CDB6E-AE6D-11cf-96B8-444553540000&quot;&gt; &lt;param name=&quot;flashvars&quot; value=&quot;intl_lang=en-us&amp;photo_secret=3d4e830459&amp;photo_id=6295455826&quot;&gt;&lt;/param&gt; &lt;param name=&quot;movie&quot; value=&quot;http://www.flickr.com/apps/video/stewart.swf?v=109786&quot;&gt;&lt;/param&gt; &lt;param name=&quot;bgcolor&quot; value=&quot;#000000&quot;&gt;&lt;/param&gt; &lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;&gt;&lt;/param&gt;&lt;embed type=&quot;application/x-shockwave-flash&quot; src=&quot;http://www.flickr.com/apps/video/stewart.swf?v=109786&quot; bgcolor=&quot;#000000&quot; allowfullscreen=&quot;true&quot; flashvars=&quot;intl_lang=en-us&amp;photo_secret=3d4e830459&amp;photo_id=6295455826&quot; height=&quot;375&quot; width=&quot;500&quot;&gt;&lt;/embed&gt;&lt;/object&gt;
+
+
+&lt;p&gt;&lt;img src=&quot;http://farm7.staticflickr.com/6218/6294759696_7ed5be13f1.jpg&quot; alt=&quot;Pen plotter image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And last but not least, my favourite, built by &lt;a href=&quot;http://interlockroc.org/author/berticus/&quot;&gt;Berticus&lt;/a&gt;. This &lt;a href=&quot;http://interlockroc.org/2011/10/30/barcamp-rochester/&quot;&gt;pen plotter&lt;/a&gt; traces input from the webcam to create some really awesome &lt;a href=&quot;http://www.flickr.com/photos/bert_m_b/sets/72157628015314436/with/6294759696/&quot;&gt;portraits&lt;/a&gt;. Just look at them!&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Olly, the smelly robot</title>
+    <link href="http://blog.nataliabuckley.co.uk/2012/01/14/olly-the-smelly-robot"/>
+    <updated>2012-01-14T10:26:00+00:00</updated>
+    <id>http://blog.nataliabuckley.co.uk/2012/01/14/olly-the-smelly-robot</id>
+    <content type="html">&lt;iframe frameborder=&quot;0&quot; height=&quot;400px&quot; src=&quot;http://www.kickstarter.com/projects/1209578799/olly-the-web-connected-smelly-robot/widget/video.html&quot; width=&quot;500px&quot; style=&quot;margin-bottom: 0;&quot;&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;My lovely friends &lt;a href=&quot;http://twitter.com/Bredford2&quot;&gt;Ben Redford&lt;/a&gt; and &lt;a href=&quot;http://www.ofmyownaccord.co.uk/&quot;&gt;Chris Thomas&lt;/a&gt; have been working on this little bot at &lt;a href=&quot;http://mintdigital.com/&quot;&gt;Mint Digital&lt;/a&gt;. They&amp;#8217;ve even kept a &lt;a href=&quot;http://foundry.mintdigital.com/&quot;&gt;blog&lt;/a&gt; to document their explorations and process.&lt;/p&gt;
+
+&lt;p&gt;The project is now on Kickstarter, so if you like the idea of smelling your online notifications you should check out their &lt;a href=&quot;http://www.kickstarter.com/projects/1209578799/olly-the-web-connected-smelly-robot&quot;&gt;project page&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Discussing digital literacy on Techgrumps</title>
+    <link href="http://blog.nataliabuckley.co.uk/2011/12/30/discussing-digital-literacy-on-techgrumps"/>
+    <updated>2011-12-30T18:27:00+00:00</updated>
+    <id>http://blog.nataliabuckley.co.uk/2011/12/30/discussing-digital-literacy-on-techgrumps</id>
+    <content type="html">&lt;p&gt;Last night I was talking about teaching digital skills to kids with some very smart people on Techgrumps. You can find the podcast &lt;a href=&quot;https://techgrumps.wordpress.com/2011/12/29/techgrumps-51-noncomputing-for-generation-t/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Poetrybin</title>
+    <link href="http://blog.nataliabuckley.co.uk/2011/11/27/poetrybin"/>
+    <updated>2011-11-27T16:18:00+00:00</updated>
+    <id>http://blog.nataliabuckley.co.uk/2011/11/27/poetrybin</id>
+    <content type="html">&lt;p&gt;A few days ago I saw &lt;a href=&quot;https://twitter.com/unhaunting/status/139422971172368384&quot;&gt;this tweet&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm8.staticflickr.com/7166/6412166473_7b7edbf00e.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Internet identities were on my mind for a while. Most services we use require signing up, some with your real-life name and address, forbidding you from creating multiple personas for multiple facets of your personality. Having to prove who I am every time I want to talk to friends is &lt;span style=&quot;text-decoration: line-through&quot;&gt;a bit&lt;/span&gt; exactly like having to show my papers every time I speak, and having it logged by a third party.&lt;/p&gt;
+
+&lt;p&gt;Watch moot talk about these issues. He&amp;#8217;s really inspiring, and I completely agree with him: we need more choices in how our identities are represented.&lt;/p&gt;
+
+&lt;iframe width=&quot;500&quot; height=&quot;339&quot; src=&quot;http://www.youtube.com/embed/nbPASJiAfu4&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;I wish there were more spaces where you didn&amp;#8217;t have to create and maintain a persona. 4chan is just one example and I appreciate that some people may not like what goes on there. So in an attempt to redress the balance at least a tiny bit I made &lt;a href=&quot;http://poetrybin.heroku.com&quot;&gt;Poetrybin&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The premise is simple: there are no identities, no user accounts. You can post a poem, but you cannot edit or delete it. That&amp;#8217;s it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://poetrybin.heroku.com&quot;&gt;&lt;img src=&quot;http://farm8.staticflickr.com/7022/6412216653_edd31767d7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Convert RGB to HSB (HSV) in Ruby</title>

@@ -4,8 +4,8 @@ require "stringex"
 
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
-ssh_user       = "user@domain.com"
-document_root  = "~/website.com/"
+ssh_user       = "natalia@thinkplaymake.co"
+document_root  = "~/personal/blog/"
 deploy_default = "rsync"
 
 # This will be configured for you when you run config_deploy
@@ -16,7 +16,7 @@ deploy_branch  = "gh-pages"
 public_dir      = "public"    # compiled site directory
 source_dir      = "source"    # source file directory
 blog_index_dir  = 'source'    # directory for your blog's index page (if you put your index in source/blog/index.html, set this to 'source/blog')
-deploy_dir      = "_deploy"   # deploy directory (for Github pages deployment)
+deploy_dir      = "public"   # deploy directory 
 stash_dir       = "_stash"    # directory to stash posts for speedy generation
 posts_dir       = "_posts"    # directory for blog files
 themes_dir      = ".themes"   # directory for blog files
@@ -218,7 +218,9 @@ end
 desc "Deploy website via rsync"
 task :rsync do
   puts "## Deploying website via Rsync"
-  ok_failed system("rsync -avz --delete #{public_dir}/ #{ssh_user}:#{document_root}")
+  ok_failed system("rsync -avz --delete #{deploy_dir} #{ssh_user}:#{document_root}")
+  #ok_failed system("rsync -v -r -e ssh blog natalia@thinkplaymake.co:~/personal")
+
 end
 
 desc "deploy public directory to github pages"
