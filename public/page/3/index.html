@@ -42,6 +42,54 @@
 <ul class="posts">
   
     <li class="post">
+      <a href="/2011/09/24/brighton-mini-maker-faire">
+        <h2>Brighton Mini Maker Faire</h2>
+      </a>
+      <h3 class="date">September 24, 2011</h3>
+      <p><img src="http://farm7.static.flickr.com/6203/6112868140_9f7c4c4ab0.jpg" alt="" /></p>
+
+<p>It&#8217;s been nearly three weeks since, but I haven&#8217;t had the chance to grab a moment to write about the wonderful event that was the first Brighton Mini Maker Faire. It was a truly exciting festival of experimentation, creativity and discovery.</p>
+
+<p><img src="http://farm7.static.flickr.com/6197/6112903988_f6e5b39d7f.jpg" alt="" /></p>
+
+<p>One of my favourite projects was the drawing robot. As the model sits down to be sketched, a tiny camera turns to their face and takes a snapshot from which to work. A robotic arm draws the model&#8217;s face in strange, sketchy movements that slowly build up the drawing. Periodically, the arm stops and the camera turns from paper to model&#8217;s face, pretending to have another look. I was to be honest more excited about that humanised interaction between the person and the machine than I was about the technical challenges of making a drawing arm.</p>
+
+<p><img src="http://farm7.static.flickr.com/6075/6112309523_63b83a1ceb.jpg" alt="" /></p>
+
+<p>Running soldering drop-in was the highlight of the day for me. I had the chance to show kids how to put together some electronic kits and watch them own me when it comes to my soldering skills. Heck, I even offered <a href="http://adactio.com/">adactio</a> a quick soldering lesson (no, he didn&#8217;t take it).</p>
+
+<p><img src="http://farm7.static.flickr.com/6084/6112843667_620efcf842.jpg" alt="" /></p>
+
+<p>I wanted to say thank you to everyone who got involved in organising it and everyone who turned up on the day to look at and play with some amazing creations! We&#8217;re told more than 5000 people came through the door. None of this would have been possible without a massive group of volunteers, and organisers who have taken on a huge challenge and worked for months to make it happen. Let&#8217;s hope next year we can make it even bigger.</p>
+
+      
+      <ul class="tags">
+      
+        <li><a href="/tags/brighton">brighton</a></li>
+
+      
+        <li><a href="/tags/buildbrighton">buildbrighton</a></li>
+
+      
+        <li><a href="/tags/brighton mini maker faire">brighton mini maker faire</a></li>
+
+      
+        <li><a href="/tags/bmmf">bmmf</a></li>
+
+      
+        <li><a href="/tags/technology">technology</a></li>
+
+      
+        <li><a href="/tags/science">science</a></li>
+
+      
+        <li><a href="/tags/craft">craft</a></li>
+
+      
+      </ul>
+    </li>
+  
+    <li class="post">
       <a href="/2011/08/14/riotwiki">
         <h2>Riotwiki</h2>
       </a>
@@ -84,31 +132,11 @@
 
 <p>It comes complete with rudimentary logging system:</p>
 
-<div class="highlight"><pre><code class="ruby"><span class="n">log</span><span class="o">.</span><span class="n">puts</span> <span class="s2">&quot;---------------&quot;</span>
-<span class="n">log</span><span class="o">.</span><span class="n">puts</span> <span class="no">Time</span><span class="o">.</span><span class="n">now</span><span class="o">.</span><span class="n">to_s</span>
-<span class="n">log</span><span class="o">.</span><span class="n">puts</span> <span class="s2">&quot;Tweeted: </span><span class="si">#{</span><span class="vi">@message</span><span class="si">}</span><span class="s2">&quot;</span>
-</code></pre>
-</div>
-
+<p>Liquid error: No such file or directory - posix_spawnp</p>
 
 <p>One of the improvements I should have thought about when I began the experiment was to create a robust system for logging the whole history of bot&#8217;s interactions, including the messages other people send to it. Because of the way the bot was written, its replies to mentions are not strictly <em>replies</em> (they are not linked as a part of conversation), the bot remembers the names of people who talk to it and sends them a random suggestion (code fragment edited for clarity):</p>
 
-<div class="highlight"><pre><code class="ruby"><span class="n">mentions</span><span class="o">.</span><span class="n">each</span> <span class="k">do</span> <span class="o">|</span><span class="n">m</span><span class="o">|</span>
-  <span class="n">users</span> <span class="o">=</span> <span class="n">m</span><span class="o">.</span><span class="n">user</span><span class="o">.</span><span class="n">screen_name</span> 
-  <span class="n">users_that_replied</span> <span class="o">&lt;&lt;</span> <span class="n">users</span>
-<span class="k">end</span>
-        
-<span class="n">users_that_replied</span><span class="o">.</span><span class="n">each</span> <span class="k">do</span> <span class="o">|</span><span class="n">user</span><span class="o">|</span> 
-  <span class="n">random_tweet_including_free_stuff</span> <span class="c1">#returns @message</span>
-  <span class="k">begin</span>
-    <span class="no">Twitter</span><span class="o">.</span><span class="n">update</span><span class="p">(</span><span class="s2">&quot;@</span><span class="si">#{</span><span class="n">user</span><span class="si">}</span><span class="s2"> </span><span class="si">#{</span><span class="vi">@message</span><span class="si">}</span><span class="s2">&quot;</span><span class="p">)</span>
-    <span class="n">follow_them</span> <span class="o">=</span> <span class="n">user</span><span class="o">.</span><span class="n">screen_name</span>
-    <span class="no">Twitter</span><span class="o">.</span><span class="n">client</span><span class="o">.</span><span class="n">follow</span><span class="p">(</span><span class="n">follow_them</span><span class="p">)</span>
-  <span class="k">end</span>
-<span class="k">end</span>
-</code></pre>
-</div>
-
+<p>Liquid error: No such file or directory - posix_spawnp</p>
 
 <p>This makes it very hard to archive the <em>conversations</em>, and sadly I haven&#8217;t been doing it. I wish I had done it some other way. I would have been nice to keep track of how many replies are positive, negative, and rude; as well as noting down how many participants say they are likely to take up the suggestion. Any analysis and insights from the experiment seem anecdotal without the hard data to back it up.</p>
 
@@ -185,38 +213,6 @@
 
       
         <li><a href="/tags/installation">installation</a></li>
-
-      
-      </ul>
-    </li>
-  
-    <li class="post">
-      <a href="/2011/07/05/writing-with-light">
-        <h2>Writing with light</h2>
-      </a>
-      <h3 class="date">July 05, 2011</h3>
-      <p><img src="http://blog.nataliabuckley.co.uk/images/Ianto_Makers_02.jpg" alt="" /></p>
-
-<p><a href="http://i.document.m05.de/">Michael Zoellner</a> made a jacket for his dog, Ianto, which sports a <a href="http://www.arduino.cc/en/Main/ArduinoBoardLilyPad">LilyPad</a> Arduino board and 5 LEDs. When Ianto runs, she creates a very cool looking <a href="http://i.document.m05.de/?p=970">light display</a>. Nice!</p>
-
-<p><img src="http://blog.nataliabuckley.co.uk/images/Ianto_Makers_05.jpg" alt="" /></p>
-
-      
-      <ul class="tags">
-      
-        <li><a href="/tags/pov">pov</a></li>
-
-      
-        <li><a href="/tags/leds">leds</a></li>
-
-      
-        <li><a href="/tags/arduino">arduino</a></li>
-
-      
-        <li><a href="/tags/lilypad">lilypad</a></li>
-
-      
-        <li><a href="/tags/light">light</a></li>
 
       
       </ul>
