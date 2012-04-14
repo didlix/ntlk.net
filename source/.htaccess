@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} !blog\.nataliabuckley\.co\.uk$ [NC]
+RewriteRule ^(.*)$ http://ntlk.net/$1 [R=301,L]
