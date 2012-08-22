@@ -4,8 +4,8 @@ require "stringex"
 
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
-ssh_user       = "natalia@thinkplaymake.co"
-document_root  = "~/personal/blog/"
+ssh_user       = "ntlk@ntlk.net"
+document_root  = "/srv/ntlk.net/public/htdocs/"
 deploy_default = "rsync"
 
 # This will be configured for you when you run config_deploy
@@ -16,7 +16,7 @@ deploy_branch  = "gh-pages"
 public_dir      = "public"    # compiled site directory
 source_dir      = "source"    # source file directory
 blog_index_dir  = 'source'    # directory for your blog's index page (if you put your index in source/blog/index.html, set this to 'source/blog')
-deploy_dir      = "public"   # deploy directory 
+deploy_dir      = "public/"   # deploy directory 
 stash_dir       = "_stash"    # directory to stash posts for speedy generation
 posts_dir       = "_posts"    # directory for blog files
 themes_dir      = ".themes"   # directory for blog files
