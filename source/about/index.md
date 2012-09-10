@@ -2,9 +2,11 @@
 layout: default
 title: About
 ---
-I'm Natalia Buckley, interaction designer based in Brighton/London and member of [BuildBrighton][]. 
 
-This is my personal blog where I intend to write about physical computing, interaction design and my ongoing projects.
+
+I'm Nat Buckley, technologist and interaction designer based in Brighton/London. I imagine, make, break and fix things. Can be occasionally spotted at [BuildBrighton][]. 
+
+This is my personal blog where I intend to talk about physical computing, interaction design and my ongoing projects. It has evolved to be a place where I mainly put my own writing, while interesting things I find live on my [Tumblr][].
 
 If you'd like to see some of my work, have a look at my [portfolio][].
 
@@ -19,3 +21,4 @@ You can get in touch with my by [email][] or [Twitter][].
 [email]: mailto:natalia.buckley@gmail.com
 [Twitter]: http://twitter.com/ntlk
 [Octopress]: http://octopress.org/
+[Tumblr]: http://ntlk.tumblr.com

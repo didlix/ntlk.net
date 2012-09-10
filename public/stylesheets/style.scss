@@ -1,5 +1,8 @@
 @import url(syntax.css);
 
+ @font-face {font-family: 'ProximaNova-Semibold';src: url('23DD08_0_0.eot');src: url('23DD08_0_0.eot?#iefix') format('embedded-opentype'),url('23DD08_0_0.woff') format('woff'),url('23DD08_0_0.ttf') format('truetype');}
+ @font-face {font-family: 'ProximaNova-Light';src: url('23DD08_1_0.eot');src: url('23DD08_1_0.eot?#iefix') format('embedded-opentype'),url('23DD08_1_0.woff') format('woff'),url('23DD08_1_0.ttf') format('truetype');}
+
 /*  HTML5 ✰ Boilerplate  */
 html, body, div, span, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -24,7 +27,7 @@ footer, header, hgroup, menu, nav, section {
 blockquote, q {
   quotes: none;
   padding-left: 20px;
-  font-style: italic;
+  font-style: normal;
   font-size: 0.875em; }
 
 blockquote:before, blockquote:after,
@@ -158,12 +161,12 @@ input:invalid, textarea:invalid {
   text-shadow: none; }
 
 ::selection {
-  background: #FF5E99;
-  color: #fff;
+  background: #30EF8E;
+  color: #000;
   text-shadow: none; }
 
 a:link {
-  -webkit-tap-highlight-color: #FF5E99; }
+  -webkit-tap-highlight-color: #30EF8E; }
 
 button {
   width: auto;
@@ -173,7 +176,7 @@ button {
   -ms-interpolation-mode: bicubic; }
 
 body, select, input, textarea {
-  color: #444; }
+  color: #4C4639; }
 
 /* Main styles */
 
@@ -181,32 +184,34 @@ $blue: #5675d2;
 $dark-blue: darken($blue, 10);
 $grey-blue: lighten(desaturate($blue, 10), 35);
 $dark-grey-blue: lighten(desaturate($blue, 10), 15);
-$text-grey: #444;
+$text-grey: #4C4639;
+$link-grey: #333;
 $light-grey: #cacaca;
+$link-underline: #A6A9A0;
 $date-grey: lighten($text-grey, 25);
 $light: lighten($light-grey, 16);
 $lightest: #fefefe;
-$green: #292;
+$green: #30EF8E;
+$light-green: #d8f7e7;
 
-$sans-serif: Helvetica Neue, Helvetica, Arial, sans-serif;
-$serif: 'PT Serif', Georgia, Droid Serif, Times New Roman, serif;;
-$body: Georgia, Droid Serif, Times New Roman, serif;
+$sans-serif: "ProximaNova-Light", Helvetica Neue, Helvetica, Arial, sans-serif;
+$serif: "ProximaNova-Semibold", Helvetica Neue, Helvetica, Arial, sans-serif;
+$body: "ProximaNova-Light", Helvetica Neue, Helvetica, Arial, sans-serif;
 
 a, a:active, a:visited {
-  color: $blue;
+  color: $link-grey;
   text-decoration: none;
-  border-bottom: 1px dotted $dark-grey-blue; }
+  border-bottom: 1px solid $link-underline; }
+
+a:hover {
+  color: black;
+  border-bottom: 1px solid $green; }
 
 a img {
   border-bottom: none; }
 
-a:hover {
-  color: $dark-blue;
-  border-bottom: none; }
-
 body {
-  font-family: $body;
-  font-size: 1em;
+  font: 1em/1.5em "ProximaNova-Light", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 1.5;
   background: $lightest; }
   
@@ -220,7 +225,7 @@ img {
 
 header {
   text-align: center;
-  a {
+  a, a:hover {
     border-bottom: none; } }
   
 em {
@@ -287,8 +292,8 @@ ul.tags, ul.arch-nav {
       margin-left:  0px;
       line-height: 2.8;
       border-bottom: none;
-      background-color: $grey-blue;
-      color: $date-grey; } } }
+      background-color: $light-green;
+      color: $link-grey; } } }
       
 pre {
   border: 1px solid $light;
@@ -296,7 +301,7 @@ pre {
   font-size: 0.8em; }
       
 hr {
-  background: $grey-blue; 
+  background: $light-green; 
   clear: both; 
   float: none; 
   width: 100%; 
