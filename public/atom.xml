@@ -4,13 +4,57 @@
   <title>ntlk&#8217;s blog</title>
   <link href="http://ntlk.net/atom.xml" rel="self"/>
   <link href="http://ntlk.net/"/>
-  <updated>2012-08-22T09:38:20+01:00</updated>
+  <updated>2012-09-14T07:40:31+01:00</updated>
   <id>http://ntlk.net/</id>
   <author>
     <name>ntlk</name>
     
   </author>
 
+  
+  <entry>
+    <title>Sensing activity in Royal Shakespeare Theatre</title>
+    <link href="http://ntlk.net/2012/09/14/sensing-activity-in-royal-shakespeare-theatre"/>
+    <updated>2012-09-14T07:25:00+01:00</updated>
+    <id>http://ntlk.net/2012/09/14/sensing-activity-in-royal-shakespeare-theatre</id>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8297/7918060170_84de124234_z.jpg&quot; alt=&quot;Motion Sensor in the Swan Bar&quot; /&gt;
+&lt;em&gt;Noise level sensor in the Swan Bar&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Together with &lt;a href=&quot;http://wearecaper.com&quot;&gt;Caper&lt;/a&gt; I have also been working on a small art project for the RSC. We&amp;#8217;ve been interested in working  with the &lt;a href=&quot;https://en.wikipedia.org/wiki/Royal_Shakespeare_Theatre&quot;&gt;building itself&lt;/a&gt;. Visitors tend to come to Stratford-upon-Avon for the evening, enjoy the performance, perhaps some food and drinks, and head back, often on the next day. As well as the audience, there are also people working front of house, behind the bar, not to mention the three different acting troupes working on stage.&lt;/p&gt;
+
+&lt;p&gt;We wanted to explore the building as a whole, the total sum of effort and action that makes experiencing the performance possible; some of it behind the scenes. To do that, we wanted to put together an app that would analyse, visualise and display activity in the building as it happens.&lt;/p&gt;
+
+&lt;p&gt;But how do you measure activity? You could look at the amount of stuff made, amount of waste generated, or resources used up, but to measure life you have to measure its symptoms, like noise and movement. We wanted to put sensors in the theatre to make the often invisible efforts plain to see. To be able to say: at noon on Wednesdays the wardrobe rooms get very busy; that here is a sudden burst of activity backstage on Thursday morning when the set gets installed; that the bar is actually busiest on Monday nights.&lt;/p&gt;
+
+&lt;p&gt;I have prototyped two types of devices: motion and sound sensors. Both use Arduino Ethernet boards to send data to &lt;a href=&quot;https://cosm.com/&quot;&gt;Cosm&lt;/a&gt;, which I am using both to make the feeds publicly accessible, and to set up triggers that will communicate with a web app built to analyse and visualise the data. I had thought of making my own Arduino-compatible boards to save money, but there simply wasn&amp;#8217;t enough time to make that possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8453/7917442134_5fc67fd717_z.jpg&quot; alt=&quot;Motion sensor device&quot; /&gt;
+&lt;em&gt;Motion sensor&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The motion sensor devices are very straightforward: simply plug in an infrared motion detector in to start logging. The time it takes for the sensor to keep sending the signal about the detected movement can be adjusted. I add every positive reading to a counter, and send the total to Cosm every 30 seconds.&lt;/p&gt;
+
+&lt;p&gt;Sound sensors initially seemed trickier, though I only needed to measure the levels or determine that they are over a certain threshold. My first approach was to try and use &lt;a href=&quot;https://en.wikipedia.org/wiki/Piezoelectric_sensor&quot;&gt;piezos&lt;/a&gt; positioned on the floor or frequently used flat areas (such as the bar) to detect surface vibrations. Piezos are sensors that can detect pressure and vibration (and thus sound) and are often used as guitar pickups. I found it very difficult to amplify the piezo signal enough to turn it into a sensitive sensor over a large area though.&lt;/p&gt;
+
+&lt;p&gt;This is of course possible. Another member of the local hackspace, &lt;a href=&quot;http://hotchk155.blogspot.co.uk/&quot;&gt;Jason Hotchkiss&lt;/a&gt;, has built &lt;a href=&quot;http://hotchk155.blogspot.co.uk/2011/10/musical-ping-pong-tables-and.html&quot;&gt;exactly the kind of sensitive piezo sensor&lt;/a&gt; that I had been thinking about. He designed and built all the electronics that went into this &lt;a href=&quot;https://vimeo.com/45745840&quot;&gt;musical ping pong table&lt;/a&gt;. I attempted to recreate Jason&amp;#8217;s sensors, though I have used a completely different &lt;a href=&quot;https://en.wikipedia.org/wiki/Operational_amplifier&quot;&gt;op-amp&lt;/a&gt; and my results didn&amp;#8217;t come anywhere close.&lt;/p&gt;
+
+&lt;p&gt;Another approach I&amp;#8217;ve tried was using an electret microphone with a &lt;a href=&quot;http://tinkerlog.com/2007/05/20/cheap-sound-sensor-for-avr/&quot;&gt;cheap DIY amplifier I found on Alex Weber&amp;#8217;s blog&lt;/a&gt;. This time I didn&amp;#8217;t have the right transistor, and though I had some that &lt;em&gt;apparently&lt;/em&gt; could be a substitute it still got me nowhere: readings were full of noise and their range wasn&amp;#8217;t good enough. Though I have a huge range of completely random components lying around it turns out I don&amp;#8217;t actually have much useful stuff. Also I still suck at analogue circuits.&lt;/p&gt;
+
+&lt;p&gt;As I waited for the right components to show up in the post, with the deadline fast approaching, I had to explore other options. A basic amplifier isn&amp;#8217;t exactly very difficult, and the inability to actually get a working one made was making me very frustrated, but in the end I had to go for the off-the-shelf solution as I had to install the devices the very next day. I used Sparkfun&amp;#8217;s electret mic with an amplifier on a breakout board, ready to simply plug in and play. Not only I am embarrassed at my failure to prototype something basic, but also at the fact that I am using components that are probably 8-10x more expensive than strictly necessary.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8180/7917689864_c40b54a5de_z.jpg&quot; alt=&quot;First readings coming in&quot; /&gt;
+&lt;em&gt;First sensor readings coming in&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;But hey, the devices worked and that&amp;#8217;s what matters, right? I&amp;#8217;ve laser cut some dashing boxes to protect them, ready for the installation in situ. Motion ones were placed near Stage Door and in the Wigs &amp;amp; Wardrobe department, sound ones in the Green Room and in Swan Bar.&lt;/p&gt;
+
+&lt;p&gt;Something I didn&amp;#8217;t think about when prototyping the devices was giving them some way of communicating with their surroundings, namely reporting that they are connected and everything is fine, or that there is an error of some kind and they would need to be reset. The switch that allows resetting them would also be great to have on the outside of the box.&lt;/p&gt;
+
+&lt;p&gt;Another thing that I have only seriously considered while installing the devices was communicating what they do to people working at the theatre. I think I would have appreciated more time spent on location talking to people about the project, especially the fact that these aren&amp;#8217;t cameras or recording devices - it&amp;#8217;s impossible to know this just by glancing at them. It would have been impossible to speak to the entire 700 strong team though, so we&amp;#8217;ve put up notes explaining a little bit about the project and displaying some sample data from Cosm. There must be a better approach to communicating their purpose and how they work though.&lt;/p&gt;
+
+&lt;p&gt;The sensors have been collecting data for nearly two weeks now. I&amp;#8217;ve built a sample Rails app that is dealing with the interpretation of the readings, which need to be analysed and calibrated before going live.&lt;/p&gt;
+
+&lt;p&gt;You can &lt;a href=&quot;https://cosm.com/feeds/72813&quot;&gt;see the data for yourself on Cosm&lt;/a&gt; (formerly Pachube). I encourage you to pull it and do something interesting with it. I&amp;#8217;d be very interested to see what else it can be used for.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>South by South East</title>
@@ -451,19 +495,6 @@ end
 
 
 &lt;p&gt;&lt;a href=&quot;http://www.kinetic-lights.com/index.php?men=projects&amp;amp;sub=constellation&quot;&gt;Constellation&lt;/a&gt; – a light installation by &lt;a href=&quot;http://www.whitevoid.com/&quot;&gt;WhiteVoid&lt;/a&gt;.&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>Writing with light</title>
-    <link href="http://ntlk.net/2011/07/05/writing-with-light"/>
-    <updated>2011-07-05T00:00:00+01:00</updated>
-    <id>http://ntlk.net/2011/07/05/writing-with-light</id>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://ntlk.net/images/Ianto_Makers_02.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://i.document.m05.de/&quot;&gt;Michael Zoellner&lt;/a&gt; made a jacket for his dog, Ianto, which sports a &lt;a href=&quot;http://www.arduino.cc/en/Main/ArduinoBoardLilyPad&quot;&gt;LilyPad&lt;/a&gt; Arduino board and 5 LEDs. When Ianto runs, she creates a very cool looking &lt;a href=&quot;http://i.document.m05.de/?p=970&quot;&gt;light display&lt;/a&gt;. Nice!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://ntlk.net/images/Ianto_Makers_05.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </content>
   </entry>
   

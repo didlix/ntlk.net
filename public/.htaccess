@@ -1,0 +1,4 @@
+Options +FollowSymlinks
+RewriteEngine on
+rewritecond %{http_host} blog.nataliabuckley.co.uk/$1 [nc]
+rewriterule ^(.*)$ http://ntlk.net/$1 [r=301,nc]

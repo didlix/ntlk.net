@@ -42,9 +42,80 @@
 <ul class="posts">
   
     <li class="post">
-      <a href="/2012/08/21/south-by-south-east">
-        <h2>South by South East</h2>
-      </a>
+      <h2><a href="/2012/09/14/sensing-activity-in-royal-shakespeare-theatre">Sensing activity in Royal Shakespeare Theatre</a></h2>
+      <h3 class="date">September 14, 2012</h3>
+      <p><img src="http://farm9.staticflickr.com/8297/7918060170_84de124234_z.jpg" alt="Motion Sensor in the Swan Bar" />
+<em>Noise level sensor in the Swan Bar</em></p>
+
+<p>Together with <a href="http://wearecaper.com">Caper</a> I have also been working on a small art project for the RSC. We&#8217;ve been interested in working  with the <a href="https://en.wikipedia.org/wiki/Royal_Shakespeare_Theatre">building itself</a>. Visitors tend to come to Stratford-upon-Avon for the evening, enjoy the performance, perhaps some food and drinks, and head back, often on the next day. As well as the audience, there are also people working front of house, behind the bar, not to mention the three different acting troupes working on stage.</p>
+
+<p>We wanted to explore the building as a whole, the total sum of effort and action that makes experiencing the performance possible; some of it behind the scenes. To do that, we wanted to put together an app that would analyse, visualise and display activity in the building as it happens.</p>
+
+<p>But how do you measure activity? You could look at the amount of stuff made, amount of waste generated, or resources used up, but to measure life you have to measure its symptoms, like noise and movement. We wanted to put sensors in the theatre to make the often invisible efforts plain to see. To be able to say: at noon on Wednesdays the wardrobe rooms get very busy; that here is a sudden burst of activity backstage on Thursday morning when the set gets installed; that the bar is actually busiest on Monday nights.</p>
+
+<p>I have prototyped two types of devices: motion and sound sensors. Both use Arduino Ethernet boards to send data to <a href="https://cosm.com/">Cosm</a>, which I am using both to make the feeds publicly accessible, and to set up triggers that will communicate with a web app built to analyse and visualise the data. I had thought of making my own Arduino-compatible boards to save money, but there simply wasn&#8217;t enough time to make that possible.</p>
+
+<p><img src="http://farm9.staticflickr.com/8453/7917442134_5fc67fd717_z.jpg" alt="Motion sensor device" />
+<em>Motion sensor</em></p>
+
+<p>The motion sensor devices are very straightforward: simply plug in an infrared motion detector in to start logging. The time it takes for the sensor to keep sending the signal about the detected movement can be adjusted. I add every positive reading to a counter, and send the total to Cosm every 30 seconds.</p>
+
+<p>Sound sensors initially seemed trickier, though I only needed to measure the levels or determine that they are over a certain threshold. My first approach was to try and use <a href="https://en.wikipedia.org/wiki/Piezoelectric_sensor">piezos</a> positioned on the floor or frequently used flat areas (such as the bar) to detect surface vibrations. Piezos are sensors that can detect pressure and vibration (and thus sound) and are often used as guitar pickups. I found it very difficult to amplify the piezo signal enough to turn it into a sensitive sensor over a large area though.</p>
+
+<p>This is of course possible. Another member of the local hackspace, <a href="http://hotchk155.blogspot.co.uk/">Jason Hotchkiss</a>, has built <a href="http://hotchk155.blogspot.co.uk/2011/10/musical-ping-pong-tables-and.html">exactly the kind of sensitive piezo sensor</a> that I had been thinking about. He designed and built all the electronics that went into this <a href="https://vimeo.com/45745840">musical ping pong table</a>. I attempted to recreate Jason&#8217;s sensors, though I have used a completely different <a href="https://en.wikipedia.org/wiki/Operational_amplifier">op-amp</a> and my results didn&#8217;t come anywhere close.</p>
+
+<p>Another approach I&#8217;ve tried was using an electret microphone with a <a href="http://tinkerlog.com/2007/05/20/cheap-sound-sensor-for-avr/">cheap DIY amplifier I found on Alex Weber&#8217;s blog</a>. This time I didn&#8217;t have the right transistor, and though I had some that <em>apparently</em> could be a substitute it still got me nowhere: readings were full of noise and their range wasn&#8217;t good enough. Though I have a huge range of completely random components lying around it turns out I don&#8217;t actually have much useful stuff. Also I still suck at analogue circuits.</p>
+
+<p>As I waited for the right components to show up in the post, with the deadline fast approaching, I had to explore other options. A basic amplifier isn&#8217;t exactly very difficult, and the inability to actually get a working one made was making me very frustrated, but in the end I had to go for the off-the-shelf solution as I had to install the devices the very next day. I used Sparkfun&#8217;s electret mic with an amplifier on a breakout board, ready to simply plug in and play. Not only I am embarrassed at my failure to prototype something basic, but also at the fact that I am using components that are probably 8-10x more expensive than strictly necessary.</p>
+
+<p><img src="http://farm9.staticflickr.com/8180/7917689864_c40b54a5de_z.jpg" alt="First readings coming in" />
+<em>First sensor readings coming in</em></p>
+
+<p>But hey, the devices worked and that&#8217;s what matters, right? I&#8217;ve laser cut some dashing boxes to protect them, ready for the installation in situ. Motion ones were placed near Stage Door and in the Wigs &amp; Wardrobe department, sound ones in the Green Room and in Swan Bar.</p>
+
+<p>Something I didn&#8217;t think about when prototyping the devices was giving them some way of communicating with their surroundings, namely reporting that they are connected and everything is fine, or that there is an error of some kind and they would need to be reset. The switch that allows resetting them would also be great to have on the outside of the box.</p>
+
+<p>Another thing that I have only seriously considered while installing the devices was communicating what they do to people working at the theatre. I think I would have appreciated more time spent on location talking to people about the project, especially the fact that these aren&#8217;t cameras or recording devices - it&#8217;s impossible to know this just by glancing at them. It would have been impossible to speak to the entire 700 strong team though, so we&#8217;ve put up notes explaining a little bit about the project and displaying some sample data from Cosm. There must be a better approach to communicating their purpose and how they work though.</p>
+
+<p>The sensors have been collecting data for nearly two weeks now. I&#8217;ve built a sample Rails app that is dealing with the interpretation of the readings, which need to be analysed and calibrated before going live.</p>
+
+<p>You can <a href="https://cosm.com/feeds/72813">see the data for yourself on Cosm</a> (formerly Pachube). I encourage you to pull it and do something interesting with it. I&#8217;d be very interested to see what else it can be used for.</p>
+
+      
+      <ul class="tags">
+      
+        <li><a href="/tags/arduino">arduino</a></li>
+
+      
+        <li><a href="/tags/sensors">sensors</a></li>
+
+      
+        <li><a href="/tags/rsc">rsc</a></li>
+
+      
+        <li><a href="/tags/pir">pir</a></li>
+
+      
+        <li><a href="/tags/electret mic">electret mic</a></li>
+
+      
+        <li><a href="/tags/sound">sound</a></li>
+
+      
+        <li><a href="/tags/noise">noise</a></li>
+
+      
+        <li><a href="/tags/motion">motion</a></li>
+
+      
+        <li><a href="/tags/iot">iot</a></li>
+
+      
+      </ul>
+    </li>
+  
+    <li class="post">
+      <h2><a href="/2012/08/21/south-by-south-east">South by South East</a></h2>
       <h3 class="date">August 21, 2012</h3>
       <p>If you live in or near Brighton, September is going to be like Christmas. No, wait, it&#8217;s going to be better than Christmas.</p>
 
@@ -87,9 +158,7 @@
     </li>
   
     <li class="post">
-      <a href="/2012/05/25/a-few-thoughts-on-happenstance-so-far">
-        <h2>A few thoughts on Happenstance so far</h2>
-      </a>
+      <h2><a href="/2012/05/25/a-few-thoughts-on-happenstance-so-far">A few thoughts on Happenstance so far</a></h2>
       <h3 class="date">May 25, 2012</h3>
       <p>On Wednesday at the <a href="http://lighthouse.org.uk/">Lighthouse</a> we (the Lighthouse team + the <a href="http://happenstanceproject.com">Happenstance</a> residents &amp; organisers) held an Open House event, talking to our guests about some of the work me and <a href="http://shorttermmemoryloss.com/">James</a> have done on the project so far and what <a href="http://happenstanceproject.com">Happenstance</a> is all about.</p>
 
@@ -121,9 +190,7 @@
     </li>
   
     <li class="post">
-      <a href="/2012/05/08/building-the-future">
-        <h2>Building the Future</h2>
-      </a>
+      <h2><a href="/2012/05/08/building-the-future">Building the Future</a></h2>
       <h3 class="date">May 08, 2012</h3>
       <p><img src="/images/design_vacuum.png" alt="One does not simply design in a vacuum" /></p>
 
@@ -161,9 +228,7 @@
     </li>
   
     <li class="post">
-      <a href="/2012/04/12/on-the-new-aesthetic">
-        <h2>On the New Aesthetic</h2>
-      </a>
+      <h2><a href="/2012/04/12/on-the-new-aesthetic">On the New Aesthetic</a></h2>
       <h3 class="date">April 12, 2012</h3>
       <p>After Bruce Sterling published <a href="http://www.wired.com/beyond_the_beyond/2012/04/an-essay-on-the-new-aesthetic/">his essay</a> on the <a href="http://new-aesthetic.tumblr.com/">New Aesthetic</a> last Monday, the topic exploded and responses to that essay were as quick as they were plentiful (see below for links). Suddenly it became a hotly debated subject on Twitter, so I thought what everyone desperately needed was - yep - yet another blog post on the New Aesthetic.</p>
 
@@ -194,36 +259,6 @@
 
       
         <li><a href="/tags/art">art</a></li>
-
-      
-      </ul>
-    </li>
-  
-    <li class="post">
-      <a href="/2012/04/02/beginning-a-residency-at-the-lighthouse-as-a-technologist">
-        <h2>Beginning a residency at the Lighthouse as a technologist - Happenstance Project</h2>
-      </a>
-      <h3 class="date">April 02, 2012</h3>
-      <p>Until the end of June I am a <a href="http://happenstanceproject.com/">resident technologist</a> at the <a href="http://www.lighthouse.org.uk/">Lighthouse</a> in Brighton, together with <a href="http://shorttermmemoryloss.com/">James Bridle</a>.</p>
-
-<p>The Lighthouse is an interesting organisation - it describes itself as a digital culture agency, rather than simply a digital arts agency, emphasising its broad interests that go beyond the arts sector. It&#8217;s an organisation that is forward looking and welcomes the challenges presented by technology. Perhaps this is why they are confident enough to let me and James drive the process without necessarily having a clear idea of the outcome (or direction) just yet.</p>
-
-<p>Their openness was what attracted me to the project. I could work using the process in which you gradually narrow your problem space to eventually define the project&#8217;s objectives is what they would like to happen. This kind of approach from my experience can result in something much more interesting than when the outcome is clearly defined at the beginning. While it may not be suitable for every type of project, it feels exactly right for <a href="http://happenstanceproject.com/">Happenstance</a>, where the goals are much wider than simply delivering a product. You can probably tell by now that I am excited about having an opportunity to further develop my practice.</p>
-
-<p>I haven&#8217;t worked with any arts organisations before, so it will be interesting to find out more about the work they do and how they do it. Lighthouse not only exhibits existing work, but also acts in a commissioning capacity, as well as doing administrative and supportive work that is largely hidden from public view. Any impact that this project will have on the way Lighthouse operates will be felt by many more organisations, so this is a brilliant opportunity to do something great… no pressure then!</p>
-
-<p><small>Crossposted from the <a href="http://happenstanceproject.com/working-at-the-lighthouse/">Happenstance blog</a></small></p>
-
-      
-      <ul class="tags">
-      
-        <li><a href="/tags/projects">projects</a></li>
-
-      
-        <li><a href="/tags/happenstance">happenstance</a></li>
-
-      
-        <li><a href="/tags/lighthouse">lighthouse</a></li>
 
       
       </ul>
