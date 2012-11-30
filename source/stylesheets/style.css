@@ -163,7 +163,7 @@ input:invalid, textarea:invalid {
   background-color: #f0dddd; }
 
 ::-moz-selection {
-  background: #FF5E99;
+  background: #30EF8E;
   color: #fff;
   text-shadow: none; }
 
@@ -201,7 +201,9 @@ a img {
 body {
   font: 1em/1.5em "ProximaNova-Light", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 1.5;
-  background: #fefefe; }
+  background: #fefefe; 
+  /*background: #f4f0ee;*/
+}
 
 img {
   max-width: 100%; }

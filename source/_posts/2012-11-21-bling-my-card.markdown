@@ -12,6 +12,7 @@ tags:
 - electronics
 - craft
 - teaching
+- conductive paint
 ---
 Some time back I have been working with [Caper][1] on a project which led me to the discovery of [Bare Conductive's][2] [conductive paint][3]. I got very excited at the prospect of being able to do a gentle introduction into the world of electronics though a very inviting medium of making a mess on paper with the tools you already know how to use. 
 
