@@ -39,6 +39,34 @@
 <ul class="posts">
   
     <li class="post">
+      <h2><a href="/2012/04/02/beginning-a-residency-at-the-lighthouse-as-a-technologist">Beginning a residency at the Lighthouse as a technologist - Happenstance Project</a></h2>
+      <h3 class="date">April 02, 2012</h3>
+      <p>Until the end of June I am a <a href="http://happenstanceproject.com/">resident technologist</a> at the <a href="http://www.lighthouse.org.uk/">Lighthouse</a> in Brighton, together with <a href="http://shorttermmemoryloss.com/">James Bridle</a>.</p>
+
+<p>The Lighthouse is an interesting organisation - it describes itself as a digital culture agency, rather than simply a digital arts agency, emphasising its broad interests that go beyond the arts sector. It&#8217;s an organisation that is forward looking and welcomes the challenges presented by technology. Perhaps this is why they are confident enough to let me and James drive the process without necessarily having a clear idea of the outcome (or direction) just yet.</p>
+
+<p>Their openness was what attracted me to the project. I could work using the process in which you gradually narrow your problem space to eventually define the project&#8217;s objectives is what they would like to happen. This kind of approach from my experience can result in something much more interesting than when the outcome is clearly defined at the beginning. While it may not be suitable for every type of project, it feels exactly right for <a href="http://happenstanceproject.com/">Happenstance</a>, where the goals are much wider than simply delivering a product. You can probably tell by now that I am excited about having an opportunity to further develop my practice.</p>
+
+<p>I haven&#8217;t worked with any arts organisations before, so it will be interesting to find out more about the work they do and how they do it. Lighthouse not only exhibits existing work, but also acts in a commissioning capacity, as well as doing administrative and supportive work that is largely hidden from public view. Any impact that this project will have on the way Lighthouse operates will be felt by many more organisations, so this is a brilliant opportunity to do something great… no pressure then!</p>
+
+<p><small>Crossposted from the <a href="http://happenstanceproject.com/working-at-the-lighthouse/">Happenstance blog</a></small></p>
+
+      
+      <ul class="tags">
+      
+        <li><a href="/tags/projects">projects</a></li>
+
+      
+        <li><a href="/tags/happenstance">happenstance</a></li>
+
+      
+        <li><a href="/tags/lighthouse">lighthouse</a></li>
+
+      
+      </ul>
+    </li>
+  
+    <li class="post">
       <h2><a href="/2012/01/15/drawing-robots-roundup">Drawing robots roundup</a></h2>
       <h3 class="date">January 15, 2012</h3>
       <p>I intend to build a drawing robot soon as a part of a bigger project that will hopefully culminate in a short animation. I have just been given a broken HP Deskjet D4260 so I already have a few parts I might need. I am not yet fully decided on which approach to take, so here&#8217;s a roundup of different drawing machines to inspire me.</p>
@@ -224,77 +252,6 @@
 
       
         <li><a href="/tags/poetry">poetry</a></li>
-
-      
-      </ul>
-    </li>
-  
-    <li class="post">
-      <h2><a href="/2011/11/21/convert-rgb-to-hsb-hsv-in-ruby">Convert RGB to HSB (HSV) in Ruby</a></h2>
-      <h3 class="date">November 21, 2011</h3>
-      <p>I needed to convert RGB values into HSB. I found a very old gem, <a href="http://rubygems.org/gems/color-tools">colour-tools</a>, which sadly only converts to HSL. So I rewrote <a href="http://forums.devshed.com/c-programming-42/rgb-to-hsv-conversion-rountine-162526.html">Alvein&#8217;s C implementation</a> to calculate it in Ruby. Hope it saves someone time.</p>
-
-<p>Inputs: red, green and blue values as integers between 0 and 255. Outputs according to HSB convention: hue as degrees (up to 360), saturation and brightness as percentages.</p>
-
-<div><script src='https://gist.github.com/1383603.js?file='></script>
-<noscript><pre><code># Input rgb values 1...255
-# based on http://forums.devshed.com/c-programming-42/rgb-to-hsv-conversion-rountine-162526.html
-
-r = r / 255.0
-g = g / 255.0
-b = b / 255.0
-max = [r, g, b].max
-min = [r, g, b].min
-delta = max - min
-v = max * 100
-
-if (max != 0.0)
-    s = delta / max *100
-else
-    s = 0.0
-end
-
-if (s == 0.0) 
-    h = 0.0
-else
-    if (r == max)
-        h = (g - b) / delta
-    elsif (g == max)
-        h = 2 + (b - r) / delta
-    elsif (b == max)
-        h = 4 + (r - g) / delta
-    end
-
-    h *= 60.0
-    
-    if (h &lt; 0)
-        h += 360.0
-    end
-end
-
-# returns h in the range of 0..360 deg
-# s 0...100 
-# v 0...100</code></pre></noscript></div>
-
-
-
-
-      
-      <ul class="tags">
-      
-        <li><a href="/tags/ruby">ruby</a></li>
-
-      
-        <li><a href="/tags/colour value conversion">colour value conversion</a></li>
-
-      
-        <li><a href="/tags/rgb">rgb</a></li>
-
-      
-        <li><a href="/tags/hsb">hsb</a></li>
-
-      
-        <li><a href="/tags/hsl">hsl</a></li>
 
       
       </ul>

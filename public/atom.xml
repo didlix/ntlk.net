@@ -4,13 +4,43 @@
   <title>ntlk&#8217;s blog</title>
   <link href="http://ntlk.net/atom.xml" rel="self"/>
   <link href="http://ntlk.net/"/>
-  <updated>2012-11-21T11:41:52+00:00</updated>
+  <updated>2012-11-30T11:08:14+00:00</updated>
   <id>http://ntlk.net/</id>
   <author>
     <name>ntlk</name>
     
   </author>
 
+  
+  <entry>
+    <title>Test cards</title>
+    <link href="http://ntlk.net/2012/11/30/test-cards"/>
+    <updated>2012-11-30T10:09:00+00:00</updated>
+    <id>http://ntlk.net/2012/11/30/test-cards</id>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8202/8231319326_178f198fc5_z.jpg&quot; alt=&quot;Conductive paint slowly drying&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I was testing different circuits with conductive paint in preparation for the &lt;a href=&quot;http://blingmycard.ntlk.net/&quot;&gt;Bling My Card&lt;/a&gt; workshop/party next week. I wanted to see if the circuits can be incorporated into card designs, and if so, how complex they could get.&lt;/p&gt;
+
+&lt;p&gt;In short: not complex at all - especially when it&amp;#8217;s important they need to be debugged easily while drinking mulled wine. In the case of the reindeer card below it was tricky to figure out what went wrong: too many lines, not enough paint, a stray connection somewhere&amp;#8230; As there could be many attendees who have never done any electronics before it will be best to keep things that can go wrong to a minimum and keep circuits very simple.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8202/8231285190_91238fed41_z.jpg&quot; alt=&quot;A failed card&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I also found out that paint applied as a thin layer with a thick brush didn&amp;#8217;t work so well. The card below was one of the failures. I could tell with a multimeter that a current was passing through the paint, but it wasn&amp;#8217;t enough to light up the LED. The paint lines need to be fairly narrow and thick - that kind of application definitely worked best.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8206/8230248589_5b776c6291_z.jpg&quot; alt=&quot;Paint applied to thinly doesn&#8217;t work very well&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now, the drying bit. Some &lt;a href=&quot;http://www.bareconductive.com/tutorials&quot;&gt;Bare Conductive tutorials&lt;/a&gt; say the paint will take about 10 mins to dry, but I&amp;#8217;ve found it takes a bit longer, possibly even up to an hour, when applied this thickly.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8205/8231366722_4e8e8b13da_z.jpg&quot; alt=&quot;The LED slowly coming up&quot; /&gt;
+&lt;em&gt;The LED slowly getting brighter&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The circuits without switches were ultimately a lot more rewarding, as you could keep checking if the LED is on yet, argue about whether it is, and observe it become noticeably brighter every time you look at it. The paint becomes more conductive as it dries, so when you first apply it it&amp;#8217;s hard to tell if you&amp;#8217;ve done it right. Switches were a little bit less fun, as you got to wait for them to dry almost fully before you can test them. On the other hand the switch will make your battery last longer.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://ntlk.net/images/card2.gif&quot; alt=&quot;The next morning&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;#8217;ve got to make a couple of nice sample cards to show what they could look like. If you&amp;#8217;d like to make some with me and you&amp;#8217;re free on the 5th December, you should &lt;a href=&quot;http://blingmycard.ntlk.net/&quot;&gt;come to the workshop&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Bling my card</title>
@@ -502,29 +532,6 @@ end
     <updated>2011-09-25T18:02:00+01:00</updated>
     <id>http://ntlk.net/2011/09/25/say-hello-in-comments</id>
     <content type="html">&lt;p&gt;Comments are now enabled on this blog on each post page. Be nice or get zapped.&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>Brighton Mini Maker Faire</title>
-    <link href="http://ntlk.net/2011/09/24/brighton-mini-maker-faire"/>
-    <updated>2011-09-24T00:00:00+01:00</updated>
-    <id>http://ntlk.net/2011/09/24/brighton-mini-maker-faire</id>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://farm7.static.flickr.com/6203/6112868140_9f7c4c4ab0.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;It&amp;#8217;s been nearly three weeks since, but I haven&amp;#8217;t had the chance to grab a moment to write about the wonderful event that was the first Brighton Mini Maker Faire. It was a truly exciting festival of experimentation, creativity and discovery.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://farm7.static.flickr.com/6197/6112903988_f6e5b39d7f.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;One of my favourite projects was the drawing robot. As the model sits down to be sketched, a tiny camera turns to their face and takes a snapshot from which to work. A robotic arm draws the model&amp;#8217;s face in strange, sketchy movements that slowly build up the drawing. Periodically, the arm stops and the camera turns from paper to model&amp;#8217;s face, pretending to have another look. I was to be honest more excited about that humanised interaction between the person and the machine than I was about the technical challenges of making a drawing arm.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://farm7.static.flickr.com/6075/6112309523_63b83a1ceb.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Running soldering drop-in was the highlight of the day for me. I had the chance to show kids how to put together some electronic kits and watch them own me when it comes to my soldering skills. Heck, I even offered &lt;a href=&quot;http://adactio.com/&quot;&gt;adactio&lt;/a&gt; a quick soldering lesson (no, he didn&amp;#8217;t take it).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://farm7.static.flickr.com/6084/6112843667_620efcf842.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I wanted to say thank you to everyone who got involved in organising it and everyone who turned up on the day to look at and play with some amazing creations! We&amp;#8217;re told more than 5000 people came through the door. None of this would have been possible without a massive group of volunteers, and organisers who have taken on a huge challenge and worked for months to make it happen. Let&amp;#8217;s hope next year we can make it even bigger.&lt;/p&gt;
 </content>
   </entry>
   
