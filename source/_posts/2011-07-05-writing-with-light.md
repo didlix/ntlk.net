@@ -7,6 +7,7 @@ tags:
 - arduino
 - lilypad
 - light
+- electronics
 ---
 ![](/images/Ianto_Makers_02.jpg)
 

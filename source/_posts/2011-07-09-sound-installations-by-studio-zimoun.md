@@ -7,6 +7,7 @@ tags:
 - installation
 - sound
 - mechanical
+- electronics
 ---
 <iframe src="http://player.vimeo.com/video/23574715?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="500" height="281" frameborder="0"></iframe>
 

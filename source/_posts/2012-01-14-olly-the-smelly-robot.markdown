@@ -8,6 +8,7 @@ tags:
 - scent
 - olly
 - kickstarter
+- electronics
 ---
 <iframe frameborder="0" height="400px" src="http://www.kickstarter.com/projects/1209578799/olly-the-web-connected-smelly-robot/widget/video.html" width="500px" style="margin-bottom: 0;"></iframe>
 

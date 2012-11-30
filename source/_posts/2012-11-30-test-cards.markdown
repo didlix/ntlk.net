@@ -8,6 +8,8 @@ tags:
 - conductive paint
 - electronics
 - leds 
+- christmas
+- workshop
 ---
 
 ![Conductive paint slowly drying](https://farm9.staticflickr.com/8202/8231319326_178f198fc5_z.jpg)

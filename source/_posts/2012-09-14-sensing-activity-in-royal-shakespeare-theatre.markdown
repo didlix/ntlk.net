@@ -13,6 +13,8 @@ tags:
 - noise
 - motion
 - iot
+- electronics
+- data
 ---
 
 ![Motion Sensor in the Swan Bar](http://farm9.staticflickr.com/8297/7918060170_84de124234_z.jpg)

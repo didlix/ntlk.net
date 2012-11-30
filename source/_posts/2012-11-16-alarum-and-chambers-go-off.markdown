@@ -7,6 +7,11 @@ tags:
 - alarum
 - rsc
 - caper
+- electronics
+- sensors
+- data
+- arduino
+- coding
 ---
 ![alarum](http://farm9.staticflickr.com/8345/8190530008_c57f2bcbb4_z.jpg)
 

@@ -13,6 +13,7 @@ tags:
 - image processing
 - painting
 - plotter
+- electronics
 ---
 I intend to build a drawing robot soon as a part of a bigger project that will hopefully culminate in a short animation. I have just been given a broken HP Deskjet D4260 so I already have a few parts I might need. I am not yet fully decided on which approach to take, so here's a roundup of different drawing machines to inspire me. 
 

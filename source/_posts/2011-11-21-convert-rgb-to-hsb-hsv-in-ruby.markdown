@@ -9,6 +9,8 @@ tags:
 - rgb
 - hsb
 - hsl
+- image processing
+- coding
 ---
 
 I needed to convert RGB values into HSB. I found a very old gem, [colour-tools][1], which sadly only converts to HSL. So I rewrote [Alvein's C implementation][2] to calculate it in Ruby. Hope it saves someone time.

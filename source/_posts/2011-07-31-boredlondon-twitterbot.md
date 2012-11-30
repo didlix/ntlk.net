@@ -5,6 +5,7 @@ tags:
 - twitter
 - bot
 - ruby
+- coding
 ---
 
 Part of my [final undergraduate project was][5] an experiment where I used a Twitter bot to reach a large audience in a short time. I wanted to see if people can be stimulated to action (and if so, how). [The source][5] is on Github, so you can have a proper look through it. [AeroFade][3]'s [bot which won][2] the [Socialbots][1] competition was a huge inspiration.
