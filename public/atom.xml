@@ -4,17 +4,114 @@
   <title>ntlk&#8217;s blog</title>
   <link href="http://ntlk.net/atom.xml" rel="self"/>
   <link href="http://ntlk.net/"/>
-<<<<<<< HEAD
-  <updated>2012-09-14T07:40:31+01:00</updated>
-=======
-  <updated>2012-08-27T11:47:05+01:00</updated>
->>>>>>> d328cf40149f201f2b44e687576728249e7122d0
+  <updated>2012-11-21T11:41:52+00:00</updated>
   <id>http://ntlk.net/</id>
   <author>
     <name>ntlk</name>
     
   </author>
 
+  
+  <entry>
+    <title>Bling my card</title>
+    <link href="http://ntlk.net/2012/11/21/bling-my-card"/>
+    <updated>2012-11-21T11:10:00+00:00</updated>
+    <id>http://ntlk.net/2012/11/21/bling-my-card</id>
+    <content type="html">&lt;p&gt;Some time back I have been working with &lt;a href=&quot;http://wearecaper.com/&quot;&gt;Caper&lt;/a&gt; on a project which led me to the discovery of &lt;a href=&quot;http://www.bareconductive.com/&quot;&gt;Bare Conductive&amp;#8217;s&lt;/a&gt; &lt;a href=&quot;http://www.bareconductive.com/bare-paint-1&quot;&gt;conductive paint&lt;/a&gt;. I got very excited at the prospect of being able to do a gentle introduction into the world of electronics though a very inviting medium of making a mess on paper with the tools you already know how to use.&lt;/p&gt;
+
+&lt;p&gt;Bare Conductive were one of the sponsors of the &lt;a href=&quot;http://www.makerfairebrighton.com/&quot;&gt;Brighton Mini Maker Faire&lt;/a&gt; this year, and I briefly spoke to them - they are very nice people. I hope this post doesn&amp;#8217;t sound like an advertiorial, but really, I only have positive things to say about possibilities it creates in making and teaching electronics. I&amp;#8217;ve seen &lt;a href=&quot;http://www.bareconductive.com/bare-conductive-card-kit&quot;&gt;Bare&amp;#8217;s card making kits&lt;/a&gt;, and whilst simple and fun to make, they introduce some very basic concepts of electronics with no effort at all.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.bareconductive.com/file/2012-09-27-img-2375-jpg&quot; alt=&quot;Bare Conductive&#8217;s Robot Card Kit&quot; /&gt;
+&lt;em&gt;One of the Robot Card Kits Bare Conductive Make, photo from &lt;a href=&quot;http://www.bareconductive.com/&quot;&gt;Bare Conductive&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;So to try out infecting a large number of people with a making and tinkering bug, I will be running a &lt;a href=&quot;http://blingmycard.ntlk.net/&quot;&gt;half-party, half-workshop making Christmas cards&lt;/a&gt; with some LEDS in (aptly named &lt;a href=&quot;http://blingmycard.ntlk.net/&quot;&gt;Bling My Card&lt;/a&gt; - thanks &lt;a href=&quot;http://www.deanvipond.com/&quot;&gt;Dean&lt;/a&gt;). Guaranteed to put you in a festive mood. It&amp;#8217;s on 5th December, from 6pm to 8pm, and &lt;a href=&quot;http://blingmycard.eventbrite.co.uk/&quot;&gt;tickets are £12&lt;/a&gt; - this covers the cost of the materials, and any profit goes to &lt;a href=&quot;http://rockinghorse.org.uk/&quot;&gt;Rockinghorse&lt;/a&gt;. That, and you get the become a part of an experiment which will test how many people I can infect with a new hobby in a single evening.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;#8217;re not in Brighton or are busy you can &lt;a href=&quot;http://www.bareconductive.com/christmas-card-kit-tutorial&quot;&gt;make some awesome cards&lt;/a&gt; on your own: Bare have prepared a very thorough &lt;a href=&quot;http://www.bareconductive.com/christmas-card-kit-tutorial&quot;&gt;tutorial&lt;/a&gt; explaining everything you need to know (which is very little).&lt;/p&gt;
+
+&lt;p&gt;Of course, conductive paint lends itself to so much more than cardmaking, which is what I would like to play with once I get some spare time again. There are folks working on some interesting innovative projects that benefit from the tactile quality of making bendable circuits on paper.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/user1899679&quot;&gt;Antonio Gomes&lt;/a&gt; made an interface that uses the paint and conductive gloves to control music.&lt;/p&gt;
+
+&lt;iframe src=&quot;http://player.vimeo.com/video/45811285?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;badge=0&quot; width=&quot;600&quot; height=&quot;338&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;You can see more examples of some cool projects &lt;a href=&quot;http://www.bareconductive.com/community&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Alarum; and chambers go off</title>
+    <link href="http://ntlk.net/2012/11/16/alarum-and-chambers-go-off"/>
+    <updated>2012-11-16T08:31:00+00:00</updated>
+    <id>http://ntlk.net/2012/11/16/alarum-and-chambers-go-off</id>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8345/8190530008_c57f2bcbb4_z.jpg&quot; alt=&quot;alarum&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Remember me getting &lt;a href=&quot;2012/09/14/sensing-activity-in-royal-shakespeare-theatre/&quot;&gt;all excited about installing sensors around the Royal Shakespeare Theatre&lt;/a&gt;? The commission I have been working on with &lt;a href=&quot;http://wearecaper.com/&quot;&gt;Caper&lt;/a&gt; has been &lt;a href=&quot;http://myshakespeare.worldshakespearefestival.org.uk/gallery/alarum-by-natalia-buckley-and-caper/&quot;&gt;unveiled yesterday&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://alarumproject.com/&quot;&gt;Alarum&lt;/a&gt; is an ambient visualisation of the data showing changes in sound levels and motion around the theatre building.&lt;/p&gt;
+
+&lt;p&gt;The data often comes in every twenty to thirty seconds, depending on sensors&amp;#8217; connectivity, so it needs to be analysed to decide which changes in sounds and motion level are meaningful.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://alarumproject.com/&quot;&gt;Alarum&lt;/a&gt; looks at average levels of data it receives. When these suddenly increase, it knows something has happened. If they continue at higher levels, it means activities continue in this part of the theatre. It is interesting to see how these change depending on time of the day, and how they change over the course of days and weeks.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://cosm.com/feeds/72813&quot;&gt;The raw data is available&lt;/a&gt;, so you can build something with it yourself. It would be great to see other projects made that look at it in a different way. Alarum&amp;#8217;s code is &lt;a href=&quot;https://github.com/ntlk/heartbeat&quot;&gt;on GitHub under the codename heartbeat&lt;/a&gt;, though it&amp;#8217;s so messy I am a bit embarassed to be sharing it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8180/7917689864_c40b54a5de_z.jpg&quot; alt=&quot;First sensor readings being received by Cosm&quot; /&gt;
+&lt;em&gt;The first raw sensor data being received by Cosm&lt;/em&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Teaching coding to beginners</title>
+    <link href="http://ntlk.net/2012/11/11/coding-for-beginners"/>
+    <updated>2012-11-11T20:38:00+00:00</updated>
+    <id>http://ntlk.net/2012/11/11/coding-for-beginners</id>
+    <content type="html">&lt;p&gt;In September I ran &lt;a href=&quot;http://lighthouse.org.uk/programme/schools-workshop-with-natalia-buckley&quot;&gt;two workshops with year 10 students&lt;/a&gt; here in Brighton, as part of &lt;a href=&quot;http://lighthouse.org.uk/&quot;&gt;Lighthouse&lt;/a&gt;&amp;#8217;s educational programme for &lt;a href=&quot;http://2012.brightondigitalfestival.co.uk/&quot;&gt;Brighton Digital Festival&lt;/a&gt;. We made games in Scratch together. That was my first opportunity to work with people so young, and the difference sin their approach to learning, as opposed to adults I have shared my skills with, were quite interesting. As I am preparing creative coding workshops I&amp;#8217;ll be running at &lt;a href=&quot;http://www.gold.ac.uk/&quot;&gt;Goldsmiths&lt;/a&gt; in December, and working on some &lt;a href=&quot;http://www.codeclub.org.uk/&quot;&gt;CodeClub&lt;/a&gt; projects, I am having to think a lot about approach to teaching how to code.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://ntlk.net/images/scratch.jpg&quot; alt=&quot;A game created by one of the students at Brighton Aldrige Community Academy&quot; /&gt;
+&lt;em&gt;A game created by one of the students at Brighton Aldrige Community Academy&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;With adults, I have focused on showing what&amp;#8217;s possible with code, and trying to inspire them enough to make overcoming the first period of learning a bit less of a daunting task. I assumed that as non-technical audience they may see learning programming as very difficult. It&amp;#8217;s certainly how I saw it to start with, but I kept at it despite failing to grasp concepts and finding syntax of some of the languages unintuitive. I did so because I knew what awaited me: the power to create something, anything, out of nothing. The only barrier was my willingness to stick it out. I hoped similar approach could work for others.&lt;/p&gt;
+
+&lt;p&gt;Kids, on the other hand, did not need to be inspired or encouraged to try something new and tricky. They just did. We were building games using Scratch, which makes learning to code more accessible in many ways. First of all, it&amp;#8217;s a visual environment, where it’s easy to snap commands together, nest them or move them around. Secondly, all possible commands are visible, so when you’re stuck it’s easy to peruse them and maybe find something suitable. Thirdly, it has a built in collection of sounds and images that can be used in games or application. It&amp;#8217;s a breeze to get started.&lt;/p&gt;
+
+&lt;p&gt;In one of the sessions with kids I had a very small group, so I was able to let them do whatever they wanted and help each one of them separately. They all made different games, and I could adapt how I explain things based on their projects. I was there to get them started and guide them when they got stuck, but they honestly needed no encouragement whatsoever. Before I knew it they have explored the possibilities of Scratch beyond what I was able to cover and amazed me with their ingenuity and creativity.&lt;/p&gt;
+
+&lt;p&gt;With adult beginners though my primary focus is on encouraging that playful approach. My aim was never to prepare for the glamorous life of a programmer, or to teach a specific language in depth (not that I know any one of them that well), but rather to foster the same kind of hacker mentality that I always found appealing: figuring out how things work, being able to learn anything by poking them and just trying things out. There’s a huge difference between career programming and coding as a hobby and I’m not so interested in the former.&lt;/p&gt;
+
+&lt;p&gt;Coding is a creative endeavour. As &lt;a href=&quot;http://zedshaw.com/&quot;&gt;Zed A. Shaw&lt;/a&gt; wrote in &lt;a href=&quot;http://learnpythonthehardway.org/book/&quot;&gt;&amp;#8220;Learn Python the hard way&amp;#8221;&lt;/a&gt;, &amp;#8220;as an intellectual activity [programming] is the only art form that allows you to create interactive art. You can create projects that other people can play with, and you can talk to them indirectly. No other art form is quite this interactive. Movies flow to the audience in one direction. Paintings do not move. Code goes both ways.&amp;#8221;&lt;/p&gt;
+
+&lt;p&gt;In school most people got to try drawing or playing instruments. Trying out code should sit in the same category: as a creative pursuit that you should at least try before you decide whether you like it or not. There is a huge drive now to get kids to do just that, whether it&amp;#8217;s to give them skills required by the modern world or whether it&amp;#8217;s about teaching creative ways of thinking. &lt;a href=&quot;http://www.codeclub.org.uk/&quot;&gt;CodeClub&lt;/a&gt; is one of the initiatives that has the potential to not just show how much this is needed, but provides the solutions. Kids will be okay.&lt;/p&gt;
+
+&lt;p&gt;I am interested in the generation that sits between those who had BBC Micros at home and kids of today. It can be prohibitively expensive to just try it out. &lt;a href=&quot;http://decoded.co/&quot;&gt;Decoded&lt;/a&gt; was a series of workshops which, &lt;a href=&quot;http://decoded.co/testimonials/&quot;&gt;judging by the feedback from their attendees&lt;/a&gt;, were absolutely brilliant. However, with a price tag of over £500 it&amp;#8217;s not something just anyone could do.&lt;/p&gt;
+
+&lt;p&gt;It is often said among programmers that all you need to learn is access to the internet, as you can find free books, tutorials and communities to ask questions – it&amp;#8217;s all readily available. It&amp;#8217;s true that there are many approaches to sharing the knowledge and the likelihood is that every learning style is catered for, but finding good resources and going it alone can be tricky.&lt;/p&gt;
+
+&lt;p&gt;Still, there is for example &lt;a href=&quot;http://www.dontfeartheinternet.com/&quot;&gt;Don&amp;#8217;t Fear the Internet&lt;/a&gt;, a brilliant series of screencasts explaining HTML &amp;amp; CSS in an approachable manner. There is &lt;a href=&quot;http://www.codecademy.com/&quot;&gt;CodeAcademy&lt;/a&gt; which now has courses on several languages and allows users to build their own challenges and exercises. I have to say that I found some of them a little tedious and mechanical, though many beginners find them useful. &lt;a href=&quot;http://www.good.is/&quot;&gt;GOOD magazine&lt;/a&gt; has recently launched it&amp;#8217;s own &lt;a href=&quot;http://cfg.good.is/home&quot;&gt;web basics course&lt;/a&gt;, with prizes for the most adept participants. There are more and more resources, and I think they are becoming easier to come across, but since I look out for these things I may be a little biased.&lt;/p&gt;
+
+&lt;p&gt;The most exciting space to watch right now is development of programming tools. &lt;a href=&quot;http://worrydream.com/&quot;&gt;Bret Victor&lt;/a&gt; wrote an &lt;a href=&quot;http://worrydream.com/LearnableProgramming/&quot;&gt;absolutely superb essay&lt;/a&gt; on improving the way people learn to code by improving those. He points out that getting beginners to randomly change numbers in short programs and thus figure out how it all works is absurd, and there should be better ways of knowing what the syntax means and how the program is executed step by step. It&amp;#8217;s a long piece of writing, but it&amp;#8217;s absolutely worth it and I wholeheartedly recommend &lt;a href=&quot;http://worrydream.com/LearnableProgramming/&quot;&gt;you read it&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;He spoke about it during a presentation he gave at &lt;a href=&quot;http://2012.cusec.net/&quot;&gt;CUSEC 2012&lt;/a&gt;, and has shown a prototype of a tool that would make learning programming and creating with programming easier. To him it&amp;#8217;s about having a direct connection to your creation, and allowing yourself to discover things through this immediacy.&lt;/p&gt;
+
+&lt;iframe src=&quot;http://player.vimeo.com/video/36579366?byline=0&amp;amp;badge=0&quot; width=&quot;600&quot; height=&quot;337&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;Having tools like this to show to beginners would be brilliant. Staring at code which you cannot understand can be intimidating in a way that playing with buttons, sliders and dials isn&amp;#8217;t. Modern electronic instruments make it easy to just pick them up and start playing with them even if you lack any music knowledge, modern programming tools should do the same.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Brighton Mini Maker Faire 2012 - thanks for coming!</title>
+    <link href="http://ntlk.net/2012/09/21/brighton-mini-maker-faire-2012"/>
+    <updated>2012-09-21T15:54:00+01:00</updated>
+    <id>http://ntlk.net/2012/09/21/brighton-mini-maker-faire-2012</id>
+    <content type="html">&lt;p&gt;Apparently over 7000 people have visited Brighton Mini Maker Faire this years, so there&amp;#8217;s a chance that if you live in Brighton you were one of them.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://zine.openrightsgroup.org/features/2012/brighton-mini-maker-faire&quot;&gt;I&amp;#8217;ve written a post&lt;/a&gt; for the &lt;a href=&quot;http://zine.openrightsgroup.org/&quot;&gt;ORGZine&lt;/a&gt; about what it is and what were my highlights, so I won&amp;#8217;t repeat that here, instead I just wanted to thank everyone involved. The amazing makers who came to show their wonderful inventions, all other organisers, our tireless volunteers and of course, the generous speakers who came to share tips on their creative process.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;#8217;ve missed it, check out the &lt;a href=&quot;http://www.flickr.com/groups/bmmf/&quot;&gt;BMMF Flickr group&lt;/a&gt; to see some of the projects on display.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Sensing activity in Royal Shakespeare Theatre</title>
@@ -428,77 +525,6 @@ end
 &lt;p&gt;&lt;img src=&quot;http://farm7.static.flickr.com/6084/6112843667_620efcf842.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I wanted to say thank you to everyone who got involved in organising it and everyone who turned up on the day to look at and play with some amazing creations! We&amp;#8217;re told more than 5000 people came through the door. None of this would have been possible without a massive group of volunteers, and organisers who have taken on a huge challenge and worked for months to make it happen. Let&amp;#8217;s hope next year we can make it even bigger.&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>Riotwiki</title>
-    <link href="http://ntlk.net/2011/08/14/riotwiki"/>
-    <updated>2011-08-14T00:00:00+01:00</updated>
-    <id>http://ntlk.net/2011/08/14/riotwiki</id>
-    <content type="html">&lt;p&gt;Often as a group we have a greater capacity for understanding than when we act as individuals, especially when confronted with issues of great complexity. This is why I think &lt;a href=&quot;http://riotwiki.wikispaces.com/&quot;&gt;riotwiki&lt;/a&gt;, collecting information about the 2011 UK riots, is a very good idea. If you can, please participate in creating a full account of what happened.&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>Boredlondon Twitter bot</title>
-    <link href="http://ntlk.net/2011/07/31/boredlondon-twitterbot"/>
-    <updated>2011-07-31T00:00:00+01:00</updated>
-    <id>http://ntlk.net/2011/07/31/boredlondon-twitterbot</id>
-    <content type="html">&lt;p&gt;Part of my &lt;a href=&quot;https://github.com/ntlk/boredlondon&quot;&gt;final undergraduate project was&lt;/a&gt; an experiment where I used a Twitter bot to reach a large audience in a short time. I wanted to see if people can be stimulated to action (and if so, how). &lt;a href=&quot;https://github.com/ntlk/boredlondon&quot;&gt;The source&lt;/a&gt; is on Github, so you can have a proper look through it. &lt;a href=&quot;http://aerofade.rk.net.nz/&quot;&gt;AeroFade&lt;/a&gt;&amp;#8217;s &lt;a href=&quot;http://www.webecologyproject.org/2011/02/complete-source-code-from-socialbots-2011/&quot;&gt;bot which won&lt;/a&gt; the &lt;a href=&quot;http://www.webecologyproject.org/2011/01/help-robots-take-over-the-internet-the-socialbots-2011-competition/&quot;&gt;Socialbots&lt;/a&gt; competition was a huge inspiration.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://twitter.com/boredlondon&quot;&gt;@boredlondon&lt;/a&gt; bot compiles a list of stuff to do in London from various rss feeds, with some free activities thrown into the mix. It then searches for people who say they are bored and (if their geolocation data points to London) it then introduces itself. If they reply (or mention the bot at all), it will give them a suggestion for a random activity.&lt;/p&gt;
-
-&lt;p&gt;Surprisingly, most of the interactions are very well natured and polite.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://ntlk.net/images/boredombot1.png&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;http://ntlk.net/images/boredombot2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Though most of the bot&amp;#8217;s suggestions weren&amp;#8217;t what the participants could have hoped for.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://ntlk.net/images/boredombot3.png&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;http://ntlk.net/images/boredombot4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;It comes complete with rudimentary logging system:&lt;/p&gt;
-
-&lt;p&gt;Liquid error: No such file or directory - posix_spawnp&lt;/p&gt;
-
-&lt;p&gt;One of the improvements I should have thought about when I began the experiment was to create a robust system for logging the whole history of bot&amp;#8217;s interactions, including the messages other people send to it. Because of the way the bot was written, its replies to mentions are not strictly &lt;em&gt;replies&lt;/em&gt; (they are not linked as a part of conversation), the bot remembers the names of people who talk to it and sends them a random suggestion (code fragment edited for clarity):&lt;/p&gt;
-
-&lt;p&gt;Liquid error: No such file or directory - posix_spawnp&lt;/p&gt;
-
-&lt;p&gt;This makes it very hard to archive the &lt;em&gt;conversations&lt;/em&gt;, and sadly I haven&amp;#8217;t been doing it. I wish I had done it some other way. I would have been nice to keep track of how many replies are positive, negative, and rude; as well as noting down how many participants say they are likely to take up the suggestion. Any analysis and insights from the experiment seem anecdotal without the hard data to back it up.&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>Sound installations by Studio Zimoun</title>
-    <link href="http://ntlk.net/2011/07/09/sound-installations-by-studio-zimoun"/>
-    <updated>2011-07-09T00:00:00+01:00</updated>
-    <id>http://ntlk.net/2011/07/09/sound-installations-by-studio-zimoun</id>
-    <content type="html">&lt;iframe src=&quot;http://player.vimeo.com/video/23574715?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
-
-
-
-
-&lt;iframe src=&quot;http://player.vimeo.com/video/24262931?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
-
-
-&lt;p&gt;Feasting my eyes and ears on these. &lt;a href=&quot;http://zimoun.ch&quot;&gt;Zimoun&lt;/a&gt; specialises in creating sound installations generated by mechanical movements. Many of his works use rotating motors to bump small objects against each other. Result is strangely organic and captivating.&lt;/p&gt;
-
-&lt;p&gt;There are many more fantastic videos of his work on &lt;a href=&quot;http://vimeo.com/zimoun&quot;&gt;Vimeo&lt;/a&gt;. Well worth a look.&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>Constellation</title>
-    <link href="http://ntlk.net/2011/07/09/constellation"/>
-    <updated>2011-07-09T00:00:00+01:00</updated>
-    <id>http://ntlk.net/2011/07/09/constellation</id>
-    <content type="html">&lt;iframe width=&quot;500&quot; height=&quot;314&quot; src=&quot;http://www.youtube.com/embed/VRf7slf6XfY&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-
-
-&lt;p&gt;&lt;a href=&quot;http://www.kinetic-lights.com/index.php?men=projects&amp;amp;sub=constellation&quot;&gt;Constellation&lt;/a&gt; – a light installation by &lt;a href=&quot;http://www.whitevoid.com/&quot;&gt;WhiteVoid&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
   

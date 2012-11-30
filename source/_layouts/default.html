@@ -4,11 +4,10 @@
     <div id="wrapper">
       <header>
         <a href="/"><img src="/images/resistance-logo-tiny.png" id="logo" alt="Personal thoughts"></a>
-        <h1 id="site-title" class="visuallyhidden">Personal thoughts</h1>
       </header>
 
-      {% if page.title != "ntlk's blog" %}
-      <h2>{{ page.title }}</h2>
+      {% if page.title %}
+        <h2>{{ page.title }}</h2>
       {% endif %}
       <div class="post page">
         {{ content | expand_urls: root_url | backtick_codeblock | smart_quotes }}
