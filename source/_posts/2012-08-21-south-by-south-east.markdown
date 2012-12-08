@@ -10,6 +10,8 @@ tags:
 - reasons to be creative
 - brighton sf
 - dconstruct
+- brighton digital festival
+- bdf
 ---
 
 If you live in or near Brighton, September is going to be like Christmas. No, wait, it's going to be better than Christmas.

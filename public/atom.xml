@@ -4,13 +4,56 @@
   <title>ntlk&#8217;s blog</title>
   <link href="http://ntlk.net/atom.xml" rel="self"/>
   <link href="http://ntlk.net/"/>
-  <updated>2012-11-30T23:09:26+00:00</updated>
+  <updated>2012-12-08T15:18:17+00:00</updated>
   <id>http://ntlk.net/</id>
   <author>
     <name>ntlk</name>
     
   </author>
 
+  
+  <entry>
+    <title>Code Club Raspberry Pi hack day</title>
+    <link href="http://ntlk.net/2012/12/08/code-club-raspberry-pi-hack-day"/>
+    <updated>2012-12-08T15:00:00+00:00</updated>
+    <id>http://ntlk.net/2012/12/08/code-club-raspberry-pi-hack-day</id>
+    <content type="html">&lt;p&gt;Today I went to &lt;a href=&quot;http://www.codeclub.org.uk/&quot;&gt;Code Club&lt;/a&gt;&amp;#8217;s Raspberry Pi hack day. The aim is to create some projects Code Club students could do with Rasberry Pis in their schools. I had to leave early, so I have utterly failed at making a cool project
+, I have however filled plenty of balloons with helium (probably the most important job of the day).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8065/8255050472_ed02dc34f7_z.jpg&quot; alt=&quot;Balloons&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There were slush puppies available.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8213/8254105397_6f8f3ce886_z.jpg&quot; alt=&quot;Slush Puppies&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And Play-Doh. And Jelly Beans. And of course a whole load of &lt;a href=&quot;http://www.raspberrypi.org/&quot;&gt;Raspberry Pis&lt;/a&gt;. And a giant game of Jenga and giant Connect 4. Anything to get you in the playful mood.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8342/8254013353_483864e4be_z.jpg&quot; alt=&quot;Raspberry Pis&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Before I left there were already robots being made and sample projects making use of Raspberry Pi input/output pins.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8344/8254043255_23e657518f_z.jpg&quot; alt=&quot;Sample project made in Scratch&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Can&amp;#8217;t wait to find out which projects will be the judges (who are 9-11 years old) favourites tomorrow. Good luck to everyone trying to win the prizes!&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Robots with lasers and blinky Christmas trees</title>
+    <link href="http://ntlk.net/2012/12/06/robots-with-lasers-and-blinky-christmas-trees"/>
+    <updated>2012-12-06T12:51:00+00:00</updated>
+    <id>http://ntlk.net/2012/12/06/robots-with-lasers-and-blinky-christmas-trees</id>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8484/8248214434_6ceffe5b8b_z.jpg&quot; alt=&quot;Christmas card&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I had brilliant fun last night at the Bling My Card workshop. Some very nice people came and made really awesome cards. We had mulled wine and some mince pies. I managed to get conductive paint all over myself, luckily avoiding getting it on my face.&lt;/p&gt;
+
+&lt;p&gt;So far we&amp;#8217;ve raised £148 (not counting the donation box which will get counted next week). The &lt;a href=&quot;http://lighthouse.org.uk/&quot;&gt;Lighthouse&lt;/a&gt; team made it all possible, and they have generously let us use the space, and even decorated a tree for us!&lt;/p&gt;
+
+&lt;p&gt;If you want to see the cards, I have put all the pictures up on &lt;a href=&quot;http://www.flickr.com/photos/natalia_buckley/sets/72157632184258650/&quot;&gt;Flickr&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8484/8247123765_ef3158d544_z.jpg&quot; alt=&quot;Lazzors&quot; /&gt;&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Test cards</title>
@@ -511,27 +554,6 @@ end
 &lt;p&gt;&lt;a href=&quot;http://twitter.com/eldevri&quot;&gt;Ellen de Vries&lt;/a&gt; made us bond with with bits of rubbish by giving them names and a back story. &lt;a href=&quot;http://paulo72.com/&quot;&gt;Paul Davison&lt;/a&gt; gave us an introduction to microdata, &lt;a href=&quot;http://andyhume.net/&quot;&gt;Andy Hume&lt;/a&gt; pointed out that making urls friendly to the extreme isn&amp;#8217;t always the best approach, and &lt;a href=&quot;http://www.cennydd.co.uk/&quot;&gt;Cennydd Bowles&lt;/a&gt; kicked off a discussion about the role of UX, what it really means and whether it is different from product design.&lt;/p&gt;
 
 &lt;p&gt;If you&amp;#8217;ve missed out on tickets to UX Camp you might be interested in &lt;a href=&quot;http://designjambrighton.eventbrite.com/&quot;&gt;Design Jam&lt;/a&gt;, which is also a free event, but will give you a chance to do something practical.&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>If in doubt use more glowstone</title>
-    <link href="http://ntlk.net/2011/09/27/if-in-doubt-use-more-glowstone"/>
-    <updated>2011-09-27T23:46:00+01:00</updated>
-    <id>http://ntlk.net/2011/09/27/if-in-doubt-use-more-glowstone</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;http://ntlk.net/images/minecraft-tree-1.png&quot;&gt;&lt;img src=&quot;http://ntlk.net/images/minecraft-tree-1.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;http://ntlk.net/images/minecraft-tree-3.png&quot;&gt;&lt;img src=&quot;http://ntlk.net/images/minecraft-tree-3.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;My favourite thing to do in Minecraft is to build things. I used to either keep hacking the inventory or give myself resources 64 blocks at a time while on the server. Since 1.8 update I got my mojo back, as I can just switch on the Creative mode while in Multiplayer. It gives you unlimited blocks and you can fly. I couldn&amp;#8217;t ask for more.&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>Say hello in comments</title>
-    <link href="http://ntlk.net/2011/09/25/say-hello-in-comments"/>
-    <updated>2011-09-25T18:02:00+01:00</updated>
-    <id>http://ntlk.net/2011/09/25/say-hello-in-comments</id>
-    <content type="html">&lt;p&gt;Comments are now enabled on this blog on each post page. Be nice or get zapped.&lt;/p&gt;
 </content>
   </entry>
   
