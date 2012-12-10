@@ -4,13 +4,34 @@
   <title>ntlk&#8217;s blog</title>
   <link href="http://ntlk.net/atom.xml" rel="self"/>
   <link href="http://ntlk.net/"/>
-  <updated>2012-12-08T15:18:17+00:00</updated>
+  <updated>2012-12-10T16:58:52+00:00</updated>
   <id>http://ntlk.net/</id>
   <author>
     <name>ntlk</name>
     
   </author>
 
+  
+  <entry>
+    <title>First one down</title>
+    <link href="http://ntlk.net/2012/12/10/first-one-down"/>
+    <updated>2012-12-10T16:45:00+00:00</updated>
+    <id>http://ntlk.net/2012/12/10/first-one-down</id>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8345/8260568351_57898cf6ed_o.jpg&quot; alt=&quot;Making websites&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;#8217;ve run my first session of Creative Coding workshop with 2nd year Design students at Goldsmiths today. I wanted to give the group a good intro to web technologies, because apart from them being useful for making cool things with I am convinced most people will need them at one point or another.&lt;/p&gt;
+
+&lt;p&gt;The short course will cover HTML, CSS and JavaScript (let&amp;#8217;s be honest, with a huge dollop of jQuery), in the last couple of days focusing on using APIs to get interesting things from other places and then doing something with thise things.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#8217;ve built a quick site for collecting all the notes, materials and additional resources in one place, you can &lt;a href=&quot;http://ntlk.github.com/creative-coding-2012/&quot;&gt;find it here&lt;/a&gt;. It&amp;#8217;s &lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;CC licensed&lt;/a&gt;, so feel free to use it, adapt it, or &lt;a href=&quot;https://github.com/ntlk/creative-coding-2012&quot;&gt;contribute to making it better&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Today we&amp;#8217;ve focussed on HTML, and I&amp;#8217;ve started by showing the group Mozilla&amp;#8217;s &lt;a href=&quot;http://hackasaurus.org/en-US/goggles/&quot;&gt;X-Ray Goggles&lt;/a&gt;, which always inevitably turns into defacing the BBC website:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8197/8261133930_b7cefb9ae5_o.jpg&quot; alt=&quot;Cats, cats and more cats&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Fun times.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Code Club Raspberry Pi hack day</title>
@@ -533,27 +554,6 @@ end
 
 
 &lt;p&gt;My husband Sam and his team mate Steve have been working on their new album for the last few month. They are looking for some financial help with finishing it. I would love it if you could check out their project on &lt;a href=&quot;http://sponsume.com/project/new-soul-1/&quot;&gt;Sponsume&lt;/a&gt;, and if you like it, please share the link with your friends. Thanks!&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>UX Camp Brighton 2011</title>
-    <link href="http://ntlk.net/2011/10/02/ux-camp-brighton-2011"/>
-    <updated>2011-10-02T17:45:00+01:00</updated>
-    <id>http://ntlk.net/2011/10/02/ux-camp-brighton-2011</id>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://farm7.static.flickr.com/6171/6204481486_a2838cd0be.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I participated the UX Camp Brighton on Saturday, which took place in &lt;a href=&quot;http://www.cogapp.com/&quot;&gt;Cogapp&amp;#8217;s&lt;/a&gt; office. How do you guys get any work done with a view like this?&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://farm7.static.flickr.com/6176/6204498904_1d094b44e2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Despite it being the warmest and most beautiful day we had this year, the turnout was impressive and I got to see some great talks and participated in though-provoking discussions.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.glennjones.net/&quot;&gt;Glenn Jones&lt;/a&gt; raised a very important point about &lt;a href=&quot;http://en.wikipedia.org/wiki/Web_Intents&quot;&gt;web intents&lt;/a&gt; - that the language we use to describe them will have a huge impact on the success of this initiative. The terms used need to be universally understood, and this already presents challenges. I thoroughly recommend Glenn&amp;#8217;s &lt;a href=&quot;http://glennjones.net/2011/08/web-intentsgluing-web-functionality-together/&quot;&gt;blog post about web intents&lt;/a&gt;, it&amp;#8217;s a brilliant introduction to the idea.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://twitter.com/eldevri&quot;&gt;Ellen de Vries&lt;/a&gt; made us bond with with bits of rubbish by giving them names and a back story. &lt;a href=&quot;http://paulo72.com/&quot;&gt;Paul Davison&lt;/a&gt; gave us an introduction to microdata, &lt;a href=&quot;http://andyhume.net/&quot;&gt;Andy Hume&lt;/a&gt; pointed out that making urls friendly to the extreme isn&amp;#8217;t always the best approach, and &lt;a href=&quot;http://www.cennydd.co.uk/&quot;&gt;Cennydd Bowles&lt;/a&gt; kicked off a discussion about the role of UX, what it really means and whether it is different from product design.&lt;/p&gt;
-
-&lt;p&gt;If you&amp;#8217;ve missed out on tickets to UX Camp you might be interested in &lt;a href=&quot;http://designjambrighton.eventbrite.com/&quot;&gt;Design Jam&lt;/a&gt;, which is also a free event, but will give you a chance to do something practical.&lt;/p&gt;
 </content>
   </entry>
   
