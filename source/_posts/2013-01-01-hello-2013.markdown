@@ -1,0 +1,53 @@
+---
+layout: post
+title: "Hello 2013"
+date: 2013-01-01 12:37
+comments: true
+tags: 
+- year in review
+---
+
+2012 started off well – I had a great job I enjoyed, working with [Webponce][1]. We spent plenty of time on non-commercial and speculative projects. I had the best job title (Near-Futures Explorer, since you ask), awesome boss, and flexible working practices.
+
+In April I've left this job (not without a great deal of sadness) to become a technologist in residence at [Lighthouse][2] as part of [Happenstance][3], which resulted in building [Offbott][4] with [James Bridle][5] and [running workshops teaching to code][6].
+
+I have been taking on freelance work since second year at university, but after Happenstance I decided to do it full-time. Having been spoilt by having so much freedom in my working arrangements it seemed like the best thing to do. It meant I had the chance to work with [Caper][7] on exciting cultural projects such as [Alarum][9] for the Royal Shakespeare Theatre, and with [Storythings][10] on building interactive things.
+
+During Happenstance sharing my skills turned out to be both enjoyable and educational, so I was keen to continue doing it. I ran a short [game-making workshop][11] for local secondary school students as a part of Lighthouse's educational programme for [Brighton Digital Festival][12]. The year has finished with a [coding workshop][13] I did with [Goldsmiths][14] design students, who were on the same [course][15] I graduated from.
+
+I was able to devote some time to helping organise [Brighton Mini Maker Faire][16] which took place in September. I've invited [Tom Armitage][17], [Alice Taylor][18], [Matt Webb][19], [Linda Sandvik][20] representing [Code Club][22], [Leila Johnston][21] and students from Cavendish School to talk at the event about their approach to making things. Afterwards I swore I wouldn't organise events anymore as it's exhausting, but I quickly forgot about that and organised [Bling My Card][23] workshop together with Lighthouse to raise money for [Rockinghorse][24].
+
+Towards the end of the year I got inspired by the idea of "[blogging like it's 2004][25]" so I have been trying to be a lot less precious with my blog posts. I am hoping this is going to have a ripple effect on my personal projects so I will be talking about them more even if they are unfinished and imperfect. If I did the New Year resolution thing that would be one of them, but I don't, so let's leave it at that.
+
+
+
+[1]: http://webponce.com
+[2]: http://lighthouse.org.uk
+[3]: http://happenstanceproject.com/
+[4]: http://offbott.com 
+[5]: http://booktwo.org/
+[6]: http://fcc.ntlk.net/
+[7]: http://wearecaper.com/
+[8]: http://nataliabuckley.co.uk/projects/proms-music-walk/
+[9]: http://alarumproject.com/
+[10]: http://storythings.com/
+[11]: http://2012.brightondigitalfestival.co.uk/event/schools-workshop-with-natalia-buckley/
+[12]: http://2012.brightondigitalfestival.co.uk/
+[13]: http://ntlk.github.com/creative-coding-2012/
+[14]: http://www.gold.ac.uk/design/
+[15]: http://goldsmithsdesignblog.com/
+[16]: http://www.makerfairebrighton.com/
+[17]: http://infovore.org/
+[18]: http://www.wonderlandblog.com/
+[19]: http://berglondon.com/studio/matt-webb/
+[20]: http://lindasandvik.info/
+[21]: http://finalbullet.com/
+[22]: http://www.codeclub.org.uk/
+[23]: http://blingmycard.ntlk.net/
+[24]: http://www.rockinghorse.org.uk/
+[25]: http://revdancatt.com/2010/09/25/blogging-like-its-2004/
+
+
+
+
+

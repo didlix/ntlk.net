@@ -1,0 +1,144 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>ntlk's blog: Notes from the coding workshop at Goldsmiths</title>
+  <meta name="author" content="ntlk">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+
+  <link rel="canonical" href="http://ntlk.net/2012/12/16/notes-from-the-coding-workshop-at-goldsmiths"/>
+  <link href="/favicon.png" rel="shortcut icon" />
+   <link href="/stylesheets/style.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="http://s3.amazonaws.com/ender-js/jeesh.min.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  
+  <link href="/atom.xml" rel="alternate" title="ntlk's blog" type="application/atom+xml"/>
+</head>
+
+  <body>
+    <div id="wrapper">
+      <header>
+        <a href="/"><img src="/images/resistance-logo-tiny.png" id="logo" alt="Personal thoughts"></a>
+      </header>
+
+      
+        <h2>Notes from the coding workshop at Goldsmiths</h2>
+      
+      <div class="post page">
+        <div>
+<h3 class="date">December 16, 2012</h3>
+<p>On Friday I have finished <a href="http://ntlk.github.com/creative-coding-2012/">teaching coding</a> to <a href="http://goldsmithsdesignblog.com/">design</a> students at <a href="http://www.gold.ac.uk/design/">Goldsmiths</a>.</p>
+
+<p>What I really wanted to teach was how to get data from various places on the web and how you can manipulate the data to make it become something else. I realised that the least amount of time spent on setting up would be if I did that by introducing JavaScript, since everyone has it available in the browser (by that I mean the students and not <em>actually</em> everyone). I would have loved showing them Ruby, but they were using their own computers I didn&#8217;t want to risk a situation where I would spend an hour debugging someone&#8217;s Ruby installation going awry and possibly putting them off ever trying programming after such an unfortunate start. Only a couple of students have had any programming experience: one of them played with Processing before, another with C.</p>
+
+<p>To start with JavaScript I had to start with HTML. I am of the view that <em>everyone</em> should be able to read and write HTML, and so it seemed to make sense to go through HTML, CSS and JavaScript all together (some course notes and links are <a href="http://ntlk.github.com/creative-coding-2012/">all collected on the course site</a> on GitHub if you were interested in the structure of the course). I have seen people having to learn these basics (or at least the first two) in completely unrelated jobs, so hopefully these skills will come in handy even if the students don&#8217;t all end up pursuing coding as a hobby or in their creative work.</p>
+
+<p><img src="http://farm9.staticflickr.com/8499/8274548508_3460a02d10_z.jpg" alt="Visual Twitter" />
+<em>Visual Twitter</em></p>
+
+<p>I&#8217;ve learnt loads by teaching, and all these things seem so <em>obvious</em> now.</p>
+
+<h3>Teaching CSS is hard.</h3>
+
+<p>I have spent the first day explaining how the web works, and what is hypertext, and why all of this is worth knowing. I showed that browser is just a fancy way of viewing text files sent over the internet and how it will display your pages even if you litter them with mistakes. We then spent some time investigating various tags, editing code on existing websites and finally moved on to build a sample page or two in HTML before we dived into CSS.</p>
+
+<p>Then we got to CSS. I had tried to make it as simple as possible and only teach the basics, but there is no way of getting away from explaining inheritance, specificity, the box model and floats. The fact that the structure of the CSS document wasn&#8217;t a one-to-one mapping of the underlying HTML structure was also confusing.</p>
+
+<p>Very quickly I had to show some of them the <a href="http://nicolasgallagher.com/micro-clearfix-hack/">clearfix</a> hack, and I struggled to explain float clearing in a way that made sense. It also wasn&#8217;t very reassuring when I explained that I start almost every project from including this workaround.</p>
+
+<h3>JavaScript is easier than CSS.</h3>
+
+<p>Okay, maybe trolling <em>a little</em>. JavaScript is easier <em>to teach</em> than CSS. Especially when using jQuery.</p>
+
+<p>I did what I now think of as group programming, which is a slightly expanded version of pair programming (I&#8217;m sure I haven&#8217;t invented it and it&#8217;s a popular way of teaching to program, but as I lack formal education in this regard I haven&#8217;t come across anything like that before).</p>
+
+<p>I was writing the code projected on the wall while explaining what I&#8217;m doing and why, and the students followed. The little project we were working on was slowly increasing in complexity, and I kept introducing new things as we needed them. As we progressed new questions were arising. This seemed to work very well and we managed to make two small projects on the first day.</p>
+
+<p>The next day we were working on visual Twitter: getting tweets via Twitter API and then fetching photos from Flickr matching the words in the tweet. By the end of the session one of the students said she could now read code and know what it did. I think they&#8217;ve become a lot more comfortable with JavaScript than they did with CSS.</p>
+
+<h3>I took a wrong approach to teaching CSS.</h3>
+
+<p>My understanding of positioning, floats, box-model and the cascade stems from playing with CSS over the years. So I thought that the best way to grow to understand these things is to talk about them for a little bit and then to play with them. I have prepared a sample page with some CSS applied that forms a base for trying some of the things without having to write everything from scratch. I also encouraged students to write CSS for the page they made to solve some real problems and challenges. Turns out that perhaps this wasn&#8217;t the best and least confusing way.</p>
+
+<p> I think I could get much better results if I approached CSS in the way I did JavaScript and group-coded a sample project that would gradually increase in complexity. Building up confidence in using the language in that way is just as useful as building up the skill.</p>
+
+<h3>A lot of things I take for granted about developing for the web don&#8217;t make sense to a newcomer.</h3>
+
+<p>The separation between HTML, CSS and JavaScript, what they are used for and differences in syntax is something I don&#8217;t think about until I have to explain them. To my students it was an odd thing to start with, as they are used to creating documents in a different way. I hope that by the end of the course it made sense why it&#8217;s a good idea to separate content from presentation and how are markup and programming different.</p>
+
+<p>Some things made me a little bit embarrassed: the fact that we have to paper over browser inconsistencies with workarounds, that we have to provide fallback for audio and video, and that there aren&#8217;t simpler ways of doing things like layout (well, not reliably across browsers yet). They seem like such simple, straightforward things.</p>
+
+<p><img src="http://farm9.staticflickr.com/8502/8274549572_b38ddeb9fe_z.jpg" alt="A random reason for needing a tutorial generator" />
+<em>A random reason for needing a tutorial generator</em></p>
+
+<p>The group I was working with was pretty much evenly split with regards to gender, which obviously made me very happy. It was a pleasure working with all of them. Once we finished, one of the students told me that before the course that he thought coding was hard; now he doesn&#8217;t. I call that a success.</p>
+
+
+<ul class="tags">
+
+  <li><a href="/tags/goldsmiths">goldsmiths</a></li>
+
+
+  <li><a href="/tags/teaching">teaching</a></li>
+
+
+  <li><a href="/tags/coding">coding</a></li>
+
+
+  <li><a href="/tags/web">web</a></li>
+
+
+  <li><a href="/tags/programming">programming</a></li>
+
+
+  <li><a href="/tags/workshop">workshop</a></li>
+
+
+</ul>
+</div>
+
+
+      </div>
+      
+      
+      <footer>
+        <hr>
+<nav role=navigation><ul>
+  <li><a href="/archive">Archive</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/about">About</a></li>
+  <li><a href="/atom.xml">RSS</a></li>
+</ul>
+</nav>
+<hr>
+<p>ntlk<br><img src="/images/cc.png" alt="Creative Commons Attribution Non-Commercial Share-Alike"><br>Contact me by <a href="mailto:natalia.buckley@gmail.com">email</a> or on <a href="http://twitter.com/ntlk">Twitter.</a></p>
+
+      </footer>
+    </div><!-- wrapper -->  
+    
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-24336732-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+    </script>
+  </body>
+</html>

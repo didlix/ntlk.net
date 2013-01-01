@@ -10,7 +10,7 @@ This is my personal blog where I intend to talk about physical computing, intera
 
 If you'd like to see some of my work, have a look at my [portfolio][].
 
-This blog uses [Jekyll][] with [Octopress][] framework to generate static pages, and is still in development. I will add features as they become needed.
+This blog uses [Jekyll][] with [Octopress][] framework to generate static pages.
 
 You can get in touch with my by [email][] or [Twitter][].
 

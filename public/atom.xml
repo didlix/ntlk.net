@@ -4,13 +4,85 @@
   <title>ntlk&#8217;s blog</title>
   <link href="http://ntlk.net/atom.xml" rel="self"/>
   <link href="http://ntlk.net/"/>
-  <updated>2012-12-10T16:58:52+00:00</updated>
+  <updated>2013-01-01T17:05:40+00:00</updated>
   <id>http://ntlk.net/</id>
   <author>
     <name>ntlk</name>
     
   </author>
 
+  
+  <entry>
+    <title>Hello 2013</title>
+    <link href="http://ntlk.net/2013/01/01/hello-2013"/>
+    <updated>2013-01-01T12:37:00+00:00</updated>
+    <id>http://ntlk.net/2013/01/01/hello-2013</id>
+    <content type="html">&lt;p&gt;2012 started off well – I had a great job I enjoyed, working with &lt;a href=&quot;http://webponce.com&quot;&gt;Webponce&lt;/a&gt;. We spent plenty of time on non-commercial and speculative projects. I had the best job title (Near-Futures Explorer, since you ask), awesome boss, and flexible working practices.&lt;/p&gt;
+
+&lt;p&gt;In April I&amp;#8217;ve left this job (not without a great deal of sadness) to become a technologist in residence at &lt;a href=&quot;http://lighthouse.org.uk&quot;&gt;Lighthouse&lt;/a&gt; as part of &lt;a href=&quot;http://happenstanceproject.com/&quot;&gt;Happenstance&lt;/a&gt;, which resulted in building &lt;a href=&quot;http://offbott.com&quot;&gt;Offbott&lt;/a&gt; with &lt;a href=&quot;http://booktwo.org/&quot;&gt;James Bridle&lt;/a&gt; and &lt;a href=&quot;http://fcc.ntlk.net/&quot;&gt;running workshops teaching to code&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I have been taking on freelance work since second year at university, but after Happenstance I decided to do it full-time. Having been spoilt by having so much freedom in my working arrangements it seemed like the best thing to do. It meant I had the chance to work with &lt;a href=&quot;http://wearecaper.com/&quot;&gt;Caper&lt;/a&gt; on exciting cultural projects such as &lt;a href=&quot;http://alarumproject.com/&quot;&gt;Alarum&lt;/a&gt; for the Royal Shakespeare Theatre, and with &lt;a href=&quot;http://storythings.com/&quot;&gt;Storythings&lt;/a&gt; on building interactive things.&lt;/p&gt;
+
+&lt;p&gt;During Happenstance sharing my skills turned out to be both enjoyable and educational, so I was keen to continue doing it. I ran a short &lt;a href=&quot;http://2012.brightondigitalfestival.co.uk/event/schools-workshop-with-natalia-buckley/&quot;&gt;game-making workshop&lt;/a&gt; for local secondary school students as a part of Lighthouse&amp;#8217;s educational programme for &lt;a href=&quot;http://2012.brightondigitalfestival.co.uk/&quot;&gt;Brighton Digital Festival&lt;/a&gt;. The year has finished with a &lt;a href=&quot;http://ntlk.github.com/creative-coding-2012/&quot;&gt;coding workshop&lt;/a&gt; I did with &lt;a href=&quot;http://www.gold.ac.uk/design/&quot;&gt;Goldsmiths&lt;/a&gt; design students, who were on the same &lt;a href=&quot;http://goldsmithsdesignblog.com/&quot;&gt;course&lt;/a&gt; I graduated from.&lt;/p&gt;
+
+&lt;p&gt;I was able to devote some time to helping organise &lt;a href=&quot;http://www.makerfairebrighton.com/&quot;&gt;Brighton Mini Maker Faire&lt;/a&gt; which took place in September. I&amp;#8217;ve invited &lt;a href=&quot;http://infovore.org/&quot;&gt;Tom Armitage&lt;/a&gt;, &lt;a href=&quot;http://www.wonderlandblog.com/&quot;&gt;Alice Taylor&lt;/a&gt;, &lt;a href=&quot;http://berglondon.com/studio/matt-webb/&quot;&gt;Matt Webb&lt;/a&gt;, &lt;a href=&quot;http://lindasandvik.info/&quot;&gt;Linda Sandvik&lt;/a&gt; representing &lt;a href=&quot;http://www.codeclub.org.uk/&quot;&gt;Code Club&lt;/a&gt;, &lt;a href=&quot;http://finalbullet.com/&quot;&gt;Leila Johnston&lt;/a&gt; and students from Cavendish School to talk at the event about their approach to making things. Afterwards I swore I wouldn&amp;#8217;t organise events anymore as it&amp;#8217;s exhausting, but I quickly forgot about that and organised &lt;a href=&quot;http://blingmycard.ntlk.net/&quot;&gt;Bling My Card&lt;/a&gt; workshop together with Lighthouse to raise money for &lt;a href=&quot;http://www.rockinghorse.org.uk/&quot;&gt;Rockinghorse&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Towards the end of the year I got inspired by the idea of &amp;#8221;&lt;a href=&quot;http://revdancatt.com/2010/09/25/blogging-like-its-2004/&quot;&gt;blogging like it&amp;#8217;s 2004&lt;/a&gt;&amp;#8221; so I have been trying to be a lot less precious with my blog posts. I am hoping this is going to have a ripple effect on my personal projects so I will be talking about them more even if they are unfinished and imperfect. If I did the New Year resolution thing that would be one of them, but I don&amp;#8217;t, so let&amp;#8217;s leave it at that.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Notes from the coding workshop at Goldsmiths</title>
+    <link href="http://ntlk.net/2012/12/16/notes-from-the-coding-workshop-at-goldsmiths"/>
+    <updated>2012-12-16T15:17:00+00:00</updated>
+    <id>http://ntlk.net/2012/12/16/notes-from-the-coding-workshop-at-goldsmiths</id>
+    <content type="html">&lt;p&gt;On Friday I have finished &lt;a href=&quot;http://ntlk.github.com/creative-coding-2012/&quot;&gt;teaching coding&lt;/a&gt; to &lt;a href=&quot;http://goldsmithsdesignblog.com/&quot;&gt;design&lt;/a&gt; students at &lt;a href=&quot;http://www.gold.ac.uk/design/&quot;&gt;Goldsmiths&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;What I really wanted to teach was how to get data from various places on the web and how you can manipulate the data to make it become something else. I realised that the least amount of time spent on setting up would be if I did that by introducing JavaScript, since everyone has it available in the browser (by that I mean the students and not &lt;em&gt;actually&lt;/em&gt; everyone). I would have loved showing them Ruby, but they were using their own computers I didn&amp;#8217;t want to risk a situation where I would spend an hour debugging someone&amp;#8217;s Ruby installation going awry and possibly putting them off ever trying programming after such an unfortunate start. Only a couple of students have had any programming experience: one of them played with Processing before, another with C.&lt;/p&gt;
+
+&lt;p&gt;To start with JavaScript I had to start with HTML. I am of the view that &lt;em&gt;everyone&lt;/em&gt; should be able to read and write HTML, and so it seemed to make sense to go through HTML, CSS and JavaScript all together (some course notes and links are &lt;a href=&quot;http://ntlk.github.com/creative-coding-2012/&quot;&gt;all collected on the course site&lt;/a&gt; on GitHub if you were interested in the structure of the course). I have seen people having to learn these basics (or at least the first two) in completely unrelated jobs, so hopefully these skills will come in handy even if the students don&amp;#8217;t all end up pursuing coding as a hobby or in their creative work.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8499/8274548508_3460a02d10_z.jpg&quot; alt=&quot;Visual Twitter&quot; /&gt;
+&lt;em&gt;Visual Twitter&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;#8217;ve learnt loads by teaching, and all these things seem so &lt;em&gt;obvious&lt;/em&gt; now.&lt;/p&gt;
+
+&lt;h3&gt;Teaching CSS is hard.&lt;/h3&gt;
+
+&lt;p&gt;I have spent the first day explaining how the web works, and what is hypertext, and why all of this is worth knowing. I showed that browser is just a fancy way of viewing text files sent over the internet and how it will display your pages even if you litter them with mistakes. We then spent some time investigating various tags, editing code on existing websites and finally moved on to build a sample page or two in HTML before we dived into CSS.&lt;/p&gt;
+
+&lt;p&gt;Then we got to CSS. I had tried to make it as simple as possible and only teach the basics, but there is no way of getting away from explaining inheritance, specificity, the box model and floats. The fact that the structure of the CSS document wasn&amp;#8217;t a one-to-one mapping of the underlying HTML structure was also confusing.&lt;/p&gt;
+
+&lt;p&gt;Very quickly I had to show some of them the &lt;a href=&quot;http://nicolasgallagher.com/micro-clearfix-hack/&quot;&gt;clearfix&lt;/a&gt; hack, and I struggled to explain float clearing in a way that made sense. It also wasn&amp;#8217;t very reassuring when I explained that I start almost every project from including this workaround.&lt;/p&gt;
+
+&lt;h3&gt;JavaScript is easier than CSS.&lt;/h3&gt;
+
+&lt;p&gt;Okay, maybe trolling &lt;em&gt;a little&lt;/em&gt;. JavaScript is easier &lt;em&gt;to teach&lt;/em&gt; than CSS. Especially when using jQuery.&lt;/p&gt;
+
+&lt;p&gt;I did what I now think of as group programming, which is a slightly expanded version of pair programming (I&amp;#8217;m sure I haven&amp;#8217;t invented it and it&amp;#8217;s a popular way of teaching to program, but as I lack formal education in this regard I haven&amp;#8217;t come across anything like that before).&lt;/p&gt;
+
+&lt;p&gt;I was writing the code projected on the wall while explaining what I&amp;#8217;m doing and why, and the students followed. The little project we were working on was slowly increasing in complexity, and I kept introducing new things as we needed them. As we progressed new questions were arising. This seemed to work very well and we managed to make two small projects on the first day.&lt;/p&gt;
+
+&lt;p&gt;The next day we were working on visual Twitter: getting tweets via Twitter API and then fetching photos from Flickr matching the words in the tweet. By the end of the session one of the students said she could now read code and know what it did. I think they&amp;#8217;ve become a lot more comfortable with JavaScript than they did with CSS.&lt;/p&gt;
+
+&lt;h3&gt;I took a wrong approach to teaching CSS.&lt;/h3&gt;
+
+&lt;p&gt;My understanding of positioning, floats, box-model and the cascade stems from playing with CSS over the years. So I thought that the best way to grow to understand these things is to talk about them for a little bit and then to play with them. I have prepared a sample page with some CSS applied that forms a base for trying some of the things without having to write everything from scratch. I also encouraged students to write CSS for the page they made to solve some real problems and challenges. Turns out that perhaps this wasn&amp;#8217;t the best and least confusing way.&lt;/p&gt;
+
+&lt;p&gt; I think I could get much better results if I approached CSS in the way I did JavaScript and group-coded a sample project that would gradually increase in complexity. Building up confidence in using the language in that way is just as useful as building up the skill.&lt;/p&gt;
+
+&lt;h3&gt;A lot of things I take for granted about developing for the web don&amp;#8217;t make sense to a newcomer.&lt;/h3&gt;
+
+&lt;p&gt;The separation between HTML, CSS and JavaScript, what they are used for and differences in syntax is something I don&amp;#8217;t think about until I have to explain them. To my students it was an odd thing to start with, as they are used to creating documents in a different way. I hope that by the end of the course it made sense why it&amp;#8217;s a good idea to separate content from presentation and how are markup and programming different.&lt;/p&gt;
+
+&lt;p&gt;Some things made me a little bit embarrassed: the fact that we have to paper over browser inconsistencies with workarounds, that we have to provide fallback for audio and video, and that there aren&amp;#8217;t simpler ways of doing things like layout (well, not reliably across browsers yet). They seem like such simple, straightforward things.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8502/8274549572_b38ddeb9fe_z.jpg&quot; alt=&quot;A random reason for needing a tutorial generator&quot; /&gt;
+&lt;em&gt;A random reason for needing a tutorial generator&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The group I was working with was pretty much evenly split with regards to gender, which obviously made me very happy. It was a pleasure working with all of them. Once we finished, one of the students told me that before the course that he thought coding was hard; now he doesn&amp;#8217;t. I call that a success.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>First one down</title>
@@ -488,72 +560,6 @@
 &lt;p&gt;The premise is simple: there are no identities, no user accounts. You can post a poem, but you cannot edit or delete it. That&amp;#8217;s it.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://poetrybin.heroku.com&quot;&gt;&lt;img src=&quot;http://farm8.staticflickr.com/7022/6412216653_edd31767d7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>Convert RGB to HSB (HSV) in Ruby</title>
-    <link href="http://ntlk.net/2011/11/21/convert-rgb-to-hsb-hsv-in-ruby"/>
-    <updated>2011-11-21T19:40:00+00:00</updated>
-    <id>http://ntlk.net/2011/11/21/convert-rgb-to-hsb-hsv-in-ruby</id>
-    <content type="html">&lt;p&gt;I needed to convert RGB values into HSB. I found a very old gem, &lt;a href=&quot;http://rubygems.org/gems/color-tools&quot;&gt;colour-tools&lt;/a&gt;, which sadly only converts to HSL. So I rewrote &lt;a href=&quot;http://forums.devshed.com/c-programming-42/rgb-to-hsv-conversion-rountine-162526.html&quot;&gt;Alvein&amp;#8217;s C implementation&lt;/a&gt; to calculate it in Ruby. Hope it saves someone time.&lt;/p&gt;
-
-&lt;p&gt;Inputs: red, green and blue values as integers between 0 and 255. Outputs according to HSB convention: hue as degrees (up to 360), saturation and brightness as percentages.&lt;/p&gt;
-
-&lt;div&gt;&lt;script src=&#8217;https://gist.github.com/1383603.js?file=&#8217;&gt;&lt;/script&gt;
-&lt;noscript&gt;&lt;pre&gt;&lt;code&gt;# Input rgb values 1&#8230;255
-# based on http://forums.devshed.com/c-programming-42/rgb-to-hsv-conversion-rountine-162526.html
-
-r = r / 255.0
-g = g / 255.0
-b = b / 255.0
-max = [r, g, b].max
-min = [r, g, b].min
-delta = max - min
-v = max * 100
-
-if (max != 0.0)
-    s = delta / max *100
-else
-    s = 0.0
-end
-
-if (s == 0.0) 
-    h = 0.0
-else
-    if (r == max)
-        h = (g - b) / delta
-    elsif (g == max)
-        h = 2 + (b - r) / delta
-    elsif (b == max)
-        h = 4 + (r - g) / delta
-    end
-
-    h *= 60.0
-    
-    if (h &amp;lt; 0)
-        h += 360.0
-    end
-end
-
-# returns h in the range of 0..360 deg
-# s 0&#8230;100 
-# v 0&#8230;100&lt;/code&gt;&lt;/pre&gt;&lt;/noscript&gt;&lt;/div&gt;
-
-
-
-</content>
-  </entry>
-  
-  <entry>
-    <title>New Soul</title>
-    <link href="http://ntlk.net/2011/10/24/new-soul"/>
-    <updated>2011-10-24T21:37:00+01:00</updated>
-    <id>http://ntlk.net/2011/10/24/new-soul</id>
-    <content type="html">&lt;iframe src=&quot;http://player.vimeo.com/video/30979928?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitAllowFullScreen allowFullScreen&gt;&lt;/iframe&gt;
-
-
-&lt;p&gt;My husband Sam and his team mate Steve have been working on their new album for the last few month. They are looking for some financial help with finishing it. I would love it if you could check out their project on &lt;a href=&quot;http://sponsume.com/project/new-soul-1/&quot;&gt;Sponsume&lt;/a&gt;, and if you like it, please share the link with your friends. Thanks!&lt;/p&gt;
 </content>
   </entry>
   
