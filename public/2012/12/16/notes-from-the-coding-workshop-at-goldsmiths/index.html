@@ -38,26 +38,25 @@
       <div class="post page">
         <div>
 <h3 class="date">December 16, 2012</h3>
-<p>On Friday I have finished <a href="http://ntlk.github.com/creative-coding-2012/">teaching coding</a> to <a href="http://goldsmithsdesignblog.com/">design</a> students at <a href="http://www.gold.ac.uk/design/">Goldsmiths</a>.</p>
+<p>On Friday I have finished <a href='http://ntlk.github.com/creative-coding-2012/'>teaching coding</a> to <a href='http://goldsmithsdesignblog.com/'>design</a> students at <a href='http://www.gold.ac.uk/design/'>Goldsmiths</a>.</p>
 
 <p>What I really wanted to teach was how to get data from various places on the web and how you can manipulate the data to make it become something else. I realised that the least amount of time spent on setting up would be if I did that by introducing JavaScript, since everyone has it available in the browser (by that I mean the students and not <em>actually</em> everyone). I would have loved showing them Ruby, but they were using their own computers I didn&#8217;t want to risk a situation where I would spend an hour debugging someone&#8217;s Ruby installation going awry and possibly putting them off ever trying programming after such an unfortunate start. Only a couple of students have had any programming experience: one of them played with Processing before, another with C.</p>
 
-<p>To start with JavaScript I had to start with HTML. I am of the view that <em>everyone</em> should be able to read and write HTML, and so it seemed to make sense to go through HTML, CSS and JavaScript all together (some course notes and links are <a href="http://ntlk.github.com/creative-coding-2012/">all collected on the course site</a> on GitHub if you were interested in the structure of the course). I have seen people having to learn these basics (or at least the first two) in completely unrelated jobs, so hopefully these skills will come in handy even if the students don&#8217;t all end up pursuing coding as a hobby or in their creative work.</p>
+<p>To start with JavaScript I had to start with HTML. I am of the view that <em>everyone</em> should be able to read and write HTML, and so it seemed to make sense to go through HTML, CSS and JavaScript all together (some course notes and links are <a href='http://ntlk.github.com/creative-coding-2012/'>all collected on the course site</a> on GitHub if you were interested in the structure of the course). I have seen people having to learn these basics (or at least the first two) in completely unrelated jobs, so hopefully these skills will come in handy even if the students don&#8217;t all end up pursuing coding as a hobby or in their creative work.</p>
 
-<p><img src="http://farm9.staticflickr.com/8499/8274548508_3460a02d10_z.jpg" alt="Visual Twitter" />
-<em>Visual Twitter</em></p>
+<p><img alt='Visual Twitter' src='http://farm9.staticflickr.com/8499/8274548508_3460a02d10_z.jpg' /> <em>Visual Twitter</em></p>
 
 <p>I&#8217;ve learnt loads by teaching, and all these things seem so <em>obvious</em> now.</p>
 
-<h3>Teaching CSS is hard.</h3>
+<h3 id='teaching_css_is_hard'>Teaching CSS is hard.</h3>
 
 <p>I have spent the first day explaining how the web works, and what is hypertext, and why all of this is worth knowing. I showed that browser is just a fancy way of viewing text files sent over the internet and how it will display your pages even if you litter them with mistakes. We then spent some time investigating various tags, editing code on existing websites and finally moved on to build a sample page or two in HTML before we dived into CSS.</p>
 
 <p>Then we got to CSS. I had tried to make it as simple as possible and only teach the basics, but there is no way of getting away from explaining inheritance, specificity, the box model and floats. The fact that the structure of the CSS document wasn&#8217;t a one-to-one mapping of the underlying HTML structure was also confusing.</p>
 
-<p>Very quickly I had to show some of them the <a href="http://nicolasgallagher.com/micro-clearfix-hack/">clearfix</a> hack, and I struggled to explain float clearing in a way that made sense. It also wasn&#8217;t very reassuring when I explained that I start almost every project from including this workaround.</p>
+<p>Very quickly I had to show some of them the <a href='http://nicolasgallagher.com/micro-clearfix-hack/'>clearfix</a> hack, and I struggled to explain float clearing in a way that made sense. It also wasn&#8217;t very reassuring when I explained that I start almost every project from including this workaround.</p>
 
-<h3>JavaScript is easier than CSS.</h3>
+<h3 id='javascript_is_easier_than_css'>JavaScript is easier than CSS.</h3>
 
 <p>Okay, maybe trolling <em>a little</em>. JavaScript is easier <em>to teach</em> than CSS. Especially when using jQuery.</p>
 
@@ -67,23 +66,21 @@
 
 <p>The next day we were working on visual Twitter: getting tweets via Twitter API and then fetching photos from Flickr matching the words in the tweet. By the end of the session one of the students said she could now read code and know what it did. I think they&#8217;ve become a lot more comfortable with JavaScript than they did with CSS.</p>
 
-<h3>I took a wrong approach to teaching CSS.</h3>
+<h3 id='i_took_a_wrong_approach_to_teaching_css'>I took a wrong approach to teaching CSS.</h3>
 
 <p>My understanding of positioning, floats, box-model and the cascade stems from playing with CSS over the years. So I thought that the best way to grow to understand these things is to talk about them for a little bit and then to play with them. I have prepared a sample page with some CSS applied that forms a base for trying some of the things without having to write everything from scratch. I also encouraged students to write CSS for the page they made to solve some real problems and challenges. Turns out that perhaps this wasn&#8217;t the best and least confusing way.</p>
 
-<p> I think I could get much better results if I approached CSS in the way I did JavaScript and group-coded a sample project that would gradually increase in complexity. Building up confidence in using the language in that way is just as useful as building up the skill.</p>
+<p>I think I could get much better results if I approached CSS in the way I did JavaScript and group-coded a sample project that would gradually increase in complexity. Building up confidence in using the language in that way is just as useful as building up the skill.</p>
 
-<h3>A lot of things I take for granted about developing for the web don&#8217;t make sense to a newcomer.</h3>
+<h3 id='a_lot_of_things_i_take_for_granted_about_developing_for_the_web_dont_make_sense_to_a_newcomer'>A lot of things I take for granted about developing for the web don&#8217;t make sense to a newcomer.</h3>
 
 <p>The separation between HTML, CSS and JavaScript, what they are used for and differences in syntax is something I don&#8217;t think about until I have to explain them. To my students it was an odd thing to start with, as they are used to creating documents in a different way. I hope that by the end of the course it made sense why it&#8217;s a good idea to separate content from presentation and how are markup and programming different.</p>
 
 <p>Some things made me a little bit embarrassed: the fact that we have to paper over browser inconsistencies with workarounds, that we have to provide fallback for audio and video, and that there aren&#8217;t simpler ways of doing things like layout (well, not reliably across browsers yet). They seem like such simple, straightforward things.</p>
 
-<p><img src="http://farm9.staticflickr.com/8502/8274549572_b38ddeb9fe_z.jpg" alt="A random reason for needing a tutorial generator" />
-<em>A random reason for needing a tutorial generator</em></p>
+<p><img alt='A random reason for needing a tutorial generator' src='http://farm9.staticflickr.com/8502/8274549572_b38ddeb9fe_z.jpg' /> <em>A random reason for needing a tutorial generator</em></p>
 
 <p>The group I was working with was pretty much evenly split with regards to gender, which obviously made me very happy. It was a pleasure working with all of them. Once we finished, one of the students told me that before the course that he thought coding was hard; now he doesn&#8217;t. I call that a success.</p>
-
 
 <ul class="tags">
 

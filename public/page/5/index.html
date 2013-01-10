@@ -39,25 +39,37 @@
 <ul class="posts">
   
     <li class="post">
+      <h2><a href="/2011/12/30/discussing-digital-literacy-on-techgrumps">Discussing digital literacy on Techgrumps</a></h2>
+      <h3 class="date">December 30, 2011</h3>
+      <p>Last night I was talking about teaching digital skills to kids with some very smart people on Techgrumps. You can find the podcast <a href='https://techgrumps.wordpress.com/2011/12/29/techgrumps-51-noncomputing-for-generation-t/'>here</a>.</p>
+      
+      <ul class="tags">
+      
+        <li><a href="/tags/techgrumps">techgrumps</a></li>
+
+      
+        <li><a href="/tags/podcast">podcast</a></li>
+
+      
+      </ul>
+    </li>
+  
+    <li class="post">
       <h2><a href="/2011/11/27/poetrybin">Poetrybin</a></h2>
       <h3 class="date">November 27, 2011</h3>
-      <p>A few days ago I saw <a href="https://twitter.com/unhaunting/status/139422971172368384">this tweet</a>.</p>
+      <p>A few days ago I saw <a href='https://twitter.com/unhaunting/status/139422971172368384'>this tweet</a>.</p>
 
-<p><img src="http://farm8.staticflickr.com/7166/6412166473_7b7edbf00e.jpg" alt="" /></p>
+<p><img alt='' src='http://farm8.staticflickr.com/7166/6412166473_7b7edbf00e.jpg' /></p>
 
-<p>Internet identities were on my mind for a while. Most services we use require signing up, some with your real-life name and address, forbidding you from creating multiple personas for multiple facets of your personality. Having to prove who I am every time I want to talk to friends is <span style="text-decoration: line-through">a bit</span> exactly like having to show my papers every time I speak, and having it logged by a third party.</p>
+<p>Internet identities were on my mind for a while. Most services we use require signing up, some with your real-life name and address, forbidding you from creating multiple personas for multiple facets of your personality. Having to prove who I am every time I want to talk to friends is <span style='text-decoration: line-through'>a bit</span> exactly like having to show my papers every time I speak, and having it logged by a third party.</p>
 
 <p>Watch moot talk about these issues. He&#8217;s really inspiring, and I completely agree with him: we need more choices in how our identities are represented.</p>
-
-<iframe width="500" height="339" src="http://www.youtube.com/embed/nbPASJiAfu4" frameborder="0" allowfullscreen></iframe>
-
-
-<p>I wish there were more spaces where you didn&#8217;t have to create and maintain a persona. 4chan is just one example and I appreciate that some people may not like what goes on there. So in an attempt to redress the balance at least a tiny bit I made <a href="http://poetrybin.heroku.com">Poetrybin</a>.</p>
+<iframe frameborder='0' height='339' src='http://www.youtube.com/embed/nbPASJiAfu4' width='500'>  </iframe>
+<p>I wish there were more spaces where you didn&#8217;t have to create and maintain a persona. 4chan is just one example and I appreciate that some people may not like what goes on there. So in an attempt to redress the balance at least a tiny bit I made <a href='http://poetrybin.heroku.com'>Poetrybin</a>.</p>
 
 <p>The premise is simple: there are no identities, no user accounts. You can post a poem, but you cannot edit or delete it. That&#8217;s it.</p>
 
-<p><a href="http://poetrybin.heroku.com"><img src="http://farm8.staticflickr.com/7022/6412216653_edd31767d7.jpg" alt="" /></a></p>
-
+<p><a href='http://poetrybin.heroku.com'><img alt='' src='http://farm8.staticflickr.com/7022/6412216653_edd31767d7.jpg' /></a></p>
       
       <ul class="tags">
       
@@ -79,11 +91,10 @@
     <li class="post">
       <h2><a href="/2011/11/21/convert-rgb-to-hsb-hsv-in-ruby">Convert RGB to HSB (HSV) in Ruby</a></h2>
       <h3 class="date">November 21, 2011</h3>
-      <p>I needed to convert RGB values into HSB. I found a very old gem, <a href="http://rubygems.org/gems/color-tools">colour-tools</a>, which sadly only converts to HSL. So I rewrote <a href="http://forums.devshed.com/c-programming-42/rgb-to-hsv-conversion-rountine-162526.html">Alvein&#8217;s C implementation</a> to calculate it in Ruby. Hope it saves someone time.</p>
+      <p>I needed to convert RGB values into HSB. I found a very old gem, <a href='http://rubygems.org/gems/color-tools'>colour-tools</a>, which sadly only converts to HSL. So I rewrote <a href='http://forums.devshed.com/c-programming-42/rgb-to-hsv-conversion-rountine-162526.html'>Alvein&#8217;s C implementation</a> to calculate it in Ruby. Hope it saves someone time.</p>
 
 <p>Inputs: red, green and blue values as integers between 0 and 255. Outputs according to HSB convention: hue as degrees (up to 360), saturation and brightness as percentages.</p>
-
-<div><script src='https://gist.github.com/1383603.js?file='></script>
+<div><script src='https://gist.github.com/1383603.js?file=' />
 <noscript><pre><code># Input rgb values 1...255
 # based on http://forums.devshed.com/c-programming-42/rgb-to-hsv-conversion-rountine-162526.html
 
@@ -96,36 +107,32 @@ delta = max - min
 v = max * 100
 
 if (max != 0.0)
-    s = delta / max *100
+	s = delta / max *100
 else
-    s = 0.0
+	s = 0.0
 end
 
 if (s == 0.0) 
-    h = 0.0
+	h = 0.0
 else
-    if (r == max)
-        h = (g - b) / delta
-    elsif (g == max)
-        h = 2 + (b - r) / delta
-    elsif (b == max)
-        h = 4 + (r - g) / delta
-    end
+	if (r == max)
+		h = (g - b) / delta
+	elsif (g == max)
+		h = 2 + (b - r) / delta
+	elsif (b == max)
+		h = 4 + (r - g) / delta
+	end
 
-    h *= 60.0
-    
-    if (h &lt; 0)
-        h += 360.0
-    end
+	h *= 60.0
+	
+	if (h &lt; 0)
+		h += 360.0
+	end
 end
 
 # returns h in the range of 0..360 deg
 # s 0...100 
 # v 0...100</code></pre></noscript></div>
-
-
-
-
       
       <ul class="tags">
       
@@ -156,11 +163,8 @@ end
     <li class="post">
       <h2><a href="/2011/10/24/new-soul">New Soul</a></h2>
       <h3 class="date">October 24, 2011</h3>
-      <iframe src="http://player.vimeo.com/video/30979928?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="500" height="281" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
-
-
-<p>My husband Sam and his team mate Steve have been working on their new album for the last few month. They are looking for some financial help with finishing it. I would love it if you could check out their project on <a href="http://sponsume.com/project/new-soul-1/">Sponsume</a>, and if you like it, please share the link with your friends. Thanks!</p>
-
+      <iframe frameborder='0' height='281' src='http://player.vimeo.com/video/30979928?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff' width='500'>  </iframe>
+<p>My husband Sam and his team mate Steve have been working on their new album for the last few month. They are looking for some financial help with finishing it. I would love it if you could check out their project on <a href='http://sponsume.com/project/new-soul-1/'>Sponsume</a>, and if you like it, please share the link with your friends. Thanks!</p>
       
       <ul class="tags">
       
@@ -170,20 +174,19 @@ end
     <li class="post">
       <h2><a href="/2011/10/02/ux-camp-brighton-2011">UX Camp Brighton 2011</a></h2>
       <h3 class="date">October 02, 2011</h3>
-      <p><img src="http://farm7.static.flickr.com/6171/6204481486_a2838cd0be.jpg" alt="" /></p>
+      <p><img alt='' src='http://farm7.static.flickr.com/6171/6204481486_a2838cd0be.jpg' /></p>
 
-<p>I participated the UX Camp Brighton on Saturday, which took place in <a href="http://www.cogapp.com/">Cogapp&#8217;s</a> office. How do you guys get any work done with a view like this?</p>
+<p>I participated the UX Camp Brighton on Saturday, which took place in <a href='http://www.cogapp.com/'>Cogapp&#8217;s</a> office. How do you guys get any work done with a view like this?</p>
 
-<p><img src="http://farm7.static.flickr.com/6176/6204498904_1d094b44e2.jpg" alt="" /></p>
+<p><img alt='' src='http://farm7.static.flickr.com/6176/6204498904_1d094b44e2.jpg' /></p>
 
 <p>Despite it being the warmest and most beautiful day we had this year, the turnout was impressive and I got to see some great talks and participated in though-provoking discussions.</p>
 
-<p><a href="http://www.glennjones.net/">Glenn Jones</a> raised a very important point about <a href="http://en.wikipedia.org/wiki/Web_Intents">web intents</a> - that the language we use to describe them will have a huge impact on the success of this initiative. The terms used need to be universally understood, and this already presents challenges. I thoroughly recommend Glenn&#8217;s <a href="http://glennjones.net/2011/08/web-intentsgluing-web-functionality-together/">blog post about web intents</a>, it&#8217;s a brilliant introduction to the idea.</p>
+<p><a href='http://www.glennjones.net/'>Glenn Jones</a> raised a very important point about <a href='http://en.wikipedia.org/wiki/Web_Intents'>web intents</a> - that the language we use to describe them will have a huge impact on the success of this initiative. The terms used need to be universally understood, and this already presents challenges. I thoroughly recommend Glenn&#8217;s <a href='http://glennjones.net/2011/08/web-intentsgluing-web-functionality-together/'>blog post about web intents</a>, it&#8217;s a brilliant introduction to the idea.</p>
 
-<p><a href="http://twitter.com/eldevri">Ellen de Vries</a> made us bond with with bits of rubbish by giving them names and a back story. <a href="http://paulo72.com/">Paul Davison</a> gave us an introduction to microdata, <a href="http://andyhume.net/">Andy Hume</a> pointed out that making urls friendly to the extreme isn&#8217;t always the best approach, and <a href="http://www.cennydd.co.uk/">Cennydd Bowles</a> kicked off a discussion about the role of UX, what it really means and whether it is different from product design.</p>
+<p><a href='http://twitter.com/eldevri'>Ellen de Vries</a> made us bond with with bits of rubbish by giving them names and a back story. <a href='http://paulo72.com/'>Paul Davison</a> gave us an introduction to microdata, <a href='http://andyhume.net/'>Andy Hume</a> pointed out that making urls friendly to the extreme isn&#8217;t always the best approach, and <a href='http://www.cennydd.co.uk/'>Cennydd Bowles</a> kicked off a discussion about the role of UX, what it really means and whether it is different from product design.</p>
 
-<p>If you&#8217;ve missed out on tickets to UX Camp you might be interested in <a href="http://designjambrighton.eventbrite.com/">Design Jam</a>, which is also a free event, but will give you a chance to do something practical.</p>
-
+<p>If you&#8217;ve missed out on tickets to UX Camp you might be interested in <a href='http://designjambrighton.eventbrite.com/'>Design Jam</a>, which is also a free event, but will give you a chance to do something practical.</p>
       
       <ul class="tags">
       
@@ -194,29 +197,6 @@ end
 
       
         <li><a href="/tags/uxcb11">uxcb11</a></li>
-
-      
-      </ul>
-    </li>
-  
-    <li class="post">
-      <h2><a href="/2011/09/27/if-in-doubt-use-more-glowstone">If in doubt use more glowstone</a></h2>
-      <h3 class="date">September 27, 2011</h3>
-      <p><a href="/images/minecraft-tree-1.png"><img src="/images/minecraft-tree-1.png" alt="" /></a>
-<a href="/images/minecraft-tree-3.png"><img src="/images/minecraft-tree-3.png" alt="" /></a></p>
-
-<p>My favourite thing to do in Minecraft is to build things. I used to either keep hacking the inventory or give myself resources 64 blocks at a time while on the server. Since 1.8 update I got my mojo back, as I can just switch on the Creative mode while in Multiplayer. It gives you unlimited blocks and you can fly. I couldn&#8217;t ask for more.</p>
-
-      
-      <ul class="tags">
-      
-        <li><a href="/tags/minecraft">minecraft</a></li>
-
-      
-        <li><a href="/tags/games">games</a></li>
-
-      
-        <li><a href="/tags/gaming">gaming</a></li>
 
       
       </ul>

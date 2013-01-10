@@ -4,7 +4,7 @@
   <title>ntlk&#8217;s blog</title>
   <link href="http://ntlk.net/atom.xml" rel="self"/>
   <link href="http://ntlk.net/"/>
-  <updated>2013-01-03T13:57:22+00:00</updated>
+  <updated>2013-01-10T18:12:03+00:00</updated>
   <id>http://ntlk.net/</id>
   <author>
     <name>ntlk</name>
@@ -13,39 +13,78 @@
 
   
   <entry>
+    <title>Photocommunicating</title>
+    <link href="http://ntlk.net/2013/01/10/photocommunicating"/>
+    <updated>2013-01-10T17:16:00+00:00</updated>
+    <id>http://ntlk.net/2013/01/10/photocommunicating</id>
+    <content type="html">&lt;p&gt;All good things come to pass, and so has this: &lt;a href=&#8217;http://asburyandasbury.typepad.com/blog/2012/12/instagram-didnt-get-the-tone-wrong.html&#8217;&gt;Instagram will now be sharing data with Facebook and can use metadata associated with your images, and/or your likeness and profile information in experimental advertising that may masquerade as no advertising at all&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Many of my friends left the service already, and I am considering doing the same. But this isn&amp;#8217;t the Why I Left Instagram post (I have deleted my account once before and haven&amp;#8217;t written about it then either – can I haz gold star now?). The change in Instagram&amp;#8217;s TOC got me thinking about what it was that I actually &lt;em&gt;liked&lt;/em&gt; about the service, and whether those things would be more important to me that the consequences of my grumpy face endorsing brands without my consent or renumeration.&lt;/p&gt;
+
+&lt;p&gt;When I first started using it, there were no public profiles on the web. You could see photos but only from the app, or if they were explicitly shared to other places. It meant that I could have a mostly private account, and only my friends and people I like on the web had the chance to see such wonderful visual treats like the penis-shaped mince pie or a picture of my mate&amp;#8217;s flatmate bathing on holiday. It seemed to me like sharing a photo on Instagram was a temporary means of visual communication; an off-hand joke; a shared moment. I don&amp;#8217;t think I have ever scrolled through anyone&amp;#8217;s photo archive, and I don&amp;#8217;t know if other people do, but for me it was all about being in the moment and later forgetting it.&lt;/p&gt;
+
+&lt;p&gt;But of course nothing is forgotten, this is after all the internet. I was reminded of that when the public profiles were introduced and I realised that this fleeting thing I liked so much didn&amp;#8217;t exist in the first place. I may have as well been uploading photos to Flickr, which I used to treat almost like GitHub for photos: put there everything you&amp;#8217;re proud of, everything that might be useful in the future, everything you absolutely must have another backup of and everything that other people might need. It was like a browsable archive of all the useful things. It didn&amp;#8217;t ever &lt;em&gt;feel&lt;/em&gt; like an immediate communication tool.&lt;/p&gt;
+
+&lt;p&gt;Dustin Curtis speaks about photography as communication beautifully in his post &amp;#8221;&lt;a href=&#8217;http://dcurt.is/photos-for-communication&#8217;&gt;Photography&amp;#8217;s Third Act&lt;/a&gt;&amp;#8221;. He tells the story of Treehouse, a photo sharing app that in its infancy had only one feature: sharing photos. No comments. No likes.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Instead of taking photos to maintain memories, we used them for instantaneous communication. (&lt;a href=&#8217;http://dcurt.is/photos-for-communication&#8217;&gt;Photography&amp;#8217;s Third Act&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;To me this was the difference between things I would post to Flickr (memories, records) and Instagram (communication) – obviously that&amp;#8217;s not necessarily representative of other users on each platform.&lt;/p&gt;
+
+&lt;p&gt;Tools have the potential to frame how we use them, and so Treehouse changed how people used it to its own detriment:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;It was an awesome experience, and I loved the app.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;That is, until liking, comments, and titles were added. Everyone wanted and begged for those features, of course, but adding them had an unforeseeable negative side effect: they removed the expectation that photos should be used for communication, and instead gave the impression that communication should happen around the photos. (&lt;a href=&#8217;http://dcurt.is/photos-for-communication&#8217;&gt;Photography&amp;#8217;s Third Act&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I was pondering this and realised there isn&amp;#8217;t a service I use that allows this kind of instant communication that eventually leaves not trace, like a conversation that you have one day but next week struggle to recall. And I would like that.&lt;/p&gt;
+
+&lt;p&gt;And apparently, so would others. &lt;a href=&#8217;https://itunes.apple.com/us/app/snapchat/id447188370?mt=8&#8217;&gt;Snapchat&lt;/a&gt; is a real-time image chat, and the images you send to one another disappear quickly. It became so popular that Facebook released their own &lt;a href=&#8217;http://edition.cnn.com/2012/12/21/tech/social-media/facebook-poke-app/&#8217;&gt;Poke&lt;/a&gt; to grab a piece of the self-destructing-photo market.&lt;/p&gt;
+
+&lt;p&gt;I wouldn&amp;#8217;t mind the photos staying out there for a bit longer, maybe until the next one is shared. So I&amp;#8217;ve made &lt;a href=&#8217;http://instanat.ntlk.net/&#8217;&gt;instanat&lt;/a&gt; (no need to laugh, I had always been upfront about my inability to name things). It&amp;#8217;s my own photo sharing thing. I have a special folder in my Dropbox where I can add new photos, and then they end up on the web. Only one at the time, visible until I post another one.&lt;/p&gt;
+
+&lt;p&gt;The integration with Dropbox means I can post to it from a variety of photo apps, even if they don&amp;#8217;t save directly to Dropbox. I can drop in photos and screenshots from my laptop as well.&lt;/p&gt;
+
+&lt;p&gt;I am interested to see how this will shape what I deem shareable and how I will use it, knowing that despite being fleeting-&lt;em&gt;ish&lt;/em&gt;&lt;sup id=&#8217;fnref:1&#8217;&gt;&lt;a href=&#8217;#fn:1&#8217; rel=&#8217;footnote&#8217;&gt;1&lt;/a&gt;&lt;/sup&gt; it&amp;#8217;s all completely public. We&amp;#8217;ll see.&lt;/p&gt;
+&lt;div class=&#8217;footnotes&#8217;&gt;&lt;hr /&gt;&lt;ol&gt;&lt;li id=&#8217;fn:1&#8217;&gt;
+&lt;p&gt;It&amp;#8217;s not quite fleeting though. Because it&amp;#8217;s just me, photos don&amp;#8217;t get the opportunity to disappear among others in your feed over time. I am lost for a better word to describe it though.&lt;/p&gt;
+&lt;a href=&#8217;#fnref:1&#8217; rev=&#8217;footnote&#8217;&gt;&amp;#8617;&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</content>
+  </entry>
+  
+  <entry>
     <title>Samson and Goliath</title>
     <link href="http://ntlk.net/2013/01/03/samson-and-goliath"/>
     <updated>2013-01-03T12:36:00+00:00</updated>
     <id>http://ntlk.net/2013/01/03/samson-and-goliath</id>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://farm2.staticflickr.com/1040/5186857260_4e92c9e36e_z.jpg&quot; alt=&quot;Goliath by Calotype46&quot; /&gt;
-&lt;em&gt;Harland &amp;amp; Wolff Gantry Crane, Goliath, Queen&amp;#8217;s Island, Belfast by &lt;a href=&quot;http://www.flickr.com/photos/calotype46/5186857260/&quot;&gt;Calotype46&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img alt=&#8217;Goliath by Calotype46&#8217; src=&#8217;http://farm2.staticflickr.com/1040/5186857260_4e92c9e36e_z.jpg&#8217; /&gt; &lt;em&gt;Harland &amp;amp; Wolff Gantry Crane, Goliath, Queen&amp;#8217;s Island, Belfast by &lt;a href=&#8217;http://www.flickr.com/photos/calotype46/5186857260/&#8217;&gt;Calotype46&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Samson_and_Goliath_(cranes)&quot;&gt;Samson and Goliath&lt;/a&gt; are huge shipbuilding gantry cranes in Belfast. I have fallen in love with them as soon as I saw them because they remind me of my home town, Szczecin. Szczecin&amp;#8217;s shipyard also had two huge yellow gantry cranes towering over the city, always there in the background to orientate yourself by.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#8217;http://en.wikipedia.org/wiki/Samson_and_Goliath_(cranes)&#8217;&gt;Samson and Goliath&lt;/a&gt; are huge shipbuilding gantry cranes in Belfast. I have fallen in love with them as soon as I saw them because they remind me of my home town, Szczecin. Szczecin&amp;#8217;s shipyard also had two huge yellow gantry cranes towering over the city, always there in the background to orientate yourself by.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://farm3.staticflickr.com/2389/2165943514_1f1eed3455_z.jpg?zz=1&quot; alt=&quot;Gantry crane in Szczecin, Poland, by ilm19&quot; /&gt;
-&lt;em&gt;Gantry crane in Szczecin, Poland, by &lt;a href=&quot;http://www.flickr.com/photos/ilm19/2165943514/sizes/z/&quot;&gt;ilm19&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#8217;Gantry crane in Szczecin, Poland, by ilm19&#8217; src=&#8217;http://farm3.staticflickr.com/2389/2165943514_1f1eed3455_z.jpg?zz=1&#8217; /&gt; &lt;em&gt;Gantry crane in Szczecin, Poland, by &lt;a href=&#8217;http://www.flickr.com/photos/ilm19/2165943514/sizes/z/&#8217;&gt;ilm19&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;I have come across reports that the Szczecin&amp;#8217;s cranes are up for sale, and may leave my home town in due course. I don&amp;#8217;t know how much of this is true, but this is still heartbreaking news. A gantry crane in Ulsan in South Korea &lt;a href=&quot;http://www.bloomberg.com/apps/news?pid=newsarchive&amp;amp;sid=aDm.5.mEHJnU&quot;&gt;has been named &lt;em&gt;Tears of Malmö&lt;/em&gt;&lt;/a&gt; after the sadness caused by the crane being sold and removed from its place of origin, Malmö, where it has lived for 28 years. I hope Szczecin&amp;#8217;s cranes will be named &lt;em&gt;Tears of Szczecin&lt;/em&gt; if they leave home.&lt;/p&gt;
+&lt;p&gt;I have come across reports that the Szczecin&amp;#8217;s cranes are up for sale, and may leave my home town in due course. I don&amp;#8217;t know how much of this is true, but this is still heartbreaking news. A gantry crane in Ulsan in South Korea &lt;a href=&#8217;http://www.bloomberg.com/apps/news?pid=newsarchive&amp;amp;sid=aDm.5.mEHJnU&#8217;&gt;has been named &lt;em&gt;Tears of Malmö&lt;/em&gt;&lt;/a&gt; after the sadness caused by the crane being sold and removed from its place of origin, Malmö, where it has lived for 28 years. I hope Szczecin&amp;#8217;s cranes will be named &lt;em&gt;Tears of Szczecin&lt;/em&gt; if they leave home.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Szczecin_Shipyard&quot;&gt;Stocznia Szczecińska&lt;/a&gt; (Szczecin Shipyard) has changed hands multiple times, beginning straight after the WWII when Szczecin (formerly Stettin) when the whole region was taken over by Poland. In 2009 it has been shut down and its liquidation has begun.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#8217;https://en.wikipedia.org/wiki/Szczecin_Shipyard&#8217;&gt;Stocznia Szczecińska&lt;/a&gt; (Szczecin Shipyard) has changed hands multiple times, beginning straight after the WWII when Szczecin (formerly Stettin) when the whole region was taken over by Poland. In 2009 it has been shut down and its liquidation has begun.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://ntlk.net/images/szczecin2.jpg&quot; alt=&quot;&amp;quot;Down with the decaying ruling elite&amp;quot;&quot; /&gt;
-&lt;em&gt;Banner hanging off shipyard&amp;#8217;s railing, reading &amp;#8220;Down with the decaying ruling elite&amp;#8221;, photo from &lt;a href=&quot;http://www.grudzien70.ipn.gov.pl/portal/g70/240/1671/17_XII_1970_r_czwartek.html&quot;&gt;IPN&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#8217;Down with the decaying ruling elite&#8217; src=&#8217;http://ntlk.net/images/szczecin2.jpg&#8217; /&gt; &lt;em&gt;Banner hanging off shipyard&amp;#8217;s railing, reading &amp;#8220;Down with the decaying ruling elite&amp;#8221;, photo from &lt;a href=&#8217;http://www.grudzien70.ipn.gov.pl/portal/g70/240/1671/17_XII_1970_r_czwartek.html&#8217;&gt;IPN&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;The shipyards in Poland were one of the places where resistance to communist dictatorship began forming. In December 1970 at Stocznia Szczecińska the workers protested about the rising food prices and &amp;#8220;surrounding reality&amp;#8221; (as did workers of other shipyards in the country), a protest to which the state reacted with violence, killing sixteen people and injuring over a hundred just in Szczecin. Near the shipyard&amp;#8217;s entrance there&amp;#8217;s a monument with the names of the killed.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://ntlk.net/images/szczecin1.jpg&quot; alt=&quot;Tank in front of the railway station in Szczecin&quot; /&gt;
-&lt;em&gt;Tank in front of the railway station in Szczecin, photo from &lt;a href=&quot;http://www.grudzien70.ipn.gov.pl/portal/g70/240/1671/17_XII_1970_r_czwartek.html&quot;&gt;IPN&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#8217;Tank in front of the railway station in Szczecin&#8217; src=&#8217;http://ntlk.net/images/szczecin1.jpg&#8217; /&gt; &lt;em&gt;Tank in front of the railway station in Szczecin, photo from &lt;a href=&#8217;http://www.grudzien70.ipn.gov.pl/portal/g70/240/1671/17_XII_1970_r_czwartek.html&#8217;&gt;IPN&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;The industry is moving away, taking with it its most valuable remnants and only leaving a gaping hole.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8212/8309902551_61dfa5cab8_z.jpg&quot; alt=&quot;Samson and Goliath graffiti in an underpass in Holywood near Belfast&quot; /&gt;
-&lt;em&gt;Samson and Goliath graffiti in an underpass in Holywood near Belfast&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#8217;Samson and Goliath graffiti in an underpass in Holywood near Belfast&#8217; src=&#8217;http://farm9.staticflickr.com/8212/8309902551_61dfa5cab8_z.jpg&#8217; /&gt; &lt;em&gt;Samson and Goliath graffiti in an underpass in Holywood near Belfast&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Samson and Goliath, on the other hand, were &amp;#8220;scheduled as historic monuments under Article 3 of the Historic Monuments and Archaeological Objects (Northern Ireland) Order 1995&amp;#8221; (source: &lt;a href=&quot;http://en.wikipedia.org/wiki/Samson_and_Goliath_(cranes)&quot;&gt;Wikipedia&lt;/a&gt;) which means they are there to stay.&lt;/p&gt;
+&lt;p&gt;Samson and Goliath, on the other hand, were &amp;#8220;scheduled as historic monuments under Article 3 of the Historic Monuments and Archaeological Objects (Northern Ireland) Order 1995&amp;#8221; (source: &lt;a href=&#8217;http://en.wikipedia.org/wiki/Samson_and_Goliath_(cranes)&#8217;&gt;Wikipedia&lt;/a&gt;) which means they are there to stay.&lt;/p&gt;
 
-&lt;p&gt;I couldn&amp;#8217;t find the names of the cranes in Szczecin, and I&amp;#8217;m not even sure they have any. I wish they were as loved in their home place as the Samson and Goliath are.&lt;/p&gt;
-</content>
+&lt;p&gt;I couldn&amp;#8217;t find the names of the cranes in Szczecin, and I&amp;#8217;m not even sure they have any. I wish they were as loved in their home place as the Samson and Goliath are.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -53,18 +92,17 @@
     <link href="http://ntlk.net/2013/01/01/hello-2013"/>
     <updated>2013-01-01T12:37:00+00:00</updated>
     <id>http://ntlk.net/2013/01/01/hello-2013</id>
-    <content type="html">&lt;p&gt;2012 started off well – I had a great job I enjoyed, working with &lt;a href=&quot;http://webponce.com&quot;&gt;Webponce&lt;/a&gt;. We spent plenty of time on non-commercial and speculative projects. I had the best job title (Near-Futures Explorer, since you ask), awesome boss, and flexible working practices.&lt;/p&gt;
+    <content type="html">&lt;p&gt;2012 started off well – I had a great job I enjoyed, working with &lt;a href=&#8217;http://webponce.com&#8217;&gt;Webponce&lt;/a&gt;. We spent plenty of time on non-commercial and speculative projects. I had the best job title (Near-Futures Explorer, since you ask), awesome boss, and flexible working practices.&lt;/p&gt;
 
-&lt;p&gt;In April I&amp;#8217;ve left this job (not without a great deal of sadness) to become a technologist in residence at &lt;a href=&quot;http://lighthouse.org.uk&quot;&gt;Lighthouse&lt;/a&gt; as part of &lt;a href=&quot;http://happenstanceproject.com/&quot;&gt;Happenstance&lt;/a&gt;, which resulted in building &lt;a href=&quot;http://offbott.com&quot;&gt;Offbott&lt;/a&gt; with &lt;a href=&quot;http://booktwo.org/&quot;&gt;James Bridle&lt;/a&gt; and &lt;a href=&quot;http://fcc.ntlk.net/&quot;&gt;running workshops teaching to code&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In April I&amp;#8217;ve left this job (not without a great deal of sadness) to become a technologist in residence at &lt;a href=&#8217;http://lighthouse.org.uk&#8217;&gt;Lighthouse&lt;/a&gt; as part of &lt;a href=&#8217;http://happenstanceproject.com/&#8217;&gt;Happenstance&lt;/a&gt;, which resulted in building &lt;a href=&#8217;http://offbott.com&#8217;&gt;Offbott&lt;/a&gt; with &lt;a href=&#8217;http://booktwo.org/&#8217;&gt;James Bridle&lt;/a&gt; and &lt;a href=&#8217;http://fcc.ntlk.net/&#8217;&gt;running workshops teaching to code&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;I have been taking on freelance work since second year at university, but after Happenstance I decided to do it full-time. Having been spoilt by having so much freedom in my working arrangements it seemed like the best thing to do. It meant I had the chance to work with &lt;a href=&quot;http://wearecaper.com/&quot;&gt;Caper&lt;/a&gt; on exciting cultural projects such as &lt;a href=&quot;http://alarumproject.com/&quot;&gt;Alarum&lt;/a&gt; for the Royal Shakespeare Theatre, and with &lt;a href=&quot;http://storythings.com/&quot;&gt;Storythings&lt;/a&gt; on building interactive things.&lt;/p&gt;
+&lt;p&gt;I have been taking on freelance work since second year at university, but after Happenstance I decided to do it full-time. Having been spoilt by having so much freedom in my working arrangements it seemed like the best thing to do. It meant I had the chance to work with &lt;a href=&#8217;http://wearecaper.com/&#8217;&gt;Caper&lt;/a&gt; on exciting cultural projects such as &lt;a href=&#8217;http://alarumproject.com/&#8217;&gt;Alarum&lt;/a&gt; for the Royal Shakespeare Theatre, and with &lt;a href=&#8217;http://storythings.com/&#8217;&gt;Storythings&lt;/a&gt; on building interactive things.&lt;/p&gt;
 
-&lt;p&gt;During Happenstance sharing my skills turned out to be both enjoyable and educational, so I was keen to continue doing it. I ran a short &lt;a href=&quot;http://2012.brightondigitalfestival.co.uk/event/schools-workshop-with-natalia-buckley/&quot;&gt;game-making workshop&lt;/a&gt; for local secondary school students as a part of Lighthouse&amp;#8217;s educational programme for &lt;a href=&quot;http://2012.brightondigitalfestival.co.uk/&quot;&gt;Brighton Digital Festival&lt;/a&gt;. The year has finished with a &lt;a href=&quot;http://ntlk.github.com/creative-coding-2012/&quot;&gt;coding workshop&lt;/a&gt; I did with &lt;a href=&quot;http://www.gold.ac.uk/design/&quot;&gt;Goldsmiths&lt;/a&gt; design students, who were on the same &lt;a href=&quot;http://goldsmithsdesignblog.com/&quot;&gt;course&lt;/a&gt; I graduated from.&lt;/p&gt;
+&lt;p&gt;During Happenstance sharing my skills turned out to be both enjoyable and educational, so I was keen to continue doing it. I ran a short &lt;a href=&#8217;http://2012.brightondigitalfestival.co.uk/event/schools-workshop-with-natalia-buckley/&#8217;&gt;game-making workshop&lt;/a&gt; for local secondary school students as a part of Lighthouse&amp;#8217;s educational programme for &lt;a href=&#8217;http://2012.brightondigitalfestival.co.uk/&#8217;&gt;Brighton Digital Festival&lt;/a&gt;. The year has finished with a &lt;a href=&#8217;http://ntlk.github.com/creative-coding-2012/&#8217;&gt;coding workshop&lt;/a&gt; I did with &lt;a href=&#8217;http://www.gold.ac.uk/design/&#8217;&gt;Goldsmiths&lt;/a&gt; design students, who were on the same &lt;a href=&#8217;http://goldsmithsdesignblog.com/&#8217;&gt;course&lt;/a&gt; I graduated from.&lt;/p&gt;
 
-&lt;p&gt;I was able to devote some time to helping organise &lt;a href=&quot;http://www.makerfairebrighton.com/&quot;&gt;Brighton Mini Maker Faire&lt;/a&gt; which took place in September. I&amp;#8217;ve invited &lt;a href=&quot;http://infovore.org/&quot;&gt;Tom Armitage&lt;/a&gt;, &lt;a href=&quot;http://www.wonderlandblog.com/&quot;&gt;Alice Taylor&lt;/a&gt;, &lt;a href=&quot;http://berglondon.com/studio/matt-webb/&quot;&gt;Matt Webb&lt;/a&gt;, &lt;a href=&quot;http://lindasandvik.info/&quot;&gt;Linda Sandvik&lt;/a&gt; representing &lt;a href=&quot;http://www.codeclub.org.uk/&quot;&gt;Code Club&lt;/a&gt;, &lt;a href=&quot;http://finalbullet.com/&quot;&gt;Leila Johnston&lt;/a&gt; and students from Cavendish School to talk at the event about their approach to making things. Afterwards I swore I wouldn&amp;#8217;t organise events anymore as it&amp;#8217;s exhausting, but I quickly forgot about that and organised &lt;a href=&quot;http://blingmycard.ntlk.net/&quot;&gt;Bling My Card&lt;/a&gt; workshop together with Lighthouse to raise money for &lt;a href=&quot;http://www.rockinghorse.org.uk/&quot;&gt;Rockinghorse&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I was able to devote some time to helping organise &lt;a href=&#8217;http://www.makerfairebrighton.com/&#8217;&gt;Brighton Mini Maker Faire&lt;/a&gt; which took place in September. I&amp;#8217;ve invited &lt;a href=&#8217;http://infovore.org/&#8217;&gt;Tom Armitage&lt;/a&gt;, &lt;a href=&#8217;http://www.wonderlandblog.com/&#8217;&gt;Alice Taylor&lt;/a&gt;, &lt;a href=&#8217;http://berglondon.com/studio/matt-webb/&#8217;&gt;Matt Webb&lt;/a&gt;, &lt;a href=&#8217;http://lindasandvik.info/&#8217;&gt;Linda Sandvik&lt;/a&gt; representing &lt;a href=&#8217;http://www.codeclub.org.uk/&#8217;&gt;Code Club&lt;/a&gt;, &lt;a href=&#8217;http://finalbullet.com/&#8217;&gt;Leila Johnston&lt;/a&gt; and students from Cavendish School to talk at the event about their approach to making things. Afterwards I swore I wouldn&amp;#8217;t organise events anymore as it&amp;#8217;s exhausting, but I quickly forgot about that and organised &lt;a href=&#8217;http://blingmycard.ntlk.net/&#8217;&gt;Bling My Card&lt;/a&gt; workshop together with Lighthouse to raise money for &lt;a href=&#8217;http://www.rockinghorse.org.uk/&#8217;&gt;Rockinghorse&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Towards the end of the year I got inspired by the idea of &amp;#8221;&lt;a href=&quot;http://revdancatt.com/2010/09/25/blogging-like-its-2004/&quot;&gt;blogging like it&amp;#8217;s 2004&lt;/a&gt;&amp;#8221; so I have been trying to be a lot less precious with my blog posts. I am hoping this is going to have a ripple effect on my personal projects so I will be talking about them more even if they are unfinished and imperfect. If I did the New Year resolution thing that would be one of them, but I don&amp;#8217;t, so let&amp;#8217;s leave it at that.&lt;/p&gt;
-</content>
+&lt;p&gt;Towards the end of the year I got inspired by the idea of &amp;#8221;&lt;a href=&#8217;http://revdancatt.com/2010/09/25/blogging-like-its-2004/&#8217;&gt;blogging like it&amp;#8217;s 2004&lt;/a&gt;&amp;#8221; so I have been trying to be a lot less precious with my blog posts. I am hoping this is going to have a ripple effect on my personal projects so I will be talking about them more even if they are unfinished and imperfect. If I did the New Year resolution thing that would be one of them, but I don&amp;#8217;t, so let&amp;#8217;s leave it at that.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -72,26 +110,25 @@
     <link href="http://ntlk.net/2012/12/16/notes-from-the-coding-workshop-at-goldsmiths"/>
     <updated>2012-12-16T15:17:00+00:00</updated>
     <id>http://ntlk.net/2012/12/16/notes-from-the-coding-workshop-at-goldsmiths</id>
-    <content type="html">&lt;p&gt;On Friday I have finished &lt;a href=&quot;http://ntlk.github.com/creative-coding-2012/&quot;&gt;teaching coding&lt;/a&gt; to &lt;a href=&quot;http://goldsmithsdesignblog.com/&quot;&gt;design&lt;/a&gt; students at &lt;a href=&quot;http://www.gold.ac.uk/design/&quot;&gt;Goldsmiths&lt;/a&gt;.&lt;/p&gt;
+    <content type="html">&lt;p&gt;On Friday I have finished &lt;a href=&#8217;http://ntlk.github.com/creative-coding-2012/&#8217;&gt;teaching coding&lt;/a&gt; to &lt;a href=&#8217;http://goldsmithsdesignblog.com/&#8217;&gt;design&lt;/a&gt; students at &lt;a href=&#8217;http://www.gold.ac.uk/design/&#8217;&gt;Goldsmiths&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;What I really wanted to teach was how to get data from various places on the web and how you can manipulate the data to make it become something else. I realised that the least amount of time spent on setting up would be if I did that by introducing JavaScript, since everyone has it available in the browser (by that I mean the students and not &lt;em&gt;actually&lt;/em&gt; everyone). I would have loved showing them Ruby, but they were using their own computers I didn&amp;#8217;t want to risk a situation where I would spend an hour debugging someone&amp;#8217;s Ruby installation going awry and possibly putting them off ever trying programming after such an unfortunate start. Only a couple of students have had any programming experience: one of them played with Processing before, another with C.&lt;/p&gt;
 
-&lt;p&gt;To start with JavaScript I had to start with HTML. I am of the view that &lt;em&gt;everyone&lt;/em&gt; should be able to read and write HTML, and so it seemed to make sense to go through HTML, CSS and JavaScript all together (some course notes and links are &lt;a href=&quot;http://ntlk.github.com/creative-coding-2012/&quot;&gt;all collected on the course site&lt;/a&gt; on GitHub if you were interested in the structure of the course). I have seen people having to learn these basics (or at least the first two) in completely unrelated jobs, so hopefully these skills will come in handy even if the students don&amp;#8217;t all end up pursuing coding as a hobby or in their creative work.&lt;/p&gt;
+&lt;p&gt;To start with JavaScript I had to start with HTML. I am of the view that &lt;em&gt;everyone&lt;/em&gt; should be able to read and write HTML, and so it seemed to make sense to go through HTML, CSS and JavaScript all together (some course notes and links are &lt;a href=&#8217;http://ntlk.github.com/creative-coding-2012/&#8217;&gt;all collected on the course site&lt;/a&gt; on GitHub if you were interested in the structure of the course). I have seen people having to learn these basics (or at least the first two) in completely unrelated jobs, so hopefully these skills will come in handy even if the students don&amp;#8217;t all end up pursuing coding as a hobby or in their creative work.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8499/8274548508_3460a02d10_z.jpg&quot; alt=&quot;Visual Twitter&quot; /&gt;
-&lt;em&gt;Visual Twitter&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#8217;Visual Twitter&#8217; src=&#8217;http://farm9.staticflickr.com/8499/8274548508_3460a02d10_z.jpg&#8217; /&gt; &lt;em&gt;Visual Twitter&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;I&amp;#8217;ve learnt loads by teaching, and all these things seem so &lt;em&gt;obvious&lt;/em&gt; now.&lt;/p&gt;
 
-&lt;h3&gt;Teaching CSS is hard.&lt;/h3&gt;
+&lt;h3 id=&#8217;teaching_css_is_hard&#8217;&gt;Teaching CSS is hard.&lt;/h3&gt;
 
 &lt;p&gt;I have spent the first day explaining how the web works, and what is hypertext, and why all of this is worth knowing. I showed that browser is just a fancy way of viewing text files sent over the internet and how it will display your pages even if you litter them with mistakes. We then spent some time investigating various tags, editing code on existing websites and finally moved on to build a sample page or two in HTML before we dived into CSS.&lt;/p&gt;
 
 &lt;p&gt;Then we got to CSS. I had tried to make it as simple as possible and only teach the basics, but there is no way of getting away from explaining inheritance, specificity, the box model and floats. The fact that the structure of the CSS document wasn&amp;#8217;t a one-to-one mapping of the underlying HTML structure was also confusing.&lt;/p&gt;
 
-&lt;p&gt;Very quickly I had to show some of them the &lt;a href=&quot;http://nicolasgallagher.com/micro-clearfix-hack/&quot;&gt;clearfix&lt;/a&gt; hack, and I struggled to explain float clearing in a way that made sense. It also wasn&amp;#8217;t very reassuring when I explained that I start almost every project from including this workaround.&lt;/p&gt;
+&lt;p&gt;Very quickly I had to show some of them the &lt;a href=&#8217;http://nicolasgallagher.com/micro-clearfix-hack/&#8217;&gt;clearfix&lt;/a&gt; hack, and I struggled to explain float clearing in a way that made sense. It also wasn&amp;#8217;t very reassuring when I explained that I start almost every project from including this workaround.&lt;/p&gt;
 
-&lt;h3&gt;JavaScript is easier than CSS.&lt;/h3&gt;
+&lt;h3 id=&#8217;javascript_is_easier_than_css&#8217;&gt;JavaScript is easier than CSS.&lt;/h3&gt;
 
 &lt;p&gt;Okay, maybe trolling &lt;em&gt;a little&lt;/em&gt;. JavaScript is easier &lt;em&gt;to teach&lt;/em&gt; than CSS. Especially when using jQuery.&lt;/p&gt;
 
@@ -101,23 +138,21 @@
 
 &lt;p&gt;The next day we were working on visual Twitter: getting tweets via Twitter API and then fetching photos from Flickr matching the words in the tweet. By the end of the session one of the students said she could now read code and know what it did. I think they&amp;#8217;ve become a lot more comfortable with JavaScript than they did with CSS.&lt;/p&gt;
 
-&lt;h3&gt;I took a wrong approach to teaching CSS.&lt;/h3&gt;
+&lt;h3 id=&#8217;i_took_a_wrong_approach_to_teaching_css&#8217;&gt;I took a wrong approach to teaching CSS.&lt;/h3&gt;
 
 &lt;p&gt;My understanding of positioning, floats, box-model and the cascade stems from playing with CSS over the years. So I thought that the best way to grow to understand these things is to talk about them for a little bit and then to play with them. I have prepared a sample page with some CSS applied that forms a base for trying some of the things without having to write everything from scratch. I also encouraged students to write CSS for the page they made to solve some real problems and challenges. Turns out that perhaps this wasn&amp;#8217;t the best and least confusing way.&lt;/p&gt;
 
-&lt;p&gt; I think I could get much better results if I approached CSS in the way I did JavaScript and group-coded a sample project that would gradually increase in complexity. Building up confidence in using the language in that way is just as useful as building up the skill.&lt;/p&gt;
+&lt;p&gt;I think I could get much better results if I approached CSS in the way I did JavaScript and group-coded a sample project that would gradually increase in complexity. Building up confidence in using the language in that way is just as useful as building up the skill.&lt;/p&gt;
 
-&lt;h3&gt;A lot of things I take for granted about developing for the web don&amp;#8217;t make sense to a newcomer.&lt;/h3&gt;
+&lt;h3 id=&#8217;a_lot_of_things_i_take_for_granted_about_developing_for_the_web_dont_make_sense_to_a_newcomer&#8217;&gt;A lot of things I take for granted about developing for the web don&amp;#8217;t make sense to a newcomer.&lt;/h3&gt;
 
 &lt;p&gt;The separation between HTML, CSS and JavaScript, what they are used for and differences in syntax is something I don&amp;#8217;t think about until I have to explain them. To my students it was an odd thing to start with, as they are used to creating documents in a different way. I hope that by the end of the course it made sense why it&amp;#8217;s a good idea to separate content from presentation and how are markup and programming different.&lt;/p&gt;
 
 &lt;p&gt;Some things made me a little bit embarrassed: the fact that we have to paper over browser inconsistencies with workarounds, that we have to provide fallback for audio and video, and that there aren&amp;#8217;t simpler ways of doing things like layout (well, not reliably across browsers yet). They seem like such simple, straightforward things.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8502/8274549572_b38ddeb9fe_z.jpg&quot; alt=&quot;A random reason for needing a tutorial generator&quot; /&gt;
-&lt;em&gt;A random reason for needing a tutorial generator&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#8217;A random reason for needing a tutorial generator&#8217; src=&#8217;http://farm9.staticflickr.com/8502/8274549572_b38ddeb9fe_z.jpg&#8217; /&gt; &lt;em&gt;A random reason for needing a tutorial generator&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;The group I was working with was pretty much evenly split with regards to gender, which obviously made me very happy. It was a pleasure working with all of them. Once we finished, one of the students told me that before the course that he thought coding was hard; now he doesn&amp;#8217;t. I call that a success.&lt;/p&gt;
-</content>
+&lt;p&gt;The group I was working with was pretty much evenly split with regards to gender, which obviously made me very happy. It was a pleasure working with all of them. Once we finished, one of the students told me that before the course that he thought coding was hard; now he doesn&amp;#8217;t. I call that a success.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -125,20 +160,19 @@
     <link href="http://ntlk.net/2012/12/10/first-one-down"/>
     <updated>2012-12-10T16:45:00+00:00</updated>
     <id>http://ntlk.net/2012/12/10/first-one-down</id>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8345/8260568351_57898cf6ed_o.jpg&quot; alt=&quot;Making websites&quot; /&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img alt=&#8217;Making websites&#8217; src=&#8217;http://farm9.staticflickr.com/8345/8260568351_57898cf6ed_o.jpg&#8217; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I&amp;#8217;ve run my first session of Creative Coding workshop with 2nd year Design students at Goldsmiths today. I wanted to give the group a good intro to web technologies, because apart from them being useful for making cool things with I am convinced most people will need them at one point or another.&lt;/p&gt;
 
 &lt;p&gt;The short course will cover HTML, CSS and JavaScript (let&amp;#8217;s be honest, with a huge dollop of jQuery), in the last couple of days focusing on using APIs to get interesting things from other places and then doing something with thise things.&lt;/p&gt;
 
-&lt;p&gt;I&amp;#8217;ve built a quick site for collecting all the notes, materials and additional resources in one place, you can &lt;a href=&quot;http://ntlk.github.com/creative-coding-2012/&quot;&gt;find it here&lt;/a&gt;. It&amp;#8217;s &lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;CC licensed&lt;/a&gt;, so feel free to use it, adapt it, or &lt;a href=&quot;https://github.com/ntlk/creative-coding-2012&quot;&gt;contribute to making it better&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;ve built a quick site for collecting all the notes, materials and additional resources in one place, you can &lt;a href=&#8217;http://ntlk.github.com/creative-coding-2012/&#8217;&gt;find it here&lt;/a&gt;. It&amp;#8217;s &lt;a href=&#8217;http://creativecommons.org/licenses/by-sa/3.0/&#8217;&gt;CC licensed&lt;/a&gt;, so feel free to use it, adapt it, or &lt;a href=&#8217;https://github.com/ntlk/creative-coding-2012&#8217;&gt;contribute to making it better&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Today we&amp;#8217;ve focussed on HTML, and I&amp;#8217;ve started by showing the group Mozilla&amp;#8217;s &lt;a href=&quot;http://hackasaurus.org/en-US/goggles/&quot;&gt;X-Ray Goggles&lt;/a&gt;, which always inevitably turns into defacing the BBC website:&lt;/p&gt;
+&lt;p&gt;Today we&amp;#8217;ve focussed on HTML, and I&amp;#8217;ve started by showing the group Mozilla&amp;#8217;s &lt;a href=&#8217;http://hackasaurus.org/en-US/goggles/&#8217;&gt;X-Ray Goggles&lt;/a&gt;, which always inevitably turns into defacing the BBC website:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8197/8261133930_b7cefb9ae5_o.jpg&quot; alt=&quot;Cats, cats and more cats&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#8217;Cats, cats and more cats&#8217; src=&#8217;http://farm9.staticflickr.com/8197/8261133930_b7cefb9ae5_o.jpg&#8217; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Fun times.&lt;/p&gt;
-</content>
+&lt;p&gt;Fun times.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -146,25 +180,23 @@
     <link href="http://ntlk.net/2012/12/08/code-club-raspberry-pi-hack-day"/>
     <updated>2012-12-08T15:00:00+00:00</updated>
     <id>http://ntlk.net/2012/12/08/code-club-raspberry-pi-hack-day</id>
-    <content type="html">&lt;p&gt;Today I went to &lt;a href=&quot;http://www.codeclub.org.uk/&quot;&gt;Code Club&lt;/a&gt;&amp;#8217;s Raspberry Pi hack day. The aim is to create some projects Code Club students could do with Rasberry Pis in their schools. I had to leave early, so I have utterly failed at making a cool project
-, I have however filled plenty of balloons with helium (probably the most important job of the day).&lt;/p&gt;
+    <content type="html">&lt;p&gt;Today I went to &lt;a href=&#8217;http://www.codeclub.org.uk/&#8217;&gt;Code Club&lt;/a&gt;&amp;#8217;s Raspberry Pi hack day. The aim is to create some projects Code Club students could do with Rasberry Pis in their schools. I had to leave early, so I have utterly failed at making a cool project , I have however filled plenty of balloons with helium (probably the most important job of the day).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8065/8255050472_ed02dc34f7_z.jpg&quot; alt=&quot;Balloons&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#8217;Balloons&#8217; src=&#8217;http://farm9.staticflickr.com/8065/8255050472_ed02dc34f7_z.jpg&#8217; /&gt;&lt;/p&gt;
 
 &lt;p&gt;There were slush puppies available.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8213/8254105397_6f8f3ce886_z.jpg&quot; alt=&quot;Slush Puppies&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#8217;Slush Puppies&#8217; src=&#8217;http://farm9.staticflickr.com/8213/8254105397_6f8f3ce886_z.jpg&#8217; /&gt;&lt;/p&gt;
 
-&lt;p&gt;And Play-Doh. And Jelly Beans. And of course a whole load of &lt;a href=&quot;http://www.raspberrypi.org/&quot;&gt;Raspberry Pis&lt;/a&gt;. And a giant game of Jenga and giant Connect 4. Anything to get you in the playful mood.&lt;/p&gt;
+&lt;p&gt;And Play-Doh. And Jelly Beans. And of course a whole load of &lt;a href=&#8217;http://www.raspberrypi.org/&#8217;&gt;Raspberry Pis&lt;/a&gt;. And a giant game of Jenga and giant Connect 4. Anything to get you in the playful mood.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8342/8254013353_483864e4be_z.jpg&quot; alt=&quot;Raspberry Pis&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#8217;Raspberry Pis&#8217; src=&#8217;http://farm9.staticflickr.com/8342/8254013353_483864e4be_z.jpg&#8217; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Before I left there were already robots being made and sample projects making use of Raspberry Pi input/output pins.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8344/8254043255_23e657518f_z.jpg&quot; alt=&quot;Sample project made in Scratch&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#8217;Sample project made in Scratch&#8217; src=&#8217;http://farm9.staticflickr.com/8344/8254043255_23e657518f_z.jpg&#8217; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Can&amp;#8217;t wait to find out which projects will be the judges (who are 9-11 years old) favourites tomorrow. Good luck to everyone trying to win the prizes!&lt;/p&gt;
-</content>
+&lt;p&gt;Can&amp;#8217;t wait to find out which projects will be the judges (who are 9-11 years old) favourites tomorrow. Good luck to everyone trying to win the prizes!&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -172,16 +204,15 @@
     <link href="http://ntlk.net/2012/12/06/robots-with-lasers-and-blinky-christmas-trees"/>
     <updated>2012-12-06T12:51:00+00:00</updated>
     <id>http://ntlk.net/2012/12/06/robots-with-lasers-and-blinky-christmas-trees</id>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8484/8248214434_6ceffe5b8b_z.jpg&quot; alt=&quot;Christmas card&quot; /&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img alt=&#8217;Christmas card&#8217; src=&#8217;http://farm9.staticflickr.com/8484/8248214434_6ceffe5b8b_z.jpg&#8217; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I had brilliant fun last night at the Bling My Card workshop. Some very nice people came and made really awesome cards. We had mulled wine and some mince pies. I managed to get conductive paint all over myself, luckily avoiding getting it on my face.&lt;/p&gt;
 
-&lt;p&gt;So far we&amp;#8217;ve raised £148 (not counting the donation box which will get counted next week). The &lt;a href=&quot;http://lighthouse.org.uk/&quot;&gt;Lighthouse&lt;/a&gt; team made it all possible, and they have generously let us use the space, and even decorated a tree for us!&lt;/p&gt;
+&lt;p&gt;So far we&amp;#8217;ve raised £148 (not counting the donation box which will get counted next week). The &lt;a href=&#8217;http://lighthouse.org.uk/&#8217;&gt;Lighthouse&lt;/a&gt; team made it all possible, and they have generously let us use the space, and even decorated a tree for us!&lt;/p&gt;
 
-&lt;p&gt;If you want to see the cards, I have put all the pictures up on &lt;a href=&quot;http://www.flickr.com/photos/natalia_buckley/sets/72157632184258650/&quot;&gt;Flickr&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you want to see the cards, I have put all the pictures up on &lt;a href=&#8217;http://www.flickr.com/photos/natalia_buckley/sets/72157632184258650/&#8217;&gt;Flickr&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8484/8247123765_ef3158d544_z.jpg&quot; alt=&quot;Lazzors&quot; /&gt;&lt;/p&gt;
-</content>
+&lt;p&gt;&lt;img alt=&#8217;Lazzors&#8217; src=&#8217;http://farm9.staticflickr.com/8484/8247123765_ef3158d544_z.jpg&#8217; /&gt;&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -189,29 +220,27 @@
     <link href="http://ntlk.net/2012/11/30/test-cards"/>
     <updated>2012-11-30T10:09:00+00:00</updated>
     <id>http://ntlk.net/2012/11/30/test-cards</id>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8202/8231319326_178f198fc5_z.jpg&quot; alt=&quot;Conductive paint slowly drying&quot; /&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img alt=&#8217;Conductive paint slowly drying&#8217; src=&#8217;https://farm9.staticflickr.com/8202/8231319326_178f198fc5_z.jpg&#8217; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I was testing different circuits with conductive paint in preparation for the &lt;a href=&quot;http://blingmycard.ntlk.net/&quot;&gt;Bling My Card&lt;/a&gt; workshop/party next week. I wanted to see if the circuits can be incorporated into card designs, and if so, how complex they could get.&lt;/p&gt;
+&lt;p&gt;I was testing different circuits with conductive paint in preparation for the &lt;a href=&#8217;http://blingmycard.ntlk.net/&#8217;&gt;Bling My Card&lt;/a&gt; workshop/party next week. I wanted to see if the circuits can be incorporated into card designs, and if so, how complex they could get.&lt;/p&gt;
 
 &lt;p&gt;In short: not complex at all - especially when it&amp;#8217;s important they need to be debugged easily while drinking mulled wine. In the case of the reindeer card below it was tricky to figure out what went wrong: too many lines, not enough paint, a stray connection somewhere&amp;#8230; As there could be many attendees who have never done any electronics before it will be best to keep things that can go wrong to a minimum and keep circuits very simple.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8202/8231285190_91238fed41_z.jpg&quot; alt=&quot;A failed card&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#8217;A failed card&#8217; src=&#8217;https://farm9.staticflickr.com/8202/8231285190_91238fed41_z.jpg&#8217; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I also found out that paint applied as a thin layer with a thick brush didn&amp;#8217;t work so well. The card below was one of the failures. I could tell with a multimeter that a current was passing through the paint, but it wasn&amp;#8217;t enough to light up the LED. The paint lines need to be fairly narrow and thick - that kind of application definitely worked best.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8206/8230248589_5b776c6291_z.jpg&quot; alt=&quot;Paint applied to thinly doesn&#8217;t work very well&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#8217;Paint applied to thinly doesnt work very well&#8217; src=&#8217;https://farm9.staticflickr.com/8206/8230248589_5b776c6291_z.jpg&#8217; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Now, the drying bit. Some &lt;a href=&quot;http://www.bareconductive.com/tutorials&quot;&gt;Bare Conductive tutorials&lt;/a&gt; say the paint will take about 10 mins to dry, but I&amp;#8217;ve found it takes a bit longer, possibly even up to an hour, when applied this thickly.&lt;/p&gt;
+&lt;p&gt;Now, the drying bit. Some &lt;a href=&#8217;http://www.bareconductive.com/tutorials&#8217;&gt;Bare Conductive tutorials&lt;/a&gt; say the paint will take about 10 mins to dry, but I&amp;#8217;ve found it takes a bit longer, possibly even up to an hour, when applied this thickly.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8205/8231366722_4e8e8b13da_z.jpg&quot; alt=&quot;The LED slowly coming up&quot; /&gt;
-&lt;em&gt;The LED slowly getting brighter&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#8217;The LED slowly coming up&#8217; src=&#8217;https://farm9.staticflickr.com/8205/8231366722_4e8e8b13da_z.jpg&#8217; /&gt; &lt;em&gt;The LED slowly getting brighter&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;The circuits without switches were ultimately a lot more rewarding, as you could keep checking if the LED is on yet, argue about whether it is, and observe it become noticeably brighter every time you look at it. The paint becomes more conductive as it dries, so when you first apply it it&amp;#8217;s hard to tell if you&amp;#8217;ve done it right. Switches were a little bit less fun, as you got to wait for them to dry almost fully before you can test them. On the other hand the switch will make your battery last longer.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://ntlk.net/images/card2.gif&quot; alt=&quot;The next morning&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#8217;The next morning&#8217; src=&#8217;http://ntlk.net/images/card2.gif&#8217; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I&amp;#8217;ve got to make a couple of nice sample cards to show what they could look like. If you&amp;#8217;d like to make some with me and you&amp;#8217;re free on the 5th December, you should &lt;a href=&quot;http://blingmycard.ntlk.net/&quot;&gt;come to the workshop&lt;/a&gt;.&lt;/p&gt;
-</content>
+&lt;p&gt;I&amp;#8217;ve got to make a couple of nice sample cards to show what they could look like. If you&amp;#8217;d like to make some with me and you&amp;#8217;re free on the 5th December, you should &lt;a href=&#8217;http://blingmycard.ntlk.net/&#8217;&gt;come to the workshop&lt;/a&gt;.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -219,26 +248,21 @@
     <link href="http://ntlk.net/2012/11/21/bling-my-card"/>
     <updated>2012-11-21T11:10:00+00:00</updated>
     <id>http://ntlk.net/2012/11/21/bling-my-card</id>
-    <content type="html">&lt;p&gt;Some time back I have been working with &lt;a href=&quot;http://wearecaper.com/&quot;&gt;Caper&lt;/a&gt; on a project which led me to the discovery of &lt;a href=&quot;http://www.bareconductive.com/&quot;&gt;Bare Conductive&amp;#8217;s&lt;/a&gt; &lt;a href=&quot;http://www.bareconductive.com/bare-paint-1&quot;&gt;conductive paint&lt;/a&gt;. I got very excited at the prospect of being able to do a gentle introduction into the world of electronics though a very inviting medium of making a mess on paper with the tools you already know how to use.&lt;/p&gt;
+    <content type="html">&lt;p&gt;Some time back I have been working with &lt;a href=&#8217;http://wearecaper.com/&#8217;&gt;Caper&lt;/a&gt; on a project which led me to the discovery of &lt;a href=&#8217;http://www.bareconductive.com/&#8217;&gt;Bare Conductive&amp;#8217;s&lt;/a&gt; &lt;a href=&#8217;http://www.bareconductive.com/bare-paint-1&#8217;&gt;conductive paint&lt;/a&gt;. I got very excited at the prospect of being able to do a gentle introduction into the world of electronics though a very inviting medium of making a mess on paper with the tools you already know how to use.&lt;/p&gt;
 
-&lt;p&gt;Bare Conductive were one of the sponsors of the &lt;a href=&quot;http://www.makerfairebrighton.com/&quot;&gt;Brighton Mini Maker Faire&lt;/a&gt; this year, and I briefly spoke to them - they are very nice people. I hope this post doesn&amp;#8217;t sound like an advertiorial, but really, I only have positive things to say about possibilities it creates in making and teaching electronics. I&amp;#8217;ve seen &lt;a href=&quot;http://www.bareconductive.com/bare-conductive-card-kit&quot;&gt;Bare&amp;#8217;s card making kits&lt;/a&gt;, and whilst simple and fun to make, they introduce some very basic concepts of electronics with no effort at all.&lt;/p&gt;
+&lt;p&gt;Bare Conductive were one of the sponsors of the &lt;a href=&#8217;http://www.makerfairebrighton.com/&#8217;&gt;Brighton Mini Maker Faire&lt;/a&gt; this year, and I briefly spoke to them - they are very nice people. I hope this post doesn&amp;#8217;t sound like an advertiorial, but really, I only have positive things to say about possibilities it creates in making and teaching electronics. I&amp;#8217;ve seen &lt;a href=&#8217;http://www.bareconductive.com/bare-conductive-card-kit&#8217;&gt;Bare&amp;#8217;s card making kits&lt;/a&gt;, and whilst simple and fun to make, they introduce some very basic concepts of electronics with no effort at all.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.bareconductive.com/file/2012-09-27-img-2375-jpg&quot; alt=&quot;Bare Conductive&#8217;s Robot Card Kit&quot; /&gt;
-&lt;em&gt;One of the Robot Card Kits Bare Conductive Make, photo from &lt;a href=&quot;http://www.bareconductive.com/&quot;&gt;Bare Conductive&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#8217;Bare Conductives Robot Card Kit&#8217; src=&#8217;http://www.bareconductive.com/file/2012-09-27-img-2375-jpg&#8217; /&gt; &lt;em&gt;One of the Robot Card Kits Bare Conductive Make, photo from &lt;a href=&#8217;http://www.bareconductive.com/&#8217;&gt;Bare Conductive&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;So to try out infecting a large number of people with a making and tinkering bug, I will be running a &lt;a href=&quot;http://blingmycard.ntlk.net/&quot;&gt;half-party, half-workshop making Christmas cards&lt;/a&gt; with some LEDS in (aptly named &lt;a href=&quot;http://blingmycard.ntlk.net/&quot;&gt;Bling My Card&lt;/a&gt; - thanks &lt;a href=&quot;http://www.deanvipond.com/&quot;&gt;Dean&lt;/a&gt;). Guaranteed to put you in a festive mood. It&amp;#8217;s on 5th December, from 6pm to 8pm, and &lt;a href=&quot;http://blingmycard.eventbrite.co.uk/&quot;&gt;tickets are £12&lt;/a&gt; - this covers the cost of the materials, and any profit goes to &lt;a href=&quot;http://rockinghorse.org.uk/&quot;&gt;Rockinghorse&lt;/a&gt;. That, and you get the become a part of an experiment which will test how many people I can infect with a new hobby in a single evening.&lt;/p&gt;
+&lt;p&gt;So to try out infecting a large number of people with a making and tinkering bug, I will be running a &lt;a href=&#8217;http://blingmycard.ntlk.net/&#8217;&gt;half-party, half-workshop making Christmas cards&lt;/a&gt; with some LEDS in (aptly named &lt;a href=&#8217;http://blingmycard.ntlk.net/&#8217;&gt;Bling My Card&lt;/a&gt; - thanks &lt;a href=&#8217;http://www.deanvipond.com/&#8217;&gt;Dean&lt;/a&gt;). Guaranteed to put you in a festive mood. It&amp;#8217;s on 5th December, from 6pm to 8pm, and &lt;a href=&#8217;http://blingmycard.eventbrite.co.uk/&#8217;&gt;tickets are £12&lt;/a&gt; - this covers the cost of the materials, and any profit goes to &lt;a href=&#8217;http://rockinghorse.org.uk/&#8217;&gt;Rockinghorse&lt;/a&gt;. That, and you get the become a part of an experiment which will test how many people I can infect with a new hobby in a single evening.&lt;/p&gt;
 
-&lt;p&gt;If you&amp;#8217;re not in Brighton or are busy you can &lt;a href=&quot;http://www.bareconductive.com/christmas-card-kit-tutorial&quot;&gt;make some awesome cards&lt;/a&gt; on your own: Bare have prepared a very thorough &lt;a href=&quot;http://www.bareconductive.com/christmas-card-kit-tutorial&quot;&gt;tutorial&lt;/a&gt; explaining everything you need to know (which is very little).&lt;/p&gt;
+&lt;p&gt;If you&amp;#8217;re not in Brighton or are busy you can &lt;a href=&#8217;http://www.bareconductive.com/christmas-card-kit-tutorial&#8217;&gt;make some awesome cards&lt;/a&gt; on your own: Bare have prepared a very thorough &lt;a href=&#8217;http://www.bareconductive.com/christmas-card-kit-tutorial&#8217;&gt;tutorial&lt;/a&gt; explaining everything you need to know (which is very little).&lt;/p&gt;
 
 &lt;p&gt;Of course, conductive paint lends itself to so much more than cardmaking, which is what I would like to play with once I get some spare time again. There are folks working on some interesting innovative projects that benefit from the tactile quality of making bendable circuits on paper.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/user1899679&quot;&gt;Antonio Gomes&lt;/a&gt; made an interface that uses the paint and conductive gloves to control music.&lt;/p&gt;
-
-&lt;iframe src=&quot;http://player.vimeo.com/video/45811285?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;badge=0&quot; width=&quot;600&quot; height=&quot;338&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
-
-
-&lt;p&gt;You can see more examples of some cool projects &lt;a href=&quot;http://www.bareconductive.com/community&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</content>
+&lt;p&gt;&lt;a href=&#8217;https://vimeo.com/user1899679&#8217;&gt;Antonio Gomes&lt;/a&gt; made an interface that uses the paint and conductive gloves to control music.&lt;/p&gt;
+&lt;iframe frameborder=&#8217;0&#8217; height=&#8217;338&#8217; src=&#8217;http://player.vimeo.com/video/45811285?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;badge=0&#8217; width=&#8217;600&#8217;&gt;   &lt;/iframe&gt;
+&lt;p&gt;You can see more examples of some cool projects &lt;a href=&#8217;http://www.bareconductive.com/community&#8217;&gt;here&lt;/a&gt;.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -246,21 +270,19 @@
     <link href="http://ntlk.net/2012/11/16/alarum-and-chambers-go-off"/>
     <updated>2012-11-16T08:31:00+00:00</updated>
     <id>http://ntlk.net/2012/11/16/alarum-and-chambers-go-off</id>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8345/8190530008_c57f2bcbb4_z.jpg&quot; alt=&quot;alarum&quot; /&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img alt=&#8217;alarum&#8217; src=&#8217;http://farm9.staticflickr.com/8345/8190530008_c57f2bcbb4_z.jpg&#8217; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Remember me getting &lt;a href=&quot;2012/09/14/sensing-activity-in-royal-shakespeare-theatre/&quot;&gt;all excited about installing sensors around the Royal Shakespeare Theatre&lt;/a&gt;? The commission I have been working on with &lt;a href=&quot;http://wearecaper.com/&quot;&gt;Caper&lt;/a&gt; has been &lt;a href=&quot;http://myshakespeare.worldshakespearefestival.org.uk/gallery/alarum-by-natalia-buckley-and-caper/&quot;&gt;unveiled yesterday&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Remember me getting &lt;a href=&#8217;2012/09/14/sensing-activity-in-royal-shakespeare-theatre/&#8217;&gt;all excited about installing sensors around the Royal Shakespeare Theatre&lt;/a&gt;? The commission I have been working on with &lt;a href=&#8217;http://wearecaper.com/&#8217;&gt;Caper&lt;/a&gt; has been &lt;a href=&#8217;http://myshakespeare.worldshakespearefestival.org.uk/gallery/alarum-by-natalia-buckley-and-caper/&#8217;&gt;unveiled yesterday&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://alarumproject.com/&quot;&gt;Alarum&lt;/a&gt; is an ambient visualisation of the data showing changes in sound levels and motion around the theatre building.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#8217;http://alarumproject.com/&#8217;&gt;Alarum&lt;/a&gt; is an ambient visualisation of the data showing changes in sound levels and motion around the theatre building.&lt;/p&gt;
 
 &lt;p&gt;The data often comes in every twenty to thirty seconds, depending on sensors&amp;#8217; connectivity, so it needs to be analysed to decide which changes in sounds and motion level are meaningful.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://alarumproject.com/&quot;&gt;Alarum&lt;/a&gt; looks at average levels of data it receives. When these suddenly increase, it knows something has happened. If they continue at higher levels, it means activities continue in this part of the theatre. It is interesting to see how these change depending on time of the day, and how they change over the course of days and weeks.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#8217;http://alarumproject.com/&#8217;&gt;Alarum&lt;/a&gt; looks at average levels of data it receives. When these suddenly increase, it knows something has happened. If they continue at higher levels, it means activities continue in this part of the theatre. It is interesting to see how these change depending on time of the day, and how they change over the course of days and weeks.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://cosm.com/feeds/72813&quot;&gt;The raw data is available&lt;/a&gt;, so you can build something with it yourself. It would be great to see other projects made that look at it in a different way. Alarum&amp;#8217;s code is &lt;a href=&quot;https://github.com/ntlk/heartbeat&quot;&gt;on GitHub under the codename heartbeat&lt;/a&gt;, though it&amp;#8217;s so messy I am a bit embarassed to be sharing it.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#8217;https://cosm.com/feeds/72813&#8217;&gt;The raw data is available&lt;/a&gt;, so you can build something with it yourself. It would be great to see other projects made that look at it in a different way. Alarum&amp;#8217;s code is &lt;a href=&#8217;https://github.com/ntlk/heartbeat&#8217;&gt;on GitHub under the codename heartbeat&lt;/a&gt;, though it&amp;#8217;s so messy I am a bit embarassed to be sharing it.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8180/7917689864_c40b54a5de_z.jpg&quot; alt=&quot;First sensor readings being received by Cosm&quot; /&gt;
-&lt;em&gt;The first raw sensor data being received by Cosm&lt;/em&gt;&lt;/p&gt;
-</content>
+&lt;p&gt;&lt;img alt=&#8217;First sensor readings being received by Cosm&#8217; src=&#8217;http://farm9.staticflickr.com/8180/7917689864_c40b54a5de_z.jpg&#8217; /&gt; &lt;em&gt;The first raw sensor data being received by Cosm&lt;/em&gt;&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -268,10 +290,9 @@
     <link href="http://ntlk.net/2012/11/11/coding-for-beginners"/>
     <updated>2012-11-11T20:38:00+00:00</updated>
     <id>http://ntlk.net/2012/11/11/coding-for-beginners</id>
-    <content type="html">&lt;p&gt;In September I ran &lt;a href=&quot;http://lighthouse.org.uk/programme/schools-workshop-with-natalia-buckley&quot;&gt;two workshops with year 10 students&lt;/a&gt; here in Brighton, as part of &lt;a href=&quot;http://lighthouse.org.uk/&quot;&gt;Lighthouse&lt;/a&gt;&amp;#8217;s educational programme for &lt;a href=&quot;http://2012.brightondigitalfestival.co.uk/&quot;&gt;Brighton Digital Festival&lt;/a&gt;. We made games in Scratch together. That was my first opportunity to work with people so young, and the difference sin their approach to learning, as opposed to adults I have shared my skills with, were quite interesting. As I am preparing creative coding workshops I&amp;#8217;ll be running at &lt;a href=&quot;http://www.gold.ac.uk/&quot;&gt;Goldsmiths&lt;/a&gt; in December, and working on some &lt;a href=&quot;http://www.codeclub.org.uk/&quot;&gt;CodeClub&lt;/a&gt; projects, I am having to think a lot about approach to teaching how to code.&lt;/p&gt;
+    <content type="html">&lt;p&gt;In September I ran &lt;a href=&#8217;http://lighthouse.org.uk/programme/schools-workshop-with-natalia-buckley&#8217;&gt;two workshops with year 10 students&lt;/a&gt; here in Brighton, as part of &lt;a href=&#8217;http://lighthouse.org.uk/&#8217;&gt;Lighthouse&lt;/a&gt;&amp;#8217;s educational programme for &lt;a href=&#8217;http://2012.brightondigitalfestival.co.uk/&#8217;&gt;Brighton Digital Festival&lt;/a&gt;. We made games in Scratch together. That was my first opportunity to work with people so young, and the difference sin their approach to learning, as opposed to adults I have shared my skills with, were quite interesting. As I am preparing creative coding workshops I&amp;#8217;ll be running at &lt;a href=&#8217;http://www.gold.ac.uk/&#8217;&gt;Goldsmiths&lt;/a&gt; in December, and working on some &lt;a href=&#8217;http://www.codeclub.org.uk/&#8217;&gt;CodeClub&lt;/a&gt; projects, I am having to think a lot about approach to teaching how to code.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://ntlk.net/images/scratch.jpg&quot; alt=&quot;A game created by one of the students at Brighton Aldrige Community Academy&quot; /&gt;
-&lt;em&gt;A game created by one of the students at Brighton Aldrige Community Academy&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#8217;A game created by one of the students at Brighton Aldrige Community Academy&#8217; src=&#8217;http://ntlk.net/images/scratch.jpg&#8217; /&gt; &lt;em&gt;A game created by one of the students at Brighton Aldrige Community Academy&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;With adults, I have focused on showing what&amp;#8217;s possible with code, and trying to inspire them enough to make overcoming the first period of learning a bit less of a daunting task. I assumed that as non-technical audience they may see learning programming as very difficult. It&amp;#8217;s certainly how I saw it to start with, but I kept at it despite failing to grasp concepts and finding syntax of some of the languages unintuitive. I did so because I knew what awaited me: the power to create something, anything, out of nothing. The only barrier was my willingness to stick it out. I hoped similar approach could work for others.&lt;/p&gt;
 
@@ -281,25 +302,21 @@
 
 &lt;p&gt;With adult beginners though my primary focus is on encouraging that playful approach. My aim was never to prepare for the glamorous life of a programmer, or to teach a specific language in depth (not that I know any one of them that well), but rather to foster the same kind of hacker mentality that I always found appealing: figuring out how things work, being able to learn anything by poking them and just trying things out. There’s a huge difference between career programming and coding as a hobby and I’m not so interested in the former.&lt;/p&gt;
 
-&lt;p&gt;Coding is a creative endeavour. As &lt;a href=&quot;http://zedshaw.com/&quot;&gt;Zed A. Shaw&lt;/a&gt; wrote in &lt;a href=&quot;http://learnpythonthehardway.org/book/&quot;&gt;&amp;#8220;Learn Python the hard way&amp;#8221;&lt;/a&gt;, &amp;#8220;as an intellectual activity [programming] is the only art form that allows you to create interactive art. You can create projects that other people can play with, and you can talk to them indirectly. No other art form is quite this interactive. Movies flow to the audience in one direction. Paintings do not move. Code goes both ways.&amp;#8221;&lt;/p&gt;
+&lt;p&gt;Coding is a creative endeavour. As &lt;a href=&#8217;http://zedshaw.com/&#8217;&gt;Zed A. Shaw&lt;/a&gt; wrote in &lt;a href=&#8217;http://learnpythonthehardway.org/book/&#8217;&gt;&amp;#8220;Learn Python the hard way&amp;#8221;&lt;/a&gt;, &amp;#8220;as an intellectual activity &lt;span&gt;programming&lt;/span&gt; is the only art form that allows you to create interactive art. You can create projects that other people can play with, and you can talk to them indirectly. No other art form is quite this interactive. Movies flow to the audience in one direction. Paintings do not move. Code goes both ways.&amp;#8221;&lt;/p&gt;
 
-&lt;p&gt;In school most people got to try drawing or playing instruments. Trying out code should sit in the same category: as a creative pursuit that you should at least try before you decide whether you like it or not. There is a huge drive now to get kids to do just that, whether it&amp;#8217;s to give them skills required by the modern world or whether it&amp;#8217;s about teaching creative ways of thinking. &lt;a href=&quot;http://www.codeclub.org.uk/&quot;&gt;CodeClub&lt;/a&gt; is one of the initiatives that has the potential to not just show how much this is needed, but provides the solutions. Kids will be okay.&lt;/p&gt;
+&lt;p&gt;In school most people got to try drawing or playing instruments. Trying out code should sit in the same category: as a creative pursuit that you should at least try before you decide whether you like it or not. There is a huge drive now to get kids to do just that, whether it&amp;#8217;s to give them skills required by the modern world or whether it&amp;#8217;s about teaching creative ways of thinking. &lt;a href=&#8217;http://www.codeclub.org.uk/&#8217;&gt;CodeClub&lt;/a&gt; is one of the initiatives that has the potential to not just show how much this is needed, but provides the solutions. Kids will be okay.&lt;/p&gt;
 
-&lt;p&gt;I am interested in the generation that sits between those who had BBC Micros at home and kids of today. It can be prohibitively expensive to just try it out. &lt;a href=&quot;http://decoded.co/&quot;&gt;Decoded&lt;/a&gt; was a series of workshops which, &lt;a href=&quot;http://decoded.co/testimonials/&quot;&gt;judging by the feedback from their attendees&lt;/a&gt;, were absolutely brilliant. However, with a price tag of over £500 it&amp;#8217;s not something just anyone could do.&lt;/p&gt;
+&lt;p&gt;I am interested in the generation that sits between those who had BBC Micros at home and kids of today. It can be prohibitively expensive to just try it out. &lt;a href=&#8217;http://decoded.co/&#8217;&gt;Decoded&lt;/a&gt; was a series of workshops which, &lt;a href=&#8217;http://decoded.co/testimonials/&#8217;&gt;judging by the feedback from their attendees&lt;/a&gt;, were absolutely brilliant. However, with a price tag of over £500 it&amp;#8217;s not something just anyone could do.&lt;/p&gt;
 
 &lt;p&gt;It is often said among programmers that all you need to learn is access to the internet, as you can find free books, tutorials and communities to ask questions – it&amp;#8217;s all readily available. It&amp;#8217;s true that there are many approaches to sharing the knowledge and the likelihood is that every learning style is catered for, but finding good resources and going it alone can be tricky.&lt;/p&gt;
 
-&lt;p&gt;Still, there is for example &lt;a href=&quot;http://www.dontfeartheinternet.com/&quot;&gt;Don&amp;#8217;t Fear the Internet&lt;/a&gt;, a brilliant series of screencasts explaining HTML &amp;amp; CSS in an approachable manner. There is &lt;a href=&quot;http://www.codecademy.com/&quot;&gt;CodeAcademy&lt;/a&gt; which now has courses on several languages and allows users to build their own challenges and exercises. I have to say that I found some of them a little tedious and mechanical, though many beginners find them useful. &lt;a href=&quot;http://www.good.is/&quot;&gt;GOOD magazine&lt;/a&gt; has recently launched it&amp;#8217;s own &lt;a href=&quot;http://cfg.good.is/home&quot;&gt;web basics course&lt;/a&gt;, with prizes for the most adept participants. There are more and more resources, and I think they are becoming easier to come across, but since I look out for these things I may be a little biased.&lt;/p&gt;
+&lt;p&gt;Still, there is for example &lt;a href=&#8217;http://www.dontfeartheinternet.com/&#8217;&gt;Don&amp;#8217;t Fear the Internet&lt;/a&gt;, a brilliant series of screencasts explaining HTML &amp;amp; CSS in an approachable manner. There is &lt;a href=&#8217;http://www.codecademy.com/&#8217;&gt;CodeAcademy&lt;/a&gt; which now has courses on several languages and allows users to build their own challenges and exercises. I have to say that I found some of them a little tedious and mechanical, though many beginners find them useful. &lt;a href=&#8217;http://www.good.is/&#8217;&gt;GOOD magazine&lt;/a&gt; has recently launched it&amp;#8217;s own &lt;a href=&#8217;http://cfg.good.is/home&#8217;&gt;web basics course&lt;/a&gt;, with prizes for the most adept participants. There are more and more resources, and I think they are becoming easier to come across, but since I look out for these things I may be a little biased.&lt;/p&gt;
 
-&lt;p&gt;The most exciting space to watch right now is development of programming tools. &lt;a href=&quot;http://worrydream.com/&quot;&gt;Bret Victor&lt;/a&gt; wrote an &lt;a href=&quot;http://worrydream.com/LearnableProgramming/&quot;&gt;absolutely superb essay&lt;/a&gt; on improving the way people learn to code by improving those. He points out that getting beginners to randomly change numbers in short programs and thus figure out how it all works is absurd, and there should be better ways of knowing what the syntax means and how the program is executed step by step. It&amp;#8217;s a long piece of writing, but it&amp;#8217;s absolutely worth it and I wholeheartedly recommend &lt;a href=&quot;http://worrydream.com/LearnableProgramming/&quot;&gt;you read it&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The most exciting space to watch right now is development of programming tools. &lt;a href=&#8217;http://worrydream.com/&#8217;&gt;Bret Victor&lt;/a&gt; wrote an &lt;a href=&#8217;http://worrydream.com/LearnableProgramming/&#8217;&gt;absolutely superb essay&lt;/a&gt; on improving the way people learn to code by improving those. He points out that getting beginners to randomly change numbers in short programs and thus figure out how it all works is absurd, and there should be better ways of knowing what the syntax means and how the program is executed step by step. It&amp;#8217;s a long piece of writing, but it&amp;#8217;s absolutely worth it and I wholeheartedly recommend &lt;a href=&#8217;http://worrydream.com/LearnableProgramming/&#8217;&gt;you read it&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;He spoke about it during a presentation he gave at &lt;a href=&quot;http://2012.cusec.net/&quot;&gt;CUSEC 2012&lt;/a&gt;, and has shown a prototype of a tool that would make learning programming and creating with programming easier. To him it&amp;#8217;s about having a direct connection to your creation, and allowing yourself to discover things through this immediacy.&lt;/p&gt;
-
-&lt;iframe src=&quot;http://player.vimeo.com/video/36579366?byline=0&amp;amp;badge=0&quot; width=&quot;600&quot; height=&quot;337&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
-
-
-&lt;p&gt;Having tools like this to show to beginners would be brilliant. Staring at code which you cannot understand can be intimidating in a way that playing with buttons, sliders and dials isn&amp;#8217;t. Modern electronic instruments make it easy to just pick them up and start playing with them even if you lack any music knowledge, modern programming tools should do the same.&lt;/p&gt;
-</content>
+&lt;p&gt;He spoke about it during a presentation he gave at &lt;a href=&#8217;http://2012.cusec.net/&#8217;&gt;CUSEC 2012&lt;/a&gt;, and has shown a prototype of a tool that would make learning programming and creating with programming easier. To him it&amp;#8217;s about having a direct connection to your creation, and allowing yourself to discover things through this immediacy.&lt;/p&gt;
+&lt;iframe frameborder=&#8217;0&#8217; height=&#8217;337&#8217; src=&#8217;http://player.vimeo.com/video/36579366?byline=0&amp;amp;badge=0&#8217; width=&#8217;600&#8217;&gt;  &lt;/iframe&gt;
+&lt;p&gt;Having tools like this to show to beginners would be brilliant. Staring at code which you cannot understand can be intimidating in a way that playing with buttons, sliders and dials isn&amp;#8217;t. Modern electronic instruments make it easy to just pick them up and start playing with them even if you lack any music knowledge, modern programming tools should do the same.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -309,10 +326,9 @@
     <id>http://ntlk.net/2012/09/21/brighton-mini-maker-faire-2012</id>
     <content type="html">&lt;p&gt;Apparently over 7000 people have visited Brighton Mini Maker Faire this years, so there&amp;#8217;s a chance that if you live in Brighton you were one of them.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://zine.openrightsgroup.org/features/2012/brighton-mini-maker-faire&quot;&gt;I&amp;#8217;ve written a post&lt;/a&gt; for the &lt;a href=&quot;http://zine.openrightsgroup.org/&quot;&gt;ORGZine&lt;/a&gt; about what it is and what were my highlights, so I won&amp;#8217;t repeat that here, instead I just wanted to thank everyone involved. The amazing makers who came to show their wonderful inventions, all other organisers, our tireless volunteers and of course, the generous speakers who came to share tips on their creative process.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#8217;http://zine.openrightsgroup.org/features/2012/brighton-mini-maker-faire&#8217;&gt;I&amp;#8217;ve written a post&lt;/a&gt; for the &lt;a href=&#8217;http://zine.openrightsgroup.org/&#8217;&gt;ORGZine&lt;/a&gt; about what it is and what were my highlights, so I won&amp;#8217;t repeat that here, instead I just wanted to thank everyone involved. The amazing makers who came to show their wonderful inventions, all other organisers, our tireless volunteers and of course, the generous speakers who came to share tips on their creative process.&lt;/p&gt;
 
-&lt;p&gt;If you&amp;#8217;ve missed it, check out the &lt;a href=&quot;http://www.flickr.com/groups/bmmf/&quot;&gt;BMMF Flickr group&lt;/a&gt; to see some of the projects on display.&lt;/p&gt;
-</content>
+&lt;p&gt;If you&amp;#8217;ve missed it, check out the &lt;a href=&#8217;http://www.flickr.com/groups/bmmf/&#8217;&gt;BMMF Flickr group&lt;/a&gt; to see some of the projects on display.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -320,32 +336,29 @@
     <link href="http://ntlk.net/2012/09/14/sensing-activity-in-royal-shakespeare-theatre"/>
     <updated>2012-09-14T07:25:00+01:00</updated>
     <id>http://ntlk.net/2012/09/14/sensing-activity-in-royal-shakespeare-theatre</id>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8297/7918060170_84de124234_z.jpg&quot; alt=&quot;Motion Sensor in the Swan Bar&quot; /&gt;
-&lt;em&gt;Noise level sensor in the Swan Bar&lt;/em&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img alt=&#8217;Motion Sensor in the Swan Bar&#8217; src=&#8217;http://farm9.staticflickr.com/8297/7918060170_84de124234_z.jpg&#8217; /&gt; &lt;em&gt;Noise level sensor in the Swan Bar&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Together with &lt;a href=&quot;http://wearecaper.com&quot;&gt;Caper&lt;/a&gt; I have also been working on a small art project for the RSC. We&amp;#8217;ve been interested in working  with the &lt;a href=&quot;https://en.wikipedia.org/wiki/Royal_Shakespeare_Theatre&quot;&gt;building itself&lt;/a&gt;. Visitors tend to come to Stratford-upon-Avon for the evening, enjoy the performance, perhaps some food and drinks, and head back, often on the next day. As well as the audience, there are also people working front of house, behind the bar, not to mention the three different acting troupes working on stage.&lt;/p&gt;
+&lt;p&gt;Together with &lt;a href=&#8217;http://wearecaper.com&#8217;&gt;Caper&lt;/a&gt; I have also been working on a small art project for the RSC. We&amp;#8217;ve been interested in working with the &lt;a href=&#8217;https://en.wikipedia.org/wiki/Royal_Shakespeare_Theatre&#8217;&gt;building itself&lt;/a&gt;. Visitors tend to come to Stratford-upon-Avon for the evening, enjoy the performance, perhaps some food and drinks, and head back, often on the next day. As well as the audience, there are also people working front of house, behind the bar, not to mention the three different acting troupes working on stage.&lt;/p&gt;
 
 &lt;p&gt;We wanted to explore the building as a whole, the total sum of effort and action that makes experiencing the performance possible; some of it behind the scenes. To do that, we wanted to put together an app that would analyse, visualise and display activity in the building as it happens.&lt;/p&gt;
 
 &lt;p&gt;But how do you measure activity? You could look at the amount of stuff made, amount of waste generated, or resources used up, but to measure life you have to measure its symptoms, like noise and movement. We wanted to put sensors in the theatre to make the often invisible efforts plain to see. To be able to say: at noon on Wednesdays the wardrobe rooms get very busy; that here is a sudden burst of activity backstage on Thursday morning when the set gets installed; that the bar is actually busiest on Monday nights.&lt;/p&gt;
 
-&lt;p&gt;I have prototyped two types of devices: motion and sound sensors. Both use Arduino Ethernet boards to send data to &lt;a href=&quot;https://cosm.com/&quot;&gt;Cosm&lt;/a&gt;, which I am using both to make the feeds publicly accessible, and to set up triggers that will communicate with a web app built to analyse and visualise the data. I had thought of making my own Arduino-compatible boards to save money, but there simply wasn&amp;#8217;t enough time to make that possible.&lt;/p&gt;
+&lt;p&gt;I have prototyped two types of devices: motion and sound sensors. Both use Arduino Ethernet boards to send data to &lt;a href=&#8217;https://cosm.com/&#8217;&gt;Cosm&lt;/a&gt;, which I am using both to make the feeds publicly accessible, and to set up triggers that will communicate with a web app built to analyse and visualise the data. I had thought of making my own Arduino-compatible boards to save money, but there simply wasn&amp;#8217;t enough time to make that possible.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8453/7917442134_5fc67fd717_z.jpg&quot; alt=&quot;Motion sensor device&quot; /&gt;
-&lt;em&gt;Motion sensor&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#8217;Motion sensor device&#8217; src=&#8217;http://farm9.staticflickr.com/8453/7917442134_5fc67fd717_z.jpg&#8217; /&gt; &lt;em&gt;Motion sensor&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;The motion sensor devices are very straightforward: simply plug in an infrared motion detector in to start logging. The time it takes for the sensor to keep sending the signal about the detected movement can be adjusted. I add every positive reading to a counter, and send the total to Cosm every 30 seconds.&lt;/p&gt;
 
-&lt;p&gt;Sound sensors initially seemed trickier, though I only needed to measure the levels or determine that they are over a certain threshold. My first approach was to try and use &lt;a href=&quot;https://en.wikipedia.org/wiki/Piezoelectric_sensor&quot;&gt;piezos&lt;/a&gt; positioned on the floor or frequently used flat areas (such as the bar) to detect surface vibrations. Piezos are sensors that can detect pressure and vibration (and thus sound) and are often used as guitar pickups. I found it very difficult to amplify the piezo signal enough to turn it into a sensitive sensor over a large area though.&lt;/p&gt;
+&lt;p&gt;Sound sensors initially seemed trickier, though I only needed to measure the levels or determine that they are over a certain threshold. My first approach was to try and use &lt;a href=&#8217;https://en.wikipedia.org/wiki/Piezoelectric_sensor&#8217;&gt;piezos&lt;/a&gt; positioned on the floor or frequently used flat areas (such as the bar) to detect surface vibrations. Piezos are sensors that can detect pressure and vibration (and thus sound) and are often used as guitar pickups. I found it very difficult to amplify the piezo signal enough to turn it into a sensitive sensor over a large area though.&lt;/p&gt;
 
-&lt;p&gt;This is of course possible. Another member of the local hackspace, &lt;a href=&quot;http://hotchk155.blogspot.co.uk/&quot;&gt;Jason Hotchkiss&lt;/a&gt;, has built &lt;a href=&quot;http://hotchk155.blogspot.co.uk/2011/10/musical-ping-pong-tables-and.html&quot;&gt;exactly the kind of sensitive piezo sensor&lt;/a&gt; that I had been thinking about. He designed and built all the electronics that went into this &lt;a href=&quot;https://vimeo.com/45745840&quot;&gt;musical ping pong table&lt;/a&gt;. I attempted to recreate Jason&amp;#8217;s sensors, though I have used a completely different &lt;a href=&quot;https://en.wikipedia.org/wiki/Operational_amplifier&quot;&gt;op-amp&lt;/a&gt; and my results didn&amp;#8217;t come anywhere close.&lt;/p&gt;
+&lt;p&gt;This is of course possible. Another member of the local hackspace, &lt;a href=&#8217;http://hotchk155.blogspot.co.uk/&#8217;&gt;Jason Hotchkiss&lt;/a&gt;, has built &lt;a href=&#8217;http://hotchk155.blogspot.co.uk/2011/10/musical-ping-pong-tables-and.html&#8217;&gt;exactly the kind of sensitive piezo sensor&lt;/a&gt; that I had been thinking about. He designed and built all the electronics that went into this &lt;a href=&#8217;https://vimeo.com/45745840&#8217;&gt;musical ping pong table&lt;/a&gt;. I attempted to recreate Jason&amp;#8217;s sensors, though I have used a completely different &lt;a href=&#8217;https://en.wikipedia.org/wiki/Operational_amplifier&#8217;&gt;op-amp&lt;/a&gt; and my results didn&amp;#8217;t come anywhere close.&lt;/p&gt;
 
-&lt;p&gt;Another approach I&amp;#8217;ve tried was using an electret microphone with a &lt;a href=&quot;http://tinkerlog.com/2007/05/20/cheap-sound-sensor-for-avr/&quot;&gt;cheap DIY amplifier I found on Alex Weber&amp;#8217;s blog&lt;/a&gt;. This time I didn&amp;#8217;t have the right transistor, and though I had some that &lt;em&gt;apparently&lt;/em&gt; could be a substitute it still got me nowhere: readings were full of noise and their range wasn&amp;#8217;t good enough. Though I have a huge range of completely random components lying around it turns out I don&amp;#8217;t actually have much useful stuff. Also I still suck at analogue circuits.&lt;/p&gt;
+&lt;p&gt;Another approach I&amp;#8217;ve tried was using an electret microphone with a &lt;a href=&#8217;http://tinkerlog.com/2007/05/20/cheap-sound-sensor-for-avr/&#8217;&gt;cheap DIY amplifier I found on Alex Weber&amp;#8217;s blog&lt;/a&gt;. This time I didn&amp;#8217;t have the right transistor, and though I had some that &lt;em&gt;apparently&lt;/em&gt; could be a substitute it still got me nowhere: readings were full of noise and their range wasn&amp;#8217;t good enough. Though I have a huge range of completely random components lying around it turns out I don&amp;#8217;t actually have much useful stuff. Also I still suck at analogue circuits.&lt;/p&gt;
 
 &lt;p&gt;As I waited for the right components to show up in the post, with the deadline fast approaching, I had to explore other options. A basic amplifier isn&amp;#8217;t exactly very difficult, and the inability to actually get a working one made was making me very frustrated, but in the end I had to go for the off-the-shelf solution as I had to install the devices the very next day. I used Sparkfun&amp;#8217;s electret mic with an amplifier on a breakout board, ready to simply plug in and play. Not only I am embarrassed at my failure to prototype something basic, but also at the fact that I am using components that are probably 8-10x more expensive than strictly necessary.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8180/7917689864_c40b54a5de_z.jpg&quot; alt=&quot;First readings coming in&quot; /&gt;
-&lt;em&gt;First sensor readings coming in&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#8217;First readings coming in&#8217; src=&#8217;http://farm9.staticflickr.com/8180/7917689864_c40b54a5de_z.jpg&#8217; /&gt; &lt;em&gt;First sensor readings coming in&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;But hey, the devices worked and that&amp;#8217;s what matters, right? I&amp;#8217;ve laser cut some dashing boxes to protect them, ready for the installation in situ. Motion ones were placed near Stage Door and in the Wigs &amp;amp; Wardrobe department, sound ones in the Green Room and in Swan Bar.&lt;/p&gt;
 
@@ -355,8 +368,7 @@
 
 &lt;p&gt;The sensors have been collecting data for nearly two weeks now. I&amp;#8217;ve built a sample Rails app that is dealing with the interpretation of the readings, which need to be analysed and calibrated before going live.&lt;/p&gt;
 
-&lt;p&gt;You can &lt;a href=&quot;https://cosm.com/feeds/72813&quot;&gt;see the data for yourself on Cosm&lt;/a&gt; (formerly Pachube). I encourage you to pull it and do something interesting with it. I&amp;#8217;d be very interested to see what else it can be used for.&lt;/p&gt;
-</content>
+&lt;p&gt;You can &lt;a href=&#8217;https://cosm.com/feeds/72813&#8217;&gt;see the data for yourself on Cosm&lt;/a&gt; (formerly Pachube). I encourage you to pull it and do something interesting with it. I&amp;#8217;d be very interested to see what else it can be used for.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -366,20 +378,18 @@
     <id>http://ntlk.net/2012/08/21/south-by-south-east</id>
     <content type="html">&lt;p&gt;If you live in or near Brighton, September is going to be like Christmas. No, wait, it&amp;#8217;s going to be better than Christmas.&lt;/p&gt;
 
-&lt;p&gt;From 3rd of September you&amp;#8217;d be forgiven for thinking you&amp;#8217;ve suddenly found yourself in the middle of South by South… er… East&lt;sup&gt;*&lt;/sup&gt;. Monday kicks off with &lt;a href=&quot;http://reasonstobecreative.com/&quot;&gt;Reasons to be Creative&lt;/a&gt;, a 3 day conference/festival for artists, designers and coders.&lt;/p&gt;
+&lt;p&gt;From 3rd of September you&amp;#8217;d be forgiven for thinking you&amp;#8217;ve suddenly found yourself in the middle of South by South… er… East&lt;sup&gt;*&lt;/sup&gt;. Monday kicks off with &lt;a href=&#8217;http://reasonstobecreative.com/&#8217;&gt;Reasons to be Creative&lt;/a&gt;, a 3 day conference/festival for artists, designers and coders.&lt;/p&gt;
 
-&lt;p&gt;It&amp;#8217;s followed by &lt;a href=&quot;http://www.lighthouse.org.uk/programme/improving-reality&quot;&gt;Improving Reality&lt;/a&gt; on Thursday, a one day conference discussing how new technologies change our understanding of the world.&lt;/p&gt;
+&lt;p&gt;It&amp;#8217;s followed by &lt;a href=&#8217;http://www.lighthouse.org.uk/programme/improving-reality&#8217;&gt;Improving Reality&lt;/a&gt; on Thursday, a one day conference discussing how new technologies change our understanding of the world.&lt;/p&gt;
 
-&lt;p&gt;After Improving Reality we&amp;#8217;ve got &lt;a href=&quot;http://brightonsf.adactio.com/&quot;&gt;Brighton SF&lt;/a&gt; on &lt;a href=&quot;http://www.eventbrite.com/event/3530719477?ref=ebtnebtckt&quot;&gt;Thursday evening&lt;/a&gt;, a panel discussion and readings from leading SF authors.&lt;/p&gt;
+&lt;p&gt;After Improving Reality we&amp;#8217;ve got &lt;a href=&#8217;http://brightonsf.adactio.com/&#8217;&gt;Brighton SF&lt;/a&gt; on &lt;a href=&#8217;http://www.eventbrite.com/event/3530719477?ref=ebtnebtckt&#8217;&gt;Thursday evening&lt;/a&gt;, a panel discussion and readings from leading SF authors.&lt;/p&gt;
 
-&lt;p&gt;Then on Friday it&amp;#8217;s &lt;a href=&quot;http://2012.dconstruct.org/&quot;&gt;dConstruct&lt;/a&gt;: this year&amp;#8217;s theme is &amp;#8220;Playing With The Future&amp;#8221;.&lt;/p&gt;
+&lt;p&gt;Then on Friday it&amp;#8217;s &lt;a href=&#8217;http://2012.dconstruct.org/&#8217;&gt;dConstruct&lt;/a&gt;: this year&amp;#8217;s theme is &amp;#8220;Playing With The Future&amp;#8221;.&lt;/p&gt;
 
-&lt;p&gt;On Saturday the 8th &lt;a href=&quot;http://www.makerfairebrighton.com/&quot;&gt;Brighton Mini Maker Faire&lt;/a&gt; opens its doors. It&amp;#8217;s a one day celebration of all things made: arts, crafts, robotics, engineering, woodwork, electronics, science music and more. Last year&amp;#8217;s Faire was so well received it has expanded a bit. This year we will have some &lt;a href=&quot;http://www.makerfairebrighton.com/2012/08/21/introducing-the-speakers/&quot;&gt;speaking sessions&lt;/a&gt; from makers who will lift the lid on their creative process.&lt;/p&gt;
+&lt;p&gt;On Saturday the 8th &lt;a href=&#8217;http://www.makerfairebrighton.com/&#8217;&gt;Brighton Mini Maker Faire&lt;/a&gt; opens its doors. It&amp;#8217;s a one day celebration of all things made: arts, crafts, robotics, engineering, woodwork, electronics, science music and more. Last year&amp;#8217;s Faire was so well received it has expanded a bit. This year we will have some &lt;a href=&#8217;http://www.makerfairebrighton.com/2012/08/21/introducing-the-speakers/&#8217;&gt;speaking sessions&lt;/a&gt; from makers who will lift the lid on their creative process.&lt;/p&gt;
 
-&lt;p&gt;Speakers include &lt;a href=&quot;http://www.makielab.com/who-we-are/&quot;&gt;Alice Taylor&lt;/a&gt; (also at &lt;a href=&quot;http://www.lighthouse.org.uk/programme/improving-reality&quot;&gt;Improving Reality&lt;/a&gt;), &lt;a href=&quot;http://berglondon.com/studio/matt-webb/&quot;&gt;Matt Webb&lt;/a&gt;, &lt;a href=&quot;http://finalbullet.com/&quot;&gt;Leila Johnston&lt;/a&gt; (speaking at &lt;a href=&quot;http://www.lighthouse.org.uk/programme/improving-reality&quot;&gt;Improving Reality&lt;/a&gt;), &lt;a href=&quot;http://codeclub.org.uk/&quot;&gt;Code Club&lt;/a&gt;, &lt;a href=&quot;http://infovore.org/&quot;&gt;Tom Armitage&lt;/a&gt; (also speaking at &lt;a href=&quot;http://2012.dconstruct.org/&quot;&gt;dConstruct&lt;/a&gt;), and students from Cavendish School and Dorothy Stringer. It&amp;#8217;s a free event starting at 3pm in the Founders Room of the Brighton Dome, so come in early to make sure you get a seat. Oh, did I mention it was free? Don&amp;#8217;t miss it. &lt;a href=&quot;http://www.makerfairebrighton.com/2012/08/21/introducing-the-speakers/&quot;&gt;More details here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;small&gt;&lt;sup&gt;*)&lt;/sup&gt; I blame &lt;a href=&quot;http://twitter.com/honorharger&quot;&gt;@honorharger&lt;/a&gt; for this terrible joke.&lt;/small&gt;&lt;/p&gt;
-</content>
+&lt;p&gt;Speakers include &lt;a href=&#8217;http://www.makielab.com/who-we-are/&#8217;&gt;Alice Taylor&lt;/a&gt; (also at &lt;a href=&#8217;http://www.lighthouse.org.uk/programme/improving-reality&#8217;&gt;Improving Reality&lt;/a&gt;), &lt;a href=&#8217;http://berglondon.com/studio/matt-webb/&#8217;&gt;Matt Webb&lt;/a&gt;, &lt;a href=&#8217;http://finalbullet.com/&#8217;&gt;Leila Johnston&lt;/a&gt; (speaking at &lt;a href=&#8217;http://www.lighthouse.org.uk/programme/improving-reality&#8217;&gt;Improving Reality&lt;/a&gt;), &lt;a href=&#8217;http://codeclub.org.uk/&#8217;&gt;Code Club&lt;/a&gt;, &lt;a href=&#8217;http://infovore.org/&#8217;&gt;Tom Armitage&lt;/a&gt; (also speaking at &lt;a href=&#8217;http://2012.dconstruct.org/&#8217;&gt;dConstruct&lt;/a&gt;), and students from Cavendish School and Dorothy Stringer. It&amp;#8217;s a free event starting at 3pm in the Founders Room of the Brighton Dome, so come in early to make sure you get a seat. Oh, did I mention it was free? Don&amp;#8217;t miss it. &lt;a href=&#8217;http://www.makerfairebrighton.com/2012/08/21/introducing-the-speakers/&#8217;&gt;More details here&lt;/a&gt;.&lt;/p&gt;
+&lt;small&gt;&lt;sup&gt;*)&lt;/sup&gt; I blame &lt;a href=&#8217;http://twitter.com/honorharger&#8217;&gt;@honorharger&lt;/a&gt; for this terrible joke.&lt;/small&gt;</content>
   </entry>
   
   <entry>
@@ -387,20 +397,19 @@
     <link href="http://ntlk.net/2012/05/25/a-few-thoughts-on-happenstance-so-far"/>
     <updated>2012-05-25T18:07:00+01:00</updated>
     <id>http://ntlk.net/2012/05/25/a-few-thoughts-on-happenstance-so-far</id>
-    <content type="html">&lt;p&gt;On Wednesday at the &lt;a href=&quot;http://lighthouse.org.uk/&quot;&gt;Lighthouse&lt;/a&gt; we (the Lighthouse team + the &lt;a href=&quot;http://happenstanceproject.com&quot;&gt;Happenstance&lt;/a&gt; residents &amp;amp; organisers) held an Open House event, talking to our guests about some of the work me and &lt;a href=&quot;http://shorttermmemoryloss.com/&quot;&gt;James&lt;/a&gt; have done on the project so far and what &lt;a href=&quot;http://happenstanceproject.com&quot;&gt;Happenstance&lt;/a&gt; is all about.&lt;/p&gt;
+    <content type="html">&lt;p&gt;On Wednesday at the &lt;a href=&#8217;http://lighthouse.org.uk/&#8217;&gt;Lighthouse&lt;/a&gt; we (the Lighthouse team + the &lt;a href=&#8217;http://happenstanceproject.com&#8217;&gt;Happenstance&lt;/a&gt; residents &amp;amp; organisers) held an Open House event, talking to our guests about some of the work me and &lt;a href=&#8217;http://shorttermmemoryloss.com/&#8217;&gt;James&lt;/a&gt; have done on the project so far and what &lt;a href=&#8217;http://happenstanceproject.com&#8217;&gt;Happenstance&lt;/a&gt; is all about.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://ntlk.net/images/oh1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#8221; src=&#8217;http://ntlk.net/images/oh1.jpg&#8217; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Happenstance brings together technologists and arts organisations to infuse the latter with the technological understanding and innovative approaches of the former. Putting people together in the same room is a remarkably simple yet underrated idea. Running the experiment three times in three different organisations hopefully will show which parts of it can be replicated and which were just a fluke.&lt;/p&gt;
 
-&lt;p&gt;After the Lighthouse team have been using a tool for recording team processes me and James have built – &lt;a href=&quot;http://happenstanceproject.com/say-hi-to-offbott/&quot;&gt;Offbott&lt;/a&gt; – for a while, I suggested doing daily stand-up meetings and banning email for internal communications, in the spirit of the &lt;a href=&quot;http://www.agilemanifesto.org/&quot;&gt;Agile manifesto&lt;/a&gt;. It&amp;#8217;s been interesting for me to find out this way exactly how everyone works and what their work involves, though of course I had hoped this would also prove equally interesting to everyone else.&lt;/p&gt;
+&lt;p&gt;After the Lighthouse team have been using a tool for recording team processes me and James have built – &lt;a href=&#8217;http://happenstanceproject.com/say-hi-to-offbott/&#8217;&gt;Offbott&lt;/a&gt; – for a while, I suggested doing daily stand-up meetings and banning email for internal communications, in the spirit of the &lt;a href=&#8217;http://www.agilemanifesto.org/&#8217;&gt;Agile manifesto&lt;/a&gt;. It&amp;#8217;s been interesting for me to find out this way exactly how everyone works and what their work involves, though of course I had hoped this would also prove equally interesting to everyone else.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8165/7261135608_64f960c24b.jpg&quot; alt=&quot;Agile.&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#8217;Agile.&#8217; src=&#8217;http://farm9.staticflickr.com/8165/7261135608_64f960c24b.jpg&#8217; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Not everyone always works on the same projects together, and knowing what everyone else does and how they do it is useful. I would like to think I&amp;#8217;ve contributed to the understanding the value of inspecting your processes and seeking ways to improve them through reflection and discussion.&lt;/p&gt;
 
-&lt;p&gt;The second (and last!) Open House even will be held on Tuesday 19 June at &lt;a href=&quot;http://lighthouse.org.uk/&quot;&gt;Lighthouse&lt;/a&gt;. Do come along to hear more.&lt;/p&gt;
-</content>
+&lt;p&gt;The second (and last!) Open House even will be held on Tuesday 19 June at &lt;a href=&#8217;http://lighthouse.org.uk/&#8217;&gt;Lighthouse&lt;/a&gt;. Do come along to hear more.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -408,26 +417,29 @@
     <link href="http://ntlk.net/2012/05/08/building-the-future"/>
     <updated>2012-05-08T15:40:00+01:00</updated>
     <id>http://ntlk.net/2012/05/08/building-the-future</id>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://ntlk.net/images/design_vacuum.png&quot; alt=&quot;One does not simply design in a vacuum&quot; /&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img alt=&#8217;One does not simply design in a vacuum&#8217; src=&#8217;http://ntlk.net/images/design_vacuum.png&#8217; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Graduating from a design course at Goldsmiths bestowed me with a sense of power and a sense of responsibility. You don&amp;#8217;t casually design stuff that will affect people&amp;#8217;s lives without stopping first to think about it.&lt;/p&gt;
 
-&lt;p&gt;We&amp;#8217;re finally collectively waking up to the fact that the tools of the future are largely software tools. I design and make digital things - they can sometimes seem like not real things at all. They appear so ethereal that my parents struggle to describe to friends and family what it is I do for a living. And yet with every design decision, every small feature, or lack of feature, or way of doing things - I know it can affect how people relate to one another. &lt;a href=&quot;http://farmerandfarmer.org/medicine/future.html&quot;&gt;Jonathan Harris&lt;/a&gt; predicts the burden of responsibility is about to get heavier - eventually the software will be followed by hardware embedded in our bodies.&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;re finally collectively waking up to the fact that the tools of the future are largely software tools. I design and make digital things - they can sometimes seem like not real things at all. They appear so ethereal that my parents struggle to describe to friends and family what it is I do for a living. And yet with every design decision, every small feature, or lack of feature, or way of doing things - I know it can affect how people relate to one another. &lt;a href=&#8217;http://farmerandfarmer.org/medicine/future.html&#8217;&gt;Jonathan Harris&lt;/a&gt; predicts the burden of responsibility is about to get heavier - eventually the software will be followed by hardware embedded in our bodies.&lt;/p&gt;
 
-&lt;blockquote&gt;&lt;p&gt;Software is the staging ground for the future, affording us the time and space to get our ethics right, before the stakes are raised.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Software is the staging ground for the future, affording us the time and space to get our ethics right, before the stakes are raised.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Because, the way these biological interventions will happen is that there will be some guy who starts a company, and he will have a small design team, and they will make certain choices, and decisions around things like default settings, and they will build their product, and release it into the world, and early adopters will adopt it, and then ordinary folks will try it too, and soon thereafter the physical bodies of millions of people will forever be augmented by the flippant choices made on a Tuesday afternoon in a little sunny room in Palo Alto. [source: &lt;a href=&quot;http://farmerandfarmer.org/medicine/index.html&quot;&gt;Farmer and Farmer, Essays About Humans and Technology&lt;/a&gt;]&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Because, the way these biological interventions will happen is that there will be some guy who starts a company, and he will have a small design team, and they will make certain choices, and decisions around things like default settings, and they will build their product, and release it into the world, and early adopters will adopt it, and then ordinary folks will try it too, and soon thereafter the physical bodies of millions of people will forever be augmented by the flippant choices made on a Tuesday afternoon in a little sunny room in Palo Alto. &lt;span&gt;source: &lt;a href=&#8217;http://farmerandfarmer.org/medicine/index.html&#8217;&gt;Farmer and Farmer, Essays About Humans and Technology&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;Which is why I&amp;#8217;m worried, and so should you be, because it means your life in the future is being decided by people who may have very little in common with you, and may not understand your needs at all. Worse: they may not even care. Even worse: they may see profit in actively working against your needs.&lt;/p&gt;
 
-&lt;p&gt;Case in point: &lt;a href=&quot;https://en.wikipedia.org/wiki/Nymwars&quot;&gt;Google+ nymwars&lt;/a&gt;. Not long after its launch, Google decided to start shutting down profiles of people who didn&amp;#8217;t use their real names to sign up to the service. On one hand of course they have a right to do that, it&amp;#8217;s their business after all to know everything about you so they can adequately price your eyeballs. At the same time, due to their size and prominence, shouldn&amp;#8217;t large companies feel responsible about decisions they make becoming the de facto standard? &amp;#8220;Waah, but &lt;a href=&quot;http://geekfeminism.wikia.com/wiki/Pseudonymity&quot;&gt;pseudonymity&lt;/a&gt; and &lt;a href=&quot;http://geekfeminism.wikia.com/wiki/Anonymity&quot;&gt;anonymity&lt;/a&gt; are only for BAD people who have something to hide&amp;#8221; - I hear you think, but before you say it, check if you can see yourself on this &lt;a href=&quot;http://geekfeminism.wikia.com/wiki/Who_is_harmed_by_a_%22Real_Names%22_policy%3F&quot;&gt;very long list of people that are harmed by real name policies&lt;/a&gt;. We might find ourselves in twenty years time with a stifled freedom of expression, because we fell for a straw-man argument against one real, unified identity online - argument that someone created to make profit.&lt;/p&gt;
+&lt;p&gt;Case in point: &lt;a href=&#8217;https://en.wikipedia.org/wiki/Nymwars&#8217;&gt;Google+ nymwars&lt;/a&gt;. Not long after its launch, Google decided to start shutting down profiles of people who didn&amp;#8217;t use their real names to sign up to the service. On one hand of course they have a right to do that, it&amp;#8217;s their business after all to know everything about you so they can adequately price your eyeballs. At the same time, due to their size and prominence, shouldn&amp;#8217;t large companies feel responsible about decisions they make becoming the de facto standard? &amp;#8220;Waah, but &lt;a href=&#8217;http://geekfeminism.wikia.com/wiki/Pseudonymity&#8217;&gt;pseudonymity&lt;/a&gt; and &lt;a href=&#8217;http://geekfeminism.wikia.com/wiki/Anonymity&#8217;&gt;anonymity&lt;/a&gt; are only for BAD people who have something to hide&amp;#8221; - I hear you think, but before you say it, check if you can see yourself on this &lt;a href=&#8217;http://geekfeminism.wikia.com/wiki/Who_is_harmed_by_a_%22Real_Names%22_policy%3F&#8217;&gt;very long list of people that are harmed by real name policies&lt;/a&gt;. We might find ourselves in twenty years time with a stifled freedom of expression, because we fell for a straw-man argument against one real, unified identity online - argument that someone created to make profit.&lt;/p&gt;
 
-&lt;p&gt;Technology is often perceived as somewhat scientific and objective, especially by non-technical audiences. I&amp;#8217;ve come to think this is a lie. Recently, I saw &lt;a href=&quot;http://www.scottporad.com/&quot;&gt;Scott Porad&lt;/a&gt; speak about it at &lt;a href=&quot;http://devslovebacon.com/&quot;&gt;Bacon&lt;/a&gt;. &amp;#8220;Software is a reflection of people and processes that created it&amp;#8221;, he argued, and I wholeheartedly agreed. And it&amp;#8217;s not just the software. Everywhere where decisions made that have an effect on other people - there will be biases.&lt;/p&gt;
+&lt;p&gt;Technology is often perceived as somewhat scientific and objective, especially by non-technical audiences. I&amp;#8217;ve come to think this is a lie. Recently, I saw &lt;a href=&#8217;http://www.scottporad.com/&#8217;&gt;Scott Porad&lt;/a&gt; speak about it at &lt;a href=&#8217;http://devslovebacon.com/&#8217;&gt;Bacon&lt;/a&gt;. &amp;#8220;Software is a reflection of people and processes that created it&amp;#8221;, he argued, and I wholeheartedly agreed. And it&amp;#8217;s not just the software. Everywhere where decisions made that have an effect on other people - there will be biases.&lt;/p&gt;
 
 &lt;p&gt;But biases don&amp;#8217;t always have to be a bad thing. Many tools and technologies in existence express positive values: pursuit of happiness, real human connection, attempts to fix difficult problems. Some contributors do so in their spare time, only rewarded with gratitude and sense of satisfaction.&lt;/p&gt;
 
-&lt;p&gt;The challenge is to empower more people to actively participate in thinking about and building TEH FUTURE. So why not &lt;a href=&quot;http://codingforkids.org/wiki/Main_Page&quot;&gt;teach kids to code&lt;/a&gt; or &lt;a href=&quot;http://www.kapipal.com/760573d1b2ec4ecab351982e9122ce2f&quot;&gt;help others do so&lt;/a&gt;?&lt;/p&gt;
-</content>
+&lt;p&gt;The challenge is to empower more people to actively participate in thinking about and building TEH FUTURE. So why not &lt;a href=&#8217;http://codingforkids.org/wiki/Main_Page&#8217;&gt;teach kids to code&lt;/a&gt; or &lt;a href=&#8217;http://www.kapipal.com/760573d1b2ec4ecab351982e9122ce2f&#8217;&gt;help others do so&lt;/a&gt;?&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -435,25 +447,25 @@
     <link href="http://ntlk.net/2012/04/12/on-the-new-aesthetic"/>
     <updated>2012-04-12T10:38:00+01:00</updated>
     <id>http://ntlk.net/2012/04/12/on-the-new-aesthetic</id>
-    <content type="html">&lt;p&gt;After Bruce Sterling published &lt;a href=&quot;http://www.wired.com/beyond_the_beyond/2012/04/an-essay-on-the-new-aesthetic/&quot;&gt;his essay&lt;/a&gt; on the &lt;a href=&quot;http://new-aesthetic.tumblr.com/&quot;&gt;New Aesthetic&lt;/a&gt; last Monday, the topic exploded and responses to that essay were as quick as they were plentiful (see below for links). Suddenly it became a hotly debated subject on Twitter, so I thought what everyone desperately needed was - yep - yet another blog post on the New Aesthetic.&lt;/p&gt;
+    <content type="html">&lt;p&gt;After Bruce Sterling published &lt;a href=&#8217;http://www.wired.com/beyond_the_beyond/2012/04/an-essay-on-the-new-aesthetic/&#8217;&gt;his essay&lt;/a&gt; on the &lt;a href=&#8217;http://new-aesthetic.tumblr.com/&#8217;&gt;New Aesthetic&lt;/a&gt; last Monday, the topic exploded and responses to that essay were as quick as they were plentiful (see below for links). Suddenly it became a hotly debated subject on Twitter, so I thought what everyone desperately needed was - yep - yet another blog post on the New Aesthetic.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.g-truc.net/post/0448-3.jpg&quot; alt=&quot;Gerhard Richter, 4096 colours, 1974&quot; /&gt;
-&lt;em&gt;Gerhard Richter, 4096 colours, 1974&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#8217;Gerhard Richter, 4096 colours, 1974&#8217; src=&#8217;http://www.g-truc.net/post/0448-3.jpg&#8217; /&gt; &lt;em&gt;Gerhard Richter, 4096 colours, 1974&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Last week I’ve been to &lt;a href=&quot;http://michelle.kasprzak.ca/blog/&quot;&gt;Michelle Kasprzak&lt;/a&gt;’s brilliant &lt;a href=&quot;http://www.lighthouse.org.uk/programme/monthly-talk-michelle-kasprzak?query=kasprzak&quot;&gt;talk&lt;/a&gt; about new artistic frontiers and works made possible by recent leaps in technological advancement. It included a critique of the New Aesthetic as an art movement, pointing out its main flaw: that much of it is not new. She presented evidence of works of art from the twentieth century that could easily be thought of as belonging to the NA, but predating it. One of the examples was Gerhard Richter’s painting resembling pixels today (as we’ve learned to understand a grid of squares), painted in 1974. It’s true that some of the visual language present in items collected on the NA Tumblr existed before. What’s really been bothering me is that I don’t think that NA is an art movement at all.&lt;/p&gt;
+&lt;p&gt;Last week I’ve been to &lt;a href=&#8217;http://michelle.kasprzak.ca/blog/&#8217;&gt;Michelle Kasprzak&lt;/a&gt;’s brilliant &lt;a href=&#8217;http://www.lighthouse.org.uk/programme/monthly-talk-michelle-kasprzak?query=kasprzak&#8217;&gt;talk&lt;/a&gt; about new artistic frontiers and works made possible by recent leaps in technological advancement. It included a critique of the New Aesthetic as an art movement, pointing out its main flaw: that much of it is not new. She presented evidence of works of art from the twentieth century that could easily be thought of as belonging to the NA, but predating it. One of the examples was Gerhard Richter’s painting resembling pixels today (as we’ve learned to understand a grid of squares), painted in 1974. It’s true that some of the visual language present in items collected on the NA Tumblr existed before. What’s really been bothering me is that I don’t think that NA is an art movement at all.&lt;/p&gt;
 
-&lt;p&gt;Sure, some of the things in the NA collection are undeniably works of art (like &lt;a href=&quot;http://new-aesthetic.tumblr.com/post/16174636454/the-project-was-based-on-data-i-gathered-by-taking&quot;&gt;this&lt;/a&gt;, &lt;a href=&quot;http://new-aesthetic.tumblr.com/post/17163297795/investigating-the-rotation-of-data-these&quot;&gt;this&lt;/a&gt; or &lt;a href=&quot;http://new-aesthetic.tumblr.com/post/20895023430/cardboard-papercraft-sculpture-created-from-3d&quot;&gt;this&lt;/a&gt;). But what this collection says to me is this: we already live in the reality where digital and physical are beginning to blend. The visual language of the machines we built is seeping into our consciousness and affecting our aesthetic preferences. We see beauty in limitations of visual artefacts produced by our tools. We already share a world with autonomous machines, and we adapt it so they can survive alongside us. It’s a body of evidence not only that the future has arrived already, but that we are already so familiar with its visual representations that we almost don’t notice there’s anything odd with it entering the physical realm.  It’s inevitable that an art movement (or maybe a number of them) can be found within the collection, but as a whole it’s bigger than this - it covers a much broader cultural area. It’s as much about art as it is about the everyday.&lt;/p&gt;
+&lt;p&gt;Sure, some of the things in the NA collection are undeniably works of art (like &lt;a href=&#8217;http://new-aesthetic.tumblr.com/post/16174636454/the-project-was-based-on-data-i-gathered-by-taking&#8217;&gt;this&lt;/a&gt;, &lt;a href=&#8217;http://new-aesthetic.tumblr.com/post/17163297795/investigating-the-rotation-of-data-these&#8217;&gt;this&lt;/a&gt; or &lt;a href=&#8217;http://new-aesthetic.tumblr.com/post/20895023430/cardboard-papercraft-sculpture-created-from-3d&#8217;&gt;this&lt;/a&gt;). But what this collection says to me is this: we already live in the reality where digital and physical are beginning to blend. The visual language of the machines we built is seeping into our consciousness and affecting our aesthetic preferences. We see beauty in limitations of visual artefacts produced by our tools. We already share a world with autonomous machines, and we adapt it so they can survive alongside us. It’s a body of evidence not only that the future has arrived already, but that we are already so familiar with its visual representations that we almost don’t notice there’s anything odd with it entering the physical realm. It’s inevitable that an art movement (or maybe a number of them) can be found within the collection, but as a whole it’s bigger than this - it covers a much broader cultural area. It’s as much about art as it is about the everyday.&lt;/p&gt;
 
 &lt;p&gt;Of course, in itself, this isn’t anything new. Similar shifts in aesthetics have happened before, time and time again, because our technologies, as they become prevalent, always make their mark on our aesthetic sensibilities and our understanding of the world. Yesterday it was the industrialisation, today it’s computing. We always see the world through our tools. Today it’s through the eyes of tools that begin to see for themselves.&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&quot;http://madelineashby.com/?p=1198&quot;&gt;The New Aesthetic of the male gaze&lt;/a&gt; - by &lt;a href=&quot;http://madelineashby.com/&quot;&gt;Madeline Ashby&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://metalab.harvard.edu/2012/04/but-it-moves-the-new-aesthetic-emergent-virtual-taste/&quot;&gt;But it moves: the New Aesthetic &amp;amp; emergent virtual taste&lt;/a&gt; - by Matthew Battles&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://remus-shepherd.livejournal.com/354140.html&quot;&gt;The New Aesthetic, and what’s next&lt;/a&gt; - by Remus Shepherd&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.thecreatorsproject.com/blog/in-response-to-bruce-sterlings-essay-on-the-new-aesthetic&quot;&gt;In Response To Bruce Sterling’s &amp;#8220;Essay On The New Aesthetic&amp;#8221;&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;&lt;a href=&#8217;http://madelineashby.com/?p=1198&#8217;&gt;The New Aesthetic of the male gaze&lt;/a&gt; - by &lt;a href=&#8217;http://madelineashby.com/&#8217;&gt;Madeline Ashby&lt;/a&gt;&lt;/li&gt;
 
-</content>
+&lt;li&gt;&lt;a href=&#8217;http://metalab.harvard.edu/2012/04/but-it-moves-the-new-aesthetic-emergent-virtual-taste/&#8217;&gt;But it moves: the New Aesthetic &amp;amp; emergent virtual taste&lt;/a&gt; - by Matthew Battles&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&#8217;http://remus-shepherd.livejournal.com/354140.html&#8217;&gt;The New Aesthetic, and what’s next&lt;/a&gt; - by Remus Shepherd&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&#8217;http://www.thecreatorsproject.com/blog/in-response-to-bruce-sterlings-essay-on-the-new-aesthetic&#8217;&gt;In Response To Bruce Sterling’s &amp;#8220;Essay On The New Aesthetic&amp;#8221;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content>
   </entry>
   
   <entry>
@@ -461,16 +473,14 @@
     <link href="http://ntlk.net/2012/04/02/beginning-a-residency-at-the-lighthouse-as-a-technologist"/>
     <updated>2012-04-02T10:47:00+01:00</updated>
     <id>http://ntlk.net/2012/04/02/beginning-a-residency-at-the-lighthouse-as-a-technologist</id>
-    <content type="html">&lt;p&gt;Until the end of June I am a &lt;a href=&quot;http://happenstanceproject.com/&quot;&gt;resident technologist&lt;/a&gt; at the &lt;a href=&quot;http://www.lighthouse.org.uk/&quot;&gt;Lighthouse&lt;/a&gt; in Brighton, together with &lt;a href=&quot;http://shorttermmemoryloss.com/&quot;&gt;James Bridle&lt;/a&gt;.&lt;/p&gt;
+    <content type="html">&lt;p&gt;Until the end of June I am a &lt;a href=&#8217;http://happenstanceproject.com/&#8217;&gt;resident technologist&lt;/a&gt; at the &lt;a href=&#8217;http://www.lighthouse.org.uk/&#8217;&gt;Lighthouse&lt;/a&gt; in Brighton, together with &lt;a href=&#8217;http://shorttermmemoryloss.com/&#8217;&gt;James Bridle&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The Lighthouse is an interesting organisation - it describes itself as a digital culture agency, rather than simply a digital arts agency, emphasising its broad interests that go beyond the arts sector. It&amp;#8217;s an organisation that is forward looking and welcomes the challenges presented by technology. Perhaps this is why they are confident enough to let me and James drive the process without necessarily having a clear idea of the outcome (or direction) just yet.&lt;/p&gt;
 
-&lt;p&gt;Their openness was what attracted me to the project. I could work using the process in which you gradually narrow your problem space to eventually define the project&amp;#8217;s objectives is what they would like to happen. This kind of approach from my experience can result in something much more interesting than when the outcome is clearly defined at the beginning. While it may not be suitable for every type of project, it feels exactly right for &lt;a href=&quot;http://happenstanceproject.com/&quot;&gt;Happenstance&lt;/a&gt;, where the goals are much wider than simply delivering a product. You can probably tell by now that I am excited about having an opportunity to further develop my practice.&lt;/p&gt;
+&lt;p&gt;Their openness was what attracted me to the project. I could work using the process in which you gradually narrow your problem space to eventually define the project&amp;#8217;s objectives is what they would like to happen. This kind of approach from my experience can result in something much more interesting than when the outcome is clearly defined at the beginning. While it may not be suitable for every type of project, it feels exactly right for &lt;a href=&#8217;http://happenstanceproject.com/&#8217;&gt;Happenstance&lt;/a&gt;, where the goals are much wider than simply delivering a product. You can probably tell by now that I am excited about having an opportunity to further develop my practice.&lt;/p&gt;
 
 &lt;p&gt;I haven&amp;#8217;t worked with any arts organisations before, so it will be interesting to find out more about the work they do and how they do it. Lighthouse not only exhibits existing work, but also acts in a commissioning capacity, as well as doing administrative and supportive work that is largely hidden from public view. Any impact that this project will have on the way Lighthouse operates will be felt by many more organisations, so this is a brilliant opportunity to do something great… no pressure then!&lt;/p&gt;
-
-&lt;p&gt;&lt;small&gt;Crossposted from the &lt;a href=&quot;http://happenstanceproject.com/working-at-the-lighthouse/&quot;&gt;Happenstance blog&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-</content>
+&lt;small&gt;Crossposted from the &lt;a href=&#8217;http://happenstanceproject.com/working-at-the-lighthouse/&#8217;&gt;Happenstance blog&lt;/a&gt;&lt;/small&gt;</content>
   </entry>
   
   <entry>
@@ -480,76 +490,48 @@
     <id>http://ntlk.net/2012/01/15/drawing-robots-roundup</id>
     <content type="html">&lt;p&gt;I intend to build a drawing robot soon as a part of a bigger project that will hopefully culminate in a short animation. I have just been given a broken HP Deskjet D4260 so I already have a few parts I might need. I am not yet fully decided on which approach to take, so here&amp;#8217;s a roundup of different drawing machines to inspire me.&lt;/p&gt;
 
-&lt;h3&gt;Der Kritzler&lt;/h3&gt;
+&lt;h3 id=&#8217;der_kritzler&#8217;&gt;Der Kritzler&lt;/h3&gt;
+&lt;iframe frameborder=&#8217;0&#8217; height=&#8217;281&#8217; src=&#8217;http://player.vimeo.com/video/28003302?title=0&amp;amp;byline=0&amp;amp;portrait=0&#8217; width=&#8217;500&#8217;&gt;  
+&lt;/iframe&gt;
+&lt;p&gt;Have I mentioned yet how much I love &lt;a href=&#8217;http://tinkerlog.com/&#8217;&gt;Alex Weber&amp;#8217;s projects&lt;/a&gt;? The one that led me to find his blog was &lt;a href=&#8217;http://tinkerlog.com/2011/09/02/der-kritzler/&#8217;&gt;Der Kritzler&lt;/a&gt; - a robot that draws on the windows. It uses a combination of &lt;a href=&#8217;http://www.processing.org/&#8217;&gt;Processing&lt;/a&gt;, &lt;a href=&#8217;http://www.imagemagick.org/script/index.php&#8217;&gt;ImageMagick&lt;/a&gt; and &lt;a href=&#8217;http://potrace.sourceforge.net/&#8217;&gt;Potrace&lt;/a&gt; to create the graphics and the movement of the bot itself is controlled by an Arduino. The device is suspended on notched tape which controls the movements.&lt;/p&gt;
 
-&lt;iframe src=&quot;http://player.vimeo.com/video/28003302?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+&lt;h3 id=&#8217;hektor&#8217;&gt;Hektor&lt;/h3&gt;
+&lt;iframe frameborder=&#8217;0&#8217; height=&#8217;375&#8217; src=&#8217;http://player.vimeo.com/video/15823044?title=0&amp;amp;byline=0&amp;amp;portrait=0&#8217; width=&#8217;500&#8217;&gt;  &lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&#8217;http://hektor.ch/&#8217;&gt;Hektor&lt;/a&gt; was the project that made me fall in love with physical hacking, it&amp;#8217;s the first one of its kind that I could find - built in 2002. It&amp;#8217;s a small portable spraypainting device that can cover a huge wall area, but packs away into a small suitcase. Its construction directly inspired Der Kritzler - the spraycan&amp;#8217;s movements are controlled by toothed belts.&lt;/p&gt;
 
+&lt;h3 id=&#8217;delta_robot&#8217;&gt;Delta Robot&lt;/h3&gt;
+&lt;iframe frameborder=&#8217;0&#8217; height=&#8217;375&#8217; src=&#8217;http://player.vimeo.com/video/25924581?title=0&amp;amp;byline=0&amp;amp;portrait=0&#8217; width=&#8217;500&#8217;&gt;  &lt;/iframe&gt;
+&lt;p&gt;Arduino-controlled suspended plotter. 3 arms are controlled by servos. I like this one a lot despite the lack of precision. Its creator, &lt;a href=&#8217;https://plus.google.com/117437757896877369617&#8217;&gt;Puiu Bogdan&lt;/a&gt;, &lt;a href=&#8217;http://arduino.cc/forum/index.php/topic,65561.0.html&#8217;&gt;explains&lt;/a&gt; that the concept itself results in very precise drawings, but his implementation still needs to be perfected. Since it took him 7 months to build this prototype I reckon it&amp;#8217;s a little too complicated for my purposes.&lt;/p&gt;
 
-&lt;p&gt;Have I mentioned yet how much I love &lt;a href=&quot;http://tinkerlog.com/&quot;&gt;Alex Weber&amp;#8217;s projects&lt;/a&gt;? The one that led me to find his blog was &lt;a href=&quot;http://tinkerlog.com/2011/09/02/der-kritzler/&quot;&gt;Der Kritzler&lt;/a&gt; - a robot that draws on the windows. It uses a combination of &lt;a href=&quot;http://www.processing.org/&quot;&gt;Processing&lt;/a&gt;, &lt;a href=&quot;http://www.imagemagick.org/script/index.php&quot;&gt;ImageMagick&lt;/a&gt; and &lt;a href=&quot;http://potrace.sourceforge.net/&quot;&gt;Potrace&lt;/a&gt; to create the graphics and the movement of the bot itself is controlled by an Arduino. The device is suspended on notched tape which controls the movements.&lt;/p&gt;
+&lt;h3 id=&#8217;3axis_servo_motor&#8217;&gt;3-Axis servo motor&lt;/h3&gt;
+&lt;iframe frameborder=&#8217;0&#8217; height=&#8217;339&#8217; src=&#8217;http://www.youtube.com/embed/v9x7Qdpp43M&#8217; width=&#8217;500&#8217;&gt;  &lt;/iframe&gt;
+&lt;p&gt;Definitely can&amp;#8217;t make anything similar as I intend to use mine at home, but &lt;a href=&#8217;http://www.embeddedtronics.com/uhuservo.html&#8217;&gt;this is cool&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h3&gt;Hektor&lt;/h3&gt;
+&lt;h3 id=&#8217;senseless_drawing_robot&#8217;&gt;Senseless Drawing Robot&lt;/h3&gt;
+&lt;iframe frameborder=&#8217;0&#8217; height=&#8217;281&#8217; src=&#8217;http://player.vimeo.com/video/30780208?title=0&amp;amp;byline=0&amp;amp;portrait=0&#8217; width=&#8217;500&#8217;&gt;  &lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&#8217;http://thisisnotagraffiti.tumblr.com/&#8217;&gt;This bot&lt;/a&gt; built by &lt;a href=&#8217;http://kannoso.org/&#8217;&gt;So Kanno&lt;/a&gt; and &lt;a href=&#8217;http://yang02.org/&#8217;&gt;Takahiro Yamaguchi&lt;/a&gt; uses a double-pendulum to randomise its graphic output. Pretty awesome.&lt;/p&gt;
 
-&lt;iframe src=&quot;http://player.vimeo.com/video/15823044?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;500&quot; height=&quot;375&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+&lt;h3 id=&#8217;polargraph&#8217;&gt;Polargraph&lt;/h3&gt;
+&lt;iframe frameborder=&#8217;0&#8217; height=&#8217;375&#8217; src=&#8217;http://player.vimeo.com/video/24647023?title=0&amp;amp;byline=0&amp;amp;portrait=0&#8217; width=&#8217;500&#8217;&gt;  &lt;/iframe&gt;&lt;iframe frameborder=&#8217;0&#8217; height=&#8217;339&#8217; src=&#8217;http://www.youtube.com/embed/UT8p1kLz8PI&#8217; width=&#8217;500&#8217;&gt;  &lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&#8217;http://www.youtube.com/user/euphyscott&#8217;&gt;Euphyscott&lt;/a&gt; made this &lt;a href=&#8217;http://www.polargraph.co.uk/&#8217;&gt;polargraph&lt;/a&gt;. Although it&amp;#8217;s very slow in drawing these types of images, the end result is pretty neat. Also, bonus points for posting the code and detailed process descriptions on the &lt;a href=&#8217;http://www.polargraph.co.uk/&#8217;&gt;polargraph&amp;#8217;s website&lt;/a&gt; and on &lt;a href=&#8217;http://www.instructables.com/id/Polargraph-Drawing-Machine/&#8217;&gt;Instructables&lt;/a&gt;. You can also &lt;a href=&#8217;http://www.polargraph.co.uk/build-or-buy-a-machine/&#8217;&gt;buy some of the bits used&lt;/a&gt; to build your own from Euphyscott.&lt;/p&gt;
 
+&lt;h3 id=&#8217;interactive_robotic_painting_machine&#8217;&gt;Interactive Robotic Painting Machine&lt;/h3&gt;
+&lt;iframe frameborder=&#8217;0&#8217; height=&#8217;281&#8217; src=&#8217;http://player.vimeo.com/video/23998286&#8217; width=&#8217;500&#8217;&gt;  &lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&#8217;http://bengrosser.com/&#8217;&gt;Benjamin Grosser&lt;/a&gt;&amp;#8217;s &lt;a href=&#8217;http://bengrosser.com/projects/interactive-robotic-painting-machine/&#8217;&gt;creation&lt;/a&gt; listens to its surroundings and the sound input affects the decisions the AI makes in its painting process.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://hektor.ch/&quot;&gt;Hektor&lt;/a&gt; was the project that made me fall in love with physical hacking, it&amp;#8217;s the first one of its kind that I could find - built in 2002. It&amp;#8217;s a small portable spraypainting device that can cover a huge wall area, but packs away into a small suitcase. Its construction directly inspired Der Kritzler - the spraycan&amp;#8217;s movements are controlled by toothed belts.&lt;/p&gt;
+&lt;h3 id=&#8217;roborainbow&#8217;&gt;Robo-rainbow&lt;/h3&gt;
+&lt;iframe frameborder=&#8217;0&#8217; height=&#8217;281&#8217; src=&#8217;http://player.vimeo.com/video/19374769?title=0&amp;amp;byline=0&amp;amp;portrait=0&#8217; width=&#8217;500&#8217;&gt;  &lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&#8217;http://www.akayism.org/&#8217;&gt;Akay&lt;/a&gt;&amp;#8217;s robo-rainbow was featured in &lt;a href=&#8217;http://www.wired.co.uk/news/archive/2011-02/02/robo-rainbow&#8217;&gt;Wired&lt;/a&gt; last year:&lt;/p&gt;
 
-&lt;h3&gt;Delta Robot&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A small circuit board featuring radio-controlled servos from a toy car drives the solenoids attached to each spray can, which in turn apply pressure to the nozzles. Both the arm and the spray cans are controlled using toy car&amp;#8217;s radio controller, allowing the user to move the arm in a smooth arc while spraying with each of the six spray cans simultaneously, creating a large rainbow painting within seconds.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;iframe src=&quot;http://player.vimeo.com/video/25924581?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;500&quot; height=&quot;375&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+&lt;h3 id=&#8217;pen_plotter&#8217;&gt;Pen plotter&lt;/h3&gt;
 
+&lt;p&gt;&lt;img alt=&#8217;Pen plotter image&#8217; src=&#8217;http://farm7.staticflickr.com/6218/6294759696_7ed5be13f1.jpg&#8217; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Arduino-controlled suspended plotter. 3 arms are controlled by servos. I like this one a lot despite the lack of precision. Its creator, &lt;a href=&quot;https://plus.google.com/117437757896877369617&quot;&gt;Puiu Bogdan&lt;/a&gt;, &lt;a href=&quot;http://arduino.cc/forum/index.php/topic,65561.0.html&quot;&gt;explains&lt;/a&gt; that the concept itself results in very precise drawings, but his implementation still needs to be perfected. Since it took him 7 months to build this prototype I reckon it&amp;#8217;s a little too complicated for my purposes.&lt;/p&gt;
-
-&lt;h3&gt;3-Axis servo motor&lt;/h3&gt;
-
-&lt;iframe width=&quot;500&quot; height=&quot;339&quot; src=&quot;http://www.youtube.com/embed/v9x7Qdpp43M&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-
-
-&lt;p&gt;Definitely can&amp;#8217;t make anything similar as I intend to use mine at home, but &lt;a href=&quot;http://www.embeddedtronics.com/uhuservo.html&quot;&gt;this is cool&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3&gt;Senseless Drawing Robot&lt;/h3&gt;
-
-&lt;iframe src=&quot;http://player.vimeo.com/video/30780208?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
-
-
-&lt;p&gt;&lt;a href=&quot;http://thisisnotagraffiti.tumblr.com/&quot;&gt;This bot&lt;/a&gt; built by &lt;a href=&quot;http://kannoso.org/&quot;&gt;So Kanno&lt;/a&gt; and &lt;a href=&quot;http://yang02.org/&quot;&gt;Takahiro Yamaguchi&lt;/a&gt; uses a double-pendulum to randomise its graphic output. Pretty awesome.&lt;/p&gt;
-
-&lt;h3&gt;Polargraph&lt;/h3&gt;
-
-&lt;iframe src=&quot;http://player.vimeo.com/video/24647023?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;500&quot; height=&quot;375&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
-
-
-&lt;iframe width=&quot;500&quot; height=&quot;339&quot; src=&quot;http://www.youtube.com/embed/UT8p1kLz8PI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-
-
-&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/user/euphyscott&quot;&gt;Euphyscott&lt;/a&gt; made this &lt;a href=&quot;http://www.polargraph.co.uk/&quot;&gt;polargraph&lt;/a&gt;. Although it&amp;#8217;s very slow in drawing these types of images, the end result is pretty neat. Also, bonus points for posting the code and detailed process descriptions on the &lt;a href=&quot;http://www.polargraph.co.uk/&quot;&gt;polargraph&amp;#8217;s website&lt;/a&gt; and on &lt;a href=&quot;http://www.instructables.com/id/Polargraph-Drawing-Machine/&quot;&gt;Instructables&lt;/a&gt;. You can also &lt;a href=&quot;http://www.polargraph.co.uk/build-or-buy-a-machine/&quot;&gt;buy some of the bits used&lt;/a&gt; to build your own from Euphyscott.&lt;/p&gt;
-
-&lt;h3&gt;Interactive Robotic Painting Machine&lt;/h3&gt;
-
-&lt;iframe src=&quot;http://player.vimeo.com/video/23998286&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
-
-
-&lt;p&gt;&lt;a href=&quot;http://bengrosser.com/&quot;&gt;Benjamin Grosser&lt;/a&gt;&amp;#8217;s &lt;a href=&quot;http://bengrosser.com/projects/interactive-robotic-painting-machine/&quot;&gt;creation&lt;/a&gt; listens to its surroundings and the sound input affects the decisions the AI makes in its painting process.&lt;/p&gt;
-
-&lt;h3&gt;Robo-rainbow&lt;/h3&gt;
-
-&lt;iframe src=&quot;http://player.vimeo.com/video/19374769?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
-
-
-&lt;p&gt;&lt;a href=&quot;http://www.akayism.org/&quot;&gt;Akay&lt;/a&gt;&amp;#8217;s robo-rainbow was featured in &lt;a href=&quot;http://www.wired.co.uk/news/archive/2011-02/02/robo-rainbow&quot;&gt;Wired&lt;/a&gt; last year:&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;p&gt;A small circuit board featuring radio-controlled servos from a toy car drives the solenoids attached to each spray can, which in turn apply pressure to the nozzles. Both the arm and the spray cans are controlled using toy car&amp;#8217;s radio controller, allowing the user to move the arm in a smooth arc while spraying with each of the six spray cans simultaneously, creating a large rainbow painting within seconds.&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;h3&gt;Pen plotter&lt;/h3&gt;
-
-&lt;object type=&quot;application/x-shockwave-flash&quot; width=&quot;500&quot; height=&quot;375&quot; data=&quot;http://www.flickr.com/apps/video/stewart.swf?v=109786&quot; classid=&quot;clsid:D27CDB6E-AE6D-11cf-96B8-444553540000&quot;&gt; &lt;param name=&quot;flashvars&quot; value=&quot;intl_lang=en-us&amp;photo_secret=3d4e830459&amp;photo_id=6295455826&quot;&gt;&lt;/param&gt; &lt;param name=&quot;movie&quot; value=&quot;http://www.flickr.com/apps/video/stewart.swf?v=109786&quot;&gt;&lt;/param&gt; &lt;param name=&quot;bgcolor&quot; value=&quot;#000000&quot;&gt;&lt;/param&gt; &lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;&gt;&lt;/param&gt;&lt;embed type=&quot;application/x-shockwave-flash&quot; src=&quot;http://www.flickr.com/apps/video/stewart.swf?v=109786&quot; bgcolor=&quot;#000000&quot; allowfullscreen=&quot;true&quot; flashvars=&quot;intl_lang=en-us&amp;photo_secret=3d4e830459&amp;photo_id=6295455826&quot; height=&quot;375&quot; width=&quot;500&quot;&gt;&lt;/embed&gt;&lt;/object&gt;
-
-
-&lt;p&gt;&lt;img src=&quot;http://farm7.staticflickr.com/6218/6294759696_7ed5be13f1.jpg&quot; alt=&quot;Pen plotter image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;And last but not least, my favourite, built by &lt;a href=&quot;http://interlockroc.org/author/berticus/&quot;&gt;Berticus&lt;/a&gt;. This &lt;a href=&quot;http://interlockroc.org/2011/10/30/barcamp-rochester/&quot;&gt;pen plotter&lt;/a&gt; traces input from the webcam to create some really awesome &lt;a href=&quot;http://www.flickr.com/photos/bert_m_b/sets/72157628015314436/with/6294759696/&quot;&gt;portraits&lt;/a&gt;. Just look at them!&lt;/p&gt;
-</content>
+&lt;p&gt;And last but not least, my favourite, built by &lt;a href=&#8217;http://interlockroc.org/author/berticus/&#8217;&gt;Berticus&lt;/a&gt;. This &lt;a href=&#8217;http://interlockroc.org/2011/10/30/barcamp-rochester/&#8217;&gt;pen plotter&lt;/a&gt; traces input from the webcam to create some really awesome &lt;a href=&#8217;http://www.flickr.com/photos/bert_m_b/sets/72157628015314436/with/6294759696/&#8217;&gt;portraits&lt;/a&gt;. Just look at them!&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -557,22 +539,10 @@
     <link href="http://ntlk.net/2012/01/14/olly-the-smelly-robot"/>
     <updated>2012-01-14T10:26:00+00:00</updated>
     <id>http://ntlk.net/2012/01/14/olly-the-smelly-robot</id>
-    <content type="html">&lt;iframe frameborder=&quot;0&quot; height=&quot;400px&quot; src=&quot;http://www.kickstarter.com/projects/1209578799/olly-the-web-connected-smelly-robot/widget/video.html&quot; width=&quot;500px&quot; style=&quot;margin-bottom: 0;&quot;&gt;&lt;/iframe&gt;
+    <content type="html">&lt;iframe frameborder=&#8217;0&#8217; height=&#8217;400px&#8217; src=&#8217;http://www.kickstarter.com/projects/1209578799/olly-the-web-connected-smelly-robot/widget/video.html&#8217; style=&#8217;margin-bottom: 0;&#8217; width=&#8217;500px&#8217;&gt;  &lt;/iframe&gt;
+&lt;p&gt;My lovely friends &lt;a href=&#8217;http://twitter.com/Bredford2&#8217;&gt;Ben Redford&lt;/a&gt; and &lt;a href=&#8217;http://www.ofmyownaccord.co.uk/&#8217;&gt;Chris Thomas&lt;/a&gt; have been working on this little bot at &lt;a href=&#8217;http://mintdigital.com/&#8217;&gt;Mint Digital&lt;/a&gt;. They&amp;#8217;ve even kept a &lt;a href=&#8217;http://foundry.mintdigital.com/&#8217;&gt;blog&lt;/a&gt; to document their explorations and process.&lt;/p&gt;
 
-
-&lt;p&gt;My lovely friends &lt;a href=&quot;http://twitter.com/Bredford2&quot;&gt;Ben Redford&lt;/a&gt; and &lt;a href=&quot;http://www.ofmyownaccord.co.uk/&quot;&gt;Chris Thomas&lt;/a&gt; have been working on this little bot at &lt;a href=&quot;http://mintdigital.com/&quot;&gt;Mint Digital&lt;/a&gt;. They&amp;#8217;ve even kept a &lt;a href=&quot;http://foundry.mintdigital.com/&quot;&gt;blog&lt;/a&gt; to document their explorations and process.&lt;/p&gt;
-
-&lt;p&gt;The project is now on Kickstarter, so if you like the idea of smelling your online notifications you should check out their &lt;a href=&quot;http://www.kickstarter.com/projects/1209578799/olly-the-web-connected-smelly-robot&quot;&gt;project page&lt;/a&gt;.&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>Discussing digital literacy on Techgrumps</title>
-    <link href="http://ntlk.net/2011/12/30/discussing-digital-literacy-on-techgrumps"/>
-    <updated>2011-12-30T18:27:00+00:00</updated>
-    <id>http://ntlk.net/2011/12/30/discussing-digital-literacy-on-techgrumps</id>
-    <content type="html">&lt;p&gt;Last night I was talking about teaching digital skills to kids with some very smart people on Techgrumps. You can find the podcast &lt;a href=&quot;https://techgrumps.wordpress.com/2011/12/29/techgrumps-51-noncomputing-for-generation-t/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</content>
+&lt;p&gt;The project is now on Kickstarter, so if you like the idea of smelling your online notifications you should check out their &lt;a href=&#8217;http://www.kickstarter.com/projects/1209578799/olly-the-web-connected-smelly-robot&#8217;&gt;project page&lt;/a&gt;.&lt;/p&gt;</content>
   </entry>
   
 </feed>

@@ -36,7 +36,7 @@ The most exciting space to watch right now is development of programming tools. 
 
 He spoke about it during a presentation he gave at [CUSEC 2012][9], and has shown a prototype of a tool that would make learning programming and creating with programming easier. To him it's about having a direct connection to your creation, and allowing yourself to discover things through this immediacy.
 
-<iframe src="http://player.vimeo.com/video/36579366?byline=0&amp;badge=0" width="600" height="337" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="http://player.vimeo.com/video/36579366?byline=0&amp;badge=0" width="600" height="337" frameborder="0">  </iframe>
 
 Having tools like this to show to beginners would be brilliant. Staring at code which you cannot understand can be intimidating in a way that playing with buttons, sliders and dials isn't. Modern electronic instruments make it easy to just pick them up and start playing with them even if you lack any music knowledge, modern programming tools should do the same.
 

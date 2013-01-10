@@ -29,7 +29,7 @@ Of course, conductive paint lends itself to so much more than cardmaking, which 
 
 [Antonio Gomes][5] made an interface that uses the paint and conductive gloves to control music.
 
-<iframe src="http://player.vimeo.com/video/45811285?title=0&amp;byline=0&amp;portrait=0&amp;badge=0" width="600" height="338" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="http://player.vimeo.com/video/45811285?title=0&amp;byline=0&amp;portrait=0&amp;badge=0" width="600" height="338" frameborder="0" >   </iframe>
 
 You can see more examples of some cool projects [here][4].
 

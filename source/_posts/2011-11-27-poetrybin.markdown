@@ -18,7 +18,7 @@ Internet identities were on my mind for a while. Most services we use require si
 
 Watch moot talk about these issues. He's really inspiring, and I completely agree with him: we need more choices in how our identities are represented.
 
-<iframe width="500" height="339" src="http://www.youtube.com/embed/nbPASJiAfu4" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="339" src="http://www.youtube.com/embed/nbPASJiAfu4" frameborder="0">  </iframe>
 
 
 I wish there were more spaces where you didn't have to create and maintain a persona. 4chan is just one example and I appreciate that some people may not like what goes on there. So in an attempt to redress the balance at least a tiny bit I made [Poetrybin][2].

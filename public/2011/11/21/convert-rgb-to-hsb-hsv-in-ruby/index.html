@@ -38,11 +38,10 @@
       <div class="post page">
         <div>
 <h3 class="date">November 21, 2011</h3>
-<p>I needed to convert RGB values into HSB. I found a very old gem, <a href="http://rubygems.org/gems/color-tools">colour-tools</a>, which sadly only converts to HSL. So I rewrote <a href="http://forums.devshed.com/c-programming-42/rgb-to-hsv-conversion-rountine-162526.html">Alvein&#8217;s C implementation</a> to calculate it in Ruby. Hope it saves someone time.</p>
+<p>I needed to convert RGB values into HSB. I found a very old gem, <a href='http://rubygems.org/gems/color-tools'>colour-tools</a>, which sadly only converts to HSL. So I rewrote <a href='http://forums.devshed.com/c-programming-42/rgb-to-hsv-conversion-rountine-162526.html'>Alvein&#8217;s C implementation</a> to calculate it in Ruby. Hope it saves someone time.</p>
 
 <p>Inputs: red, green and blue values as integers between 0 and 255. Outputs according to HSB convention: hue as degrees (up to 360), saturation and brightness as percentages.</p>
-
-<div><script src='https://gist.github.com/1383603.js?file='></script>
+<div><script src='https://gist.github.com/1383603.js?file=' />
 <noscript><pre><code># Input rgb values 1...255
 # based on http://forums.devshed.com/c-programming-42/rgb-to-hsv-conversion-rountine-162526.html
 
@@ -55,36 +54,32 @@ delta = max - min
 v = max * 100
 
 if (max != 0.0)
-    s = delta / max *100
+	s = delta / max *100
 else
-    s = 0.0
+	s = 0.0
 end
 
 if (s == 0.0) 
-    h = 0.0
+	h = 0.0
 else
-    if (r == max)
-        h = (g - b) / delta
-    elsif (g == max)
-        h = 2 + (b - r) / delta
-    elsif (b == max)
-        h = 4 + (r - g) / delta
-    end
+	if (r == max)
+		h = (g - b) / delta
+	elsif (g == max)
+		h = 2 + (b - r) / delta
+	elsif (b == max)
+		h = 4 + (r - g) / delta
+	end
 
-    h *= 60.0
-    
-    if (h &lt; 0)
-        h += 360.0
-    end
+	h *= 60.0
+	
+	if (h &lt; 0)
+		h += 360.0
+	end
 end
 
 # returns h in the range of 0..360 deg
 # s 0...100 
 # v 0...100</code></pre></noscript></div>
-
-
-
-
 
 <ul class="tags">
 

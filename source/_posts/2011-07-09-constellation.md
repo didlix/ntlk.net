@@ -7,7 +7,7 @@ tags:
 - installation
 ---
 
-<iframe width="500" height="314" src="http://www.youtube.com/embed/VRf7slf6XfY" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="314" src="http://www.youtube.com/embed/VRf7slf6XfY" frameborder="0">    </iframe>
 
 [Constellation][1] – a light installation by [WhiteVoid][2].
 

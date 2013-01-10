@@ -10,7 +10,7 @@ tags:
 - kickstarter
 - electronics
 ---
-<iframe frameborder="0" height="400px" src="http://www.kickstarter.com/projects/1209578799/olly-the-web-connected-smelly-robot/widget/video.html" width="500px" style="margin-bottom: 0;"></iframe>
+<iframe frameborder="0" height="400px" src="http://www.kickstarter.com/projects/1209578799/olly-the-web-connected-smelly-robot/widget/video.html" width="500px" style="margin-bottom: 0;">  </iframe>
 
 My lovely friends [Ben Redford][1] and [Chris Thomas][2] have been working on this little bot at [Mint Digital][4]. They've even kept a [blog][3] to document their explorations and process.
 
