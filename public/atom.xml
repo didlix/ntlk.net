@@ -4,13 +4,55 @@
   <title>ntlk&#8217;s blog</title>
   <link href="http://ntlk.net/atom.xml" rel="self"/>
   <link href="http://ntlk.net/"/>
-  <updated>2013-01-10T18:12:03+00:00</updated>
+  <updated>2013-03-10T12:50:41+00:00</updated>
   <id>http://ntlk.net/</id>
   <author>
     <name>ntlk</name>
     
   </author>
 
+  
+  <entry>
+    <title>No, let&#8217;s not stop the cyborgs</title>
+    <link href="http://ntlk.net/2013/03/10/no-lets-not-stop-the-cyborgs"/>
+    <updated>2013-03-10T12:45:00+00:00</updated>
+    <id>http://ntlk.net/2013/03/10/no-lets-not-stop-the-cyborgs</id>
+    <content type="html">&lt;p&gt;I found &lt;a href=&#8217;http://stopthecyborgs.org/&#8217;&gt;Stop The Cyborgs&lt;/a&gt; through someone on Twitter (I forget who). It&amp;#8217;s the &amp;#8220;official blog of the pro-human movement&amp;#8221;, &amp;#8220;fighting the algorithmic future one bit at a time&amp;#8221;.&lt;/p&gt;
+
+&lt;p&gt;Cyborg is &amp;#8220;a human who has certain physiological processes aided or controlled by mechanical or electronic devices&amp;#8221; (as defined in &lt;a href=&#8217;http://www.thefreedictionary.com/cyborg&#8217;&gt;The Free Dictionary&lt;/a&gt;). This includes people with &lt;a href=&#8217;https://en.wikipedia.org/wiki/Implantable_cardioverter-defibrillator&#8217;&gt;implantable cardioverter-defibrillators&lt;/a&gt;, &lt;a href=&#8217;https://en.wikipedia.org/wiki/Artificial_pacemaker&#8217;&gt;pacemakers&lt;/a&gt;, &lt;a href=&#8217;https://en.wikipedia.org/wiki/Cochlear_implant&#8217;&gt;cochlear implants&lt;/a&gt;, various &lt;a href=&#8217;http://en.wikipedia.org/wiki/Brain_implant&#8217;&gt;brain implants&lt;/a&gt;, &lt;a href=&#8217;http://en.wikipedia.org/wiki/Hip_replacement&#8217;&gt;hip replacement implants&lt;/a&gt; and other prosthetics. You probably know a few cyborgs, but I doubt you think of them as such. They&amp;#8217;re just your friends, family, coworkers, neighbours.&lt;/p&gt;
+
+&lt;p&gt;One of my best friends is a cyborg, and it helps her stay alive. By saying &amp;#8220;let&amp;#8217;s stop the cyborgs&amp;#8221; the &amp;#8220;pro-human movement&amp;#8221; is essentially saying to me that I should not be allowed the company of my close friend. The contributors to the blog acknowledge that there are different kinds of cyborgs, and especially those living with medical devices are not the problem, &lt;em&gt;until&lt;/em&gt; the devices themselves are networked:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;#8221;&lt;a href=&#8217;http://stopthecyborgs.org/2013/03/03/cyborgs-a-typology/&#8217;&gt;This type of cyborg is not a problem if it is not networked and hence not externally monitored and controlled&lt;/a&gt;&amp;#8221;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Guess what? Many of them are. I have seen life-saving devices that communicate via radio with diagnostic tools which can control them, and with networked stations that send data to the device manufacturer, who then shares some of it with the medical care provider. The wearer of the device has no control over this process, and doesn&amp;#8217;t necessarily know what data is being collected, shared, how and with whom.&lt;/p&gt;
+
+&lt;p&gt;This rhetoric of criticising cyborgs, rather than technologies themselves is not only not helpful, it&amp;#8217;s actually damaging. Healthy criticism and skepticism towards technologies and their impact on society is necessary, but framing it in a way that discredits all people with body and sense enhancing technologies is &lt;a href=&#8217;http://geekfeminism.wikia.com/wiki/Othering&#8217;&gt;othering&lt;/a&gt;. Yes, Stop The Cyborgs do so with caveats, but these aren&amp;#8217;t obvious. The title is Stop The Cyborgs, not Stop Technologies That May Have Really Bad Unforeseen Consequences That We Should All Worry About.&lt;/p&gt;
+
+&lt;p&gt;That&amp;#8217;s my main point — let&amp;#8217;s talk about how various uses of technologies can affect our society, but let&amp;#8217;s not shift the focus to &lt;em&gt;people&lt;/em&gt; who sometimes may have no real choice whether to accept these enhancements or not (it&amp;#8217;s not really a choice if not having an externally controlled pacemaker means a certain death for example). It&amp;#8217;s a bit like blaming foreigners for the failure of councils to increase capacity of systems to match population growth required to maintain cities.&lt;/p&gt;
+
+&lt;p&gt;It&amp;#8217;s also important to remember that technologies themselves aren&amp;#8217;t always ethically questionable. It&amp;#8217;s what we do with them that can be positive or contribute to suffering and misery. Sometimes the same technology can be used to help people and to simultaneously ruin lives for profit.&lt;/p&gt;
+
+&lt;p&gt;Cyborgs and algorithms aren&amp;#8217;t the problem, the problem is who has control over cybernetic systems and control over design and manufacture of technology that becomes pervasive. Many things that Stop The Cyborgs talk about worry me too, surveillance and privacy being the most pressing issue. Again, these concerns have less to do with people who are aided by technology, and more with political imbalance of power between the technology users and technology owners, who retain control over tools and systems and can use them to curtail freedoms and consolidate their existing powers.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <title>DIY games console</title>
+    <link href="http://ntlk.net/2013/02/08/diy-games-console"/>
+    <updated>2013-02-08T00:50:00+00:00</updated>
+    <id>http://ntlk.net/2013/02/08/diy-games-console</id>
+    <content type="html">&lt;p&gt;&lt;img alt=&#8217;Playing lo-fi Breakout&#8217; src=&#8217;http://farm9.staticflickr.com/8511/8453804291_26e2965046_z.jpg&#8217; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I got today one of &lt;a href=&#8217;http://hotchk155.blogspot.co.uk/&#8217;&gt;Jason&lt;/a&gt;&amp;#8217;s awesome &lt;a href=&#8217;http://tindie.com/shops/hotchk155/sixtyfourpixels-lo-fi-gamer-kit/&#8217;&gt;lo-fi games console kits&lt;/a&gt;. Each console is tiny (smaller than Raspberry Pi), has five push buttons and lets you play games on an 8 by 8 pixel screen. Brilliant.&lt;/p&gt;
+
+&lt;p&gt;You&amp;#8217;ve got to solder them together yourself, but they come pre-programmed with four games: Space Invaders, Breakout, Connect 4 and Simon Says type thing. You can &lt;a href=&#8217;http://github.com/hotchk155/AVRGame/wiki/Programming-The-Games&#8217;&gt;make your own games&lt;/a&gt; and program the chip using an FTDI cable.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&#8217;The lo-fi console kit&#8217; src=&#8217;http://farm9.staticflickr.com/8085/8453797977_a7605b555b_z.jpg&#8217; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There&amp;#8217;s an extensive &lt;a href=&#8217;http://github.com/hotchk155/AVRGame/wiki&#8217;&gt;wiki on GitHub&lt;/a&gt; to help you put it together, and of course &lt;a href=&#8217;http://github.com/hotchk155/AVRGame&#8217;&gt;the code is available there too&lt;/a&gt;. Now excuse me while I try to not lose all my lives in 30 seconds and shoot down all space invaders.&lt;/p&gt;</content>
+  </entry>
   
   <entry>
     <title>Photocommunicating</title>
@@ -481,68 +523,6 @@
 
 &lt;p&gt;I haven&amp;#8217;t worked with any arts organisations before, so it will be interesting to find out more about the work they do and how they do it. Lighthouse not only exhibits existing work, but also acts in a commissioning capacity, as well as doing administrative and supportive work that is largely hidden from public view. Any impact that this project will have on the way Lighthouse operates will be felt by many more organisations, so this is a brilliant opportunity to do something great… no pressure then!&lt;/p&gt;
 &lt;small&gt;Crossposted from the &lt;a href=&#8217;http://happenstanceproject.com/working-at-the-lighthouse/&#8217;&gt;Happenstance blog&lt;/a&gt;&lt;/small&gt;</content>
-  </entry>
-  
-  <entry>
-    <title>Drawing robots roundup</title>
-    <link href="http://ntlk.net/2012/01/15/drawing-robots-roundup"/>
-    <updated>2012-01-15T09:58:00+00:00</updated>
-    <id>http://ntlk.net/2012/01/15/drawing-robots-roundup</id>
-    <content type="html">&lt;p&gt;I intend to build a drawing robot soon as a part of a bigger project that will hopefully culminate in a short animation. I have just been given a broken HP Deskjet D4260 so I already have a few parts I might need. I am not yet fully decided on which approach to take, so here&amp;#8217;s a roundup of different drawing machines to inspire me.&lt;/p&gt;
-
-&lt;h3 id=&#8217;der_kritzler&#8217;&gt;Der Kritzler&lt;/h3&gt;
-&lt;iframe frameborder=&#8217;0&#8217; height=&#8217;281&#8217; src=&#8217;http://player.vimeo.com/video/28003302?title=0&amp;amp;byline=0&amp;amp;portrait=0&#8217; width=&#8217;500&#8217;&gt;  
-&lt;/iframe&gt;
-&lt;p&gt;Have I mentioned yet how much I love &lt;a href=&#8217;http://tinkerlog.com/&#8217;&gt;Alex Weber&amp;#8217;s projects&lt;/a&gt;? The one that led me to find his blog was &lt;a href=&#8217;http://tinkerlog.com/2011/09/02/der-kritzler/&#8217;&gt;Der Kritzler&lt;/a&gt; - a robot that draws on the windows. It uses a combination of &lt;a href=&#8217;http://www.processing.org/&#8217;&gt;Processing&lt;/a&gt;, &lt;a href=&#8217;http://www.imagemagick.org/script/index.php&#8217;&gt;ImageMagick&lt;/a&gt; and &lt;a href=&#8217;http://potrace.sourceforge.net/&#8217;&gt;Potrace&lt;/a&gt; to create the graphics and the movement of the bot itself is controlled by an Arduino. The device is suspended on notched tape which controls the movements.&lt;/p&gt;
-
-&lt;h3 id=&#8217;hektor&#8217;&gt;Hektor&lt;/h3&gt;
-&lt;iframe frameborder=&#8217;0&#8217; height=&#8217;375&#8217; src=&#8217;http://player.vimeo.com/video/15823044?title=0&amp;amp;byline=0&amp;amp;portrait=0&#8217; width=&#8217;500&#8217;&gt;  &lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&#8217;http://hektor.ch/&#8217;&gt;Hektor&lt;/a&gt; was the project that made me fall in love with physical hacking, it&amp;#8217;s the first one of its kind that I could find - built in 2002. It&amp;#8217;s a small portable spraypainting device that can cover a huge wall area, but packs away into a small suitcase. Its construction directly inspired Der Kritzler - the spraycan&amp;#8217;s movements are controlled by toothed belts.&lt;/p&gt;
-
-&lt;h3 id=&#8217;delta_robot&#8217;&gt;Delta Robot&lt;/h3&gt;
-&lt;iframe frameborder=&#8217;0&#8217; height=&#8217;375&#8217; src=&#8217;http://player.vimeo.com/video/25924581?title=0&amp;amp;byline=0&amp;amp;portrait=0&#8217; width=&#8217;500&#8217;&gt;  &lt;/iframe&gt;
-&lt;p&gt;Arduino-controlled suspended plotter. 3 arms are controlled by servos. I like this one a lot despite the lack of precision. Its creator, &lt;a href=&#8217;https://plus.google.com/117437757896877369617&#8217;&gt;Puiu Bogdan&lt;/a&gt;, &lt;a href=&#8217;http://arduino.cc/forum/index.php/topic,65561.0.html&#8217;&gt;explains&lt;/a&gt; that the concept itself results in very precise drawings, but his implementation still needs to be perfected. Since it took him 7 months to build this prototype I reckon it&amp;#8217;s a little too complicated for my purposes.&lt;/p&gt;
-
-&lt;h3 id=&#8217;3axis_servo_motor&#8217;&gt;3-Axis servo motor&lt;/h3&gt;
-&lt;iframe frameborder=&#8217;0&#8217; height=&#8217;339&#8217; src=&#8217;http://www.youtube.com/embed/v9x7Qdpp43M&#8217; width=&#8217;500&#8217;&gt;  &lt;/iframe&gt;
-&lt;p&gt;Definitely can&amp;#8217;t make anything similar as I intend to use mine at home, but &lt;a href=&#8217;http://www.embeddedtronics.com/uhuservo.html&#8217;&gt;this is cool&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#8217;senseless_drawing_robot&#8217;&gt;Senseless Drawing Robot&lt;/h3&gt;
-&lt;iframe frameborder=&#8217;0&#8217; height=&#8217;281&#8217; src=&#8217;http://player.vimeo.com/video/30780208?title=0&amp;amp;byline=0&amp;amp;portrait=0&#8217; width=&#8217;500&#8217;&gt;  &lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&#8217;http://thisisnotagraffiti.tumblr.com/&#8217;&gt;This bot&lt;/a&gt; built by &lt;a href=&#8217;http://kannoso.org/&#8217;&gt;So Kanno&lt;/a&gt; and &lt;a href=&#8217;http://yang02.org/&#8217;&gt;Takahiro Yamaguchi&lt;/a&gt; uses a double-pendulum to randomise its graphic output. Pretty awesome.&lt;/p&gt;
-
-&lt;h3 id=&#8217;polargraph&#8217;&gt;Polargraph&lt;/h3&gt;
-&lt;iframe frameborder=&#8217;0&#8217; height=&#8217;375&#8217; src=&#8217;http://player.vimeo.com/video/24647023?title=0&amp;amp;byline=0&amp;amp;portrait=0&#8217; width=&#8217;500&#8217;&gt;  &lt;/iframe&gt;&lt;iframe frameborder=&#8217;0&#8217; height=&#8217;339&#8217; src=&#8217;http://www.youtube.com/embed/UT8p1kLz8PI&#8217; width=&#8217;500&#8217;&gt;  &lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&#8217;http://www.youtube.com/user/euphyscott&#8217;&gt;Euphyscott&lt;/a&gt; made this &lt;a href=&#8217;http://www.polargraph.co.uk/&#8217;&gt;polargraph&lt;/a&gt;. Although it&amp;#8217;s very slow in drawing these types of images, the end result is pretty neat. Also, bonus points for posting the code and detailed process descriptions on the &lt;a href=&#8217;http://www.polargraph.co.uk/&#8217;&gt;polargraph&amp;#8217;s website&lt;/a&gt; and on &lt;a href=&#8217;http://www.instructables.com/id/Polargraph-Drawing-Machine/&#8217;&gt;Instructables&lt;/a&gt;. You can also &lt;a href=&#8217;http://www.polargraph.co.uk/build-or-buy-a-machine/&#8217;&gt;buy some of the bits used&lt;/a&gt; to build your own from Euphyscott.&lt;/p&gt;
-
-&lt;h3 id=&#8217;interactive_robotic_painting_machine&#8217;&gt;Interactive Robotic Painting Machine&lt;/h3&gt;
-&lt;iframe frameborder=&#8217;0&#8217; height=&#8217;281&#8217; src=&#8217;http://player.vimeo.com/video/23998286&#8217; width=&#8217;500&#8217;&gt;  &lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&#8217;http://bengrosser.com/&#8217;&gt;Benjamin Grosser&lt;/a&gt;&amp;#8217;s &lt;a href=&#8217;http://bengrosser.com/projects/interactive-robotic-painting-machine/&#8217;&gt;creation&lt;/a&gt; listens to its surroundings and the sound input affects the decisions the AI makes in its painting process.&lt;/p&gt;
-
-&lt;h3 id=&#8217;roborainbow&#8217;&gt;Robo-rainbow&lt;/h3&gt;
-&lt;iframe frameborder=&#8217;0&#8217; height=&#8217;281&#8217; src=&#8217;http://player.vimeo.com/video/19374769?title=0&amp;amp;byline=0&amp;amp;portrait=0&#8217; width=&#8217;500&#8217;&gt;  &lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&#8217;http://www.akayism.org/&#8217;&gt;Akay&lt;/a&gt;&amp;#8217;s robo-rainbow was featured in &lt;a href=&#8217;http://www.wired.co.uk/news/archive/2011-02/02/robo-rainbow&#8217;&gt;Wired&lt;/a&gt; last year:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;A small circuit board featuring radio-controlled servos from a toy car drives the solenoids attached to each spray can, which in turn apply pressure to the nozzles. Both the arm and the spray cans are controlled using toy car&amp;#8217;s radio controller, allowing the user to move the arm in a smooth arc while spraying with each of the six spray cans simultaneously, creating a large rainbow painting within seconds.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#8217;pen_plotter&#8217;&gt;Pen plotter&lt;/h3&gt;
-
-&lt;p&gt;&lt;img alt=&#8217;Pen plotter image&#8217; src=&#8217;http://farm7.staticflickr.com/6218/6294759696_7ed5be13f1.jpg&#8217; /&gt;&lt;/p&gt;
-
-&lt;p&gt;And last but not least, my favourite, built by &lt;a href=&#8217;http://interlockroc.org/author/berticus/&#8217;&gt;Berticus&lt;/a&gt;. This &lt;a href=&#8217;http://interlockroc.org/2011/10/30/barcamp-rochester/&#8217;&gt;pen plotter&lt;/a&gt; traces input from the webcam to create some really awesome &lt;a href=&#8217;http://www.flickr.com/photos/bert_m_b/sets/72157628015314436/with/6294759696/&#8217;&gt;portraits&lt;/a&gt;. Just look at them!&lt;/p&gt;</content>
-  </entry>
-  
-  <entry>
-    <title>Olly, the smelly robot</title>
-    <link href="http://ntlk.net/2012/01/14/olly-the-smelly-robot"/>
-    <updated>2012-01-14T10:26:00+00:00</updated>
-    <id>http://ntlk.net/2012/01/14/olly-the-smelly-robot</id>
-    <content type="html">&lt;iframe frameborder=&#8217;0&#8217; height=&#8217;400px&#8217; src=&#8217;http://www.kickstarter.com/projects/1209578799/olly-the-web-connected-smelly-robot/widget/video.html&#8217; style=&#8217;margin-bottom: 0;&#8217; width=&#8217;500px&#8217;&gt;  &lt;/iframe&gt;
-&lt;p&gt;My lovely friends &lt;a href=&#8217;http://twitter.com/Bredford2&#8217;&gt;Ben Redford&lt;/a&gt; and &lt;a href=&#8217;http://www.ofmyownaccord.co.uk/&#8217;&gt;Chris Thomas&lt;/a&gt; have been working on this little bot at &lt;a href=&#8217;http://mintdigital.com/&#8217;&gt;Mint Digital&lt;/a&gt;. They&amp;#8217;ve even kept a &lt;a href=&#8217;http://foundry.mintdigital.com/&#8217;&gt;blog&lt;/a&gt; to document their explorations and process.&lt;/p&gt;
-
-&lt;p&gt;The project is now on Kickstarter, so if you like the idea of smelling your online notifications you should check out their &lt;a href=&#8217;http://www.kickstarter.com/projects/1209578799/olly-the-web-connected-smelly-robot&#8217;&gt;project page&lt;/a&gt;.&lt;/p&gt;</content>
   </entry>
   
 </feed>
